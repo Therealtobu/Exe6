@@ -31527,9 +31527,9 @@ local function buildUI()
 	inst[2248].Parent = inst[2247]
 	inst[2249] = Instance.new('ImageButton')
 	inst[2249].Name = 'main_frame'
-	inst[2249].Size = UDim2.new(0, 900, 0, 500)
-	inst[2249].Position = UDim2.new(0.5, 0, 0.5, 0)
-	inst[2249].AnchorPoint = Vector2.new(0.5, 0.5)
+	inst[2249].Size = UDim2.new(1, 0, 1, 0)
+	inst[2249].Position = UDim2.new(0, 0, 0, 0)
+	inst[2249].AnchorPoint = Vector2.new(0, 0)
 	inst[2249].BackgroundColor3 = Color3.new(0.105882, 0.105882, 0.105882)
 	inst[2249].BackgroundTransparency = 1
 	inst[2249].BorderColor3 = Color3.new(0, 0, 0)
@@ -52765,10 +52765,6 @@ local function buildUI()
 	end
 	_build26()
 
-	local _noSel = Instance.new("ImageLabel")
-	_noSel.BackgroundTransparency = 1
-	_noSel.Image = ""
-	inst[1].SelectionImageObject = _noSel
 	inst[1].Parent = playerGui
 end
 
