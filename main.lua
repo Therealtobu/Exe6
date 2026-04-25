@@ -19,6 +19,5 @@ load("handlers/interface_handler.lua")
 load("handlers/modal_handler.lua")
 load("handlers/navigation_handler.lua")
 load("handlers/screen_handler.lua")
-load("handlers/default_commands.lua")
 
 print("[EXE6] Loaded successfully!")
