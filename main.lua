@@ -1,7 +1,7 @@
 -- EXE6 Main Entry (paste cái này vào executor)
 -- Thay BASE_URL bằng raw GitHub URL của repo bạn
 
-local BASE_URL = "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/EXE6/"
+local BASE_URL = "https://github.com/Therealtobu/Exe6/tree/main"
 
 local function load(file)
 	local ok, result = pcall(function()
