@@ -1,11 +1,15 @@
 local BASE_URL = "https://raw.githubusercontent.com/Therealtobu/Exe6/main/"
 
 local function load(file)
-    local ok, result = pcall(function()
-        return loadstring(game:HttpGet(BASE_URL .. file))()
-    end)
+    local content = game:HttpGet(BASE_URL .. file)
+    local fn, err = loadstring(content)
+    if not fn then
+        warn("[EXE6] Compile error in " .. file .. ": " .. tostring(err))
+        return
+    end
+    local ok, result = pcall(fn)
     if not ok then
-        warn("[EXE6] Failed to load " .. file .. ": " .. tostring(result))
+        warn("[EXE6] Runtime error in " .. file .. ": " .. tostring(result))
     end
 end
 
