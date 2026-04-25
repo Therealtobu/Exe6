@@ -228,7 +228,7 @@ local function buildUI()
 	inst[18].Rotation = 0
 	inst[18].AutomaticSize = Enum.AutomaticSize.XY
 	inst[18].LayoutOrder = 0
-	inst[18].Active = true
+	inst[18].Active = false
 	inst[18].Selectable = false
 	inst[18].ZIndex = 1
 	inst[18].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -538,7 +538,7 @@ local function buildUI()
 	inst[40].Rotation = 0
 	inst[40].AutomaticSize = Enum.AutomaticSize.None
 	inst[40].LayoutOrder = 0
-	inst[40].Active = true
+	inst[40].Active = false
 	inst[40].Selectable = false
 	inst[40].ZIndex = 1
 	inst[40].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -582,7 +582,7 @@ local function buildUI()
 	inst[44].Rotation = 0
 	inst[44].AutomaticSize = Enum.AutomaticSize.None
 	inst[44].LayoutOrder = 0
-	inst[44].Active = true
+	inst[44].Active = false
 	inst[44].Selectable = false
 	inst[44].ZIndex = 0
 	inst[44].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -610,7 +610,7 @@ local function buildUI()
 	inst[45].Rotation = 0
 	inst[45].AutomaticSize = Enum.AutomaticSize.None
 	inst[45].LayoutOrder = 0
-	inst[45].Active = true
+	inst[45].Active = false
 	inst[45].Selectable = false
 	inst[45].ZIndex = 1
 	inst[45].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -664,7 +664,7 @@ local function buildUI()
 	inst[49].Rotation = 0
 	inst[49].AutomaticSize = Enum.AutomaticSize.None
 	inst[49].LayoutOrder = 0
-	inst[49].Active = true
+	inst[49].Active = false
 	inst[49].Selectable = false
 	inst[49].ZIndex = 1
 	inst[49].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -1091,7 +1091,7 @@ local function buildUI()
 	inst[75].Rotation = 0
 	inst[75].AutomaticSize = Enum.AutomaticSize.None
 	inst[75].LayoutOrder = 2
-	inst[75].Active = true
+	inst[75].Active = false
 	inst[75].Selectable = false
 	inst[75].ZIndex = 5
 	inst[75].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -1227,7 +1227,7 @@ local function buildUI()
 	inst[87].Rotation = 0
 	inst[87].AutomaticSize = Enum.AutomaticSize.None
 	inst[87].LayoutOrder = 2
-	inst[87].Active = true
+	inst[87].Active = false
 	inst[87].Selectable = false
 	inst[87].ZIndex = 1
 	inst[87].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -1296,7 +1296,7 @@ local function buildUI()
 	inst[92].Rotation = 0
 	inst[92].AutomaticSize = Enum.AutomaticSize.X
 	inst[92].LayoutOrder = 1
-	inst[92].Active = true
+	inst[92].Active = false
 	inst[92].Selectable = false
 	inst[92].ZIndex = 1
 	inst[92].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -1571,7 +1571,7 @@ local function buildUI()
 	inst[112].Rotation = 0
 	inst[112].AutomaticSize = Enum.AutomaticSize.None
 	inst[112].LayoutOrder = 0
-	inst[112].Active = true
+	inst[112].Active = false
 	inst[112].Selectable = false
 	inst[112].ZIndex = 2
 	inst[112].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -1597,7 +1597,7 @@ local function buildUI()
 	inst[113].Rotation = 0
 	inst[113].AutomaticSize = Enum.AutomaticSize.None
 	inst[113].LayoutOrder = 0
-	inst[113].Active = true
+	inst[113].Active = false
 	inst[113].Selectable = false
 	inst[113].ZIndex = 1
 	inst[113].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -1651,7 +1651,7 @@ local function buildUI()
 	inst[117].Rotation = 0
 	inst[117].AutomaticSize = Enum.AutomaticSize.None
 	inst[117].LayoutOrder = 0
-	inst[117].Active = true
+	inst[117].Active = false
 	inst[117].Selectable = false
 	inst[117].ZIndex = 1
 	inst[117].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -1748,7 +1748,7 @@ local function buildUI()
 	inst[125].Rotation = 0
 	inst[125].AutomaticSize = Enum.AutomaticSize.X
 	inst[125].LayoutOrder = 1
-	inst[125].Active = true
+	inst[125].Active = false
 	inst[125].Selectable = false
 	inst[125].ZIndex = 1
 	inst[125].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -1849,7 +1849,7 @@ local function buildUI()
 	inst[132].Rotation = 0
 	inst[132].AutomaticSize = Enum.AutomaticSize.X
 	inst[132].LayoutOrder = 2
-	inst[132].Active = true
+	inst[132].Active = false
 	inst[132].Selectable = false
 	inst[132].ZIndex = 1
 	inst[132].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -1950,7 +1950,7 @@ local function buildUI()
 	inst[139].Rotation = 0
 	inst[139].AutomaticSize = Enum.AutomaticSize.X
 	inst[139].LayoutOrder = 3
-	inst[139].Active = true
+	inst[139].Active = false
 	inst[139].Selectable = false
 	inst[139].ZIndex = 1
 	inst[139].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -2058,7 +2058,7 @@ local function buildUI()
 	inst[147].Rotation = 0
 	inst[147].AutomaticSize = Enum.AutomaticSize.X
 	inst[147].LayoutOrder = 4
-	inst[147].Active = true
+	inst[147].Active = false
 	inst[147].Selectable = false
 	inst[147].ZIndex = 1
 	inst[147].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -2264,7 +2264,7 @@ local function buildUI()
 	inst[162].Rotation = 0
 	inst[162].AutomaticSize = Enum.AutomaticSize.None
 	inst[162].LayoutOrder = 3
-	inst[162].Active = true
+	inst[162].Active = false
 	inst[162].Selectable = false
 	inst[162].ZIndex = 1
 	inst[162].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -2394,7 +2394,7 @@ local function buildUI()
 	inst[171].Rotation = 0
 	inst[171].AutomaticSize = Enum.AutomaticSize.None
 	inst[171].LayoutOrder = 4
-	inst[171].Active = true
+	inst[171].Active = false
 	inst[171].Selectable = false
 	inst[171].ZIndex = 1
 	inst[171].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -2516,7 +2516,7 @@ local function buildUI()
 	inst[179].Rotation = 0
 	inst[179].AutomaticSize = Enum.AutomaticSize.None
 	inst[179].LayoutOrder = 1
-	inst[179].Active = true
+	inst[179].Active = false
 	inst[179].Selectable = false
 	inst[179].ZIndex = 1
 	inst[179].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -2638,7 +2638,7 @@ local function buildUI()
 	inst[187].Rotation = 0
 	inst[187].AutomaticSize = Enum.AutomaticSize.None
 	inst[187].LayoutOrder = 2
-	inst[187].Active = true
+	inst[187].Active = false
 	inst[187].Selectable = false
 	inst[187].ZIndex = 1
 	inst[187].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -2823,7 +2823,7 @@ local function buildUI()
 	inst[200].Rotation = 0
 	inst[200].AutomaticSize = Enum.AutomaticSize.None
 	inst[200].LayoutOrder = 1
-	inst[200].Active = true
+	inst[200].Active = false
 	inst[200].Selectable = false
 	inst[200].ZIndex = 1
 	inst[200].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -3033,7 +3033,7 @@ local function buildUI()
 	inst[214].Rotation = 0
 	inst[214].AutomaticSize = Enum.AutomaticSize.None
 	inst[214].LayoutOrder = 1
-	inst[214].Active = true
+	inst[214].Active = false
 	inst[214].Selectable = false
 	inst[214].ZIndex = 1
 	inst[214].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -3123,7 +3123,7 @@ local function buildUI()
 	inst[220].Rotation = 0
 	inst[220].AutomaticSize = Enum.AutomaticSize.None
 	inst[220].LayoutOrder = 2
-	inst[220].Active = true
+	inst[220].Active = false
 	inst[220].ZIndex = 1
 	inst[220].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[220].Text = ''
@@ -3178,7 +3178,7 @@ local function buildUI()
 	inst[226].Rotation = 0
 	inst[226].AutomaticSize = Enum.AutomaticSize.None
 	inst[226].LayoutOrder = 2
-	inst[226].Active = true
+	inst[226].Active = false
 	inst[226].Selectable = false
 	inst[226].ZIndex = 1
 	inst[226].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -3269,7 +3269,7 @@ local function buildUI()
 	inst[232].Rotation = 0
 	inst[232].AutomaticSize = Enum.AutomaticSize.None
 	inst[232].LayoutOrder = 2
-	inst[232].Active = true
+	inst[232].Active = false
 	inst[232].ZIndex = 1
 	inst[232].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[232].Text = ''
@@ -3323,7 +3323,7 @@ local function buildUI()
 	inst[238].Rotation = 0
 	inst[238].AutomaticSize = Enum.AutomaticSize.None
 	inst[238].LayoutOrder = 3
-	inst[238].Active = true
+	inst[238].Active = false
 	inst[238].Selectable = false
 	inst[238].ZIndex = 1
 	inst[238].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -3414,7 +3414,7 @@ local function buildUI()
 	inst[244].Rotation = 0
 	inst[244].AutomaticSize = Enum.AutomaticSize.None
 	inst[244].LayoutOrder = 2
-	inst[244].Active = true
+	inst[244].Active = false
 	inst[244].ZIndex = 1
 	inst[244].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[244].Text = ''
@@ -3532,7 +3532,7 @@ local function buildUI()
 	inst[255].Rotation = 0
 	inst[255].AutomaticSize = Enum.AutomaticSize.None
 	inst[255].LayoutOrder = 1
-	inst[255].Active = true
+	inst[255].Active = false
 	inst[255].Selectable = false
 	inst[255].ZIndex = 1
 	inst[255].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -3630,7 +3630,7 @@ local function buildUI()
 	inst[262].Rotation = 0
 	inst[262].AutomaticSize = Enum.AutomaticSize.None
 	inst[262].LayoutOrder = 2
-	inst[262].Active = true
+	inst[262].Active = false
 	inst[262].Selectable = false
 	inst[262].ZIndex = 1
 	inst[262].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -3728,7 +3728,7 @@ local function buildUI()
 	inst[269].Rotation = 0
 	inst[269].AutomaticSize = Enum.AutomaticSize.None
 	inst[269].LayoutOrder = 3
-	inst[269].Active = true
+	inst[269].Active = false
 	inst[269].Selectable = false
 	inst[269].ZIndex = 1
 	inst[269].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -3826,7 +3826,7 @@ local function buildUI()
 	inst[276].Rotation = 0
 	inst[276].AutomaticSize = Enum.AutomaticSize.None
 	inst[276].LayoutOrder = 4
-	inst[276].Active = true
+	inst[276].Active = false
 	inst[276].Selectable = false
 	inst[276].ZIndex = 1
 	inst[276].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -3924,7 +3924,7 @@ local function buildUI()
 	inst[283].Rotation = 0
 	inst[283].AutomaticSize = Enum.AutomaticSize.None
 	inst[283].LayoutOrder = 6
-	inst[283].Active = true
+	inst[283].Active = false
 	inst[283].Selectable = false
 	inst[283].ZIndex = 1
 	inst[283].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -4022,7 +4022,7 @@ local function buildUI()
 	inst[290].Rotation = 0
 	inst[290].AutomaticSize = Enum.AutomaticSize.None
 	inst[290].LayoutOrder = 5
-	inst[290].Active = true
+	inst[290].Active = false
 	inst[290].Selectable = false
 	inst[290].ZIndex = 1
 	inst[290].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -4120,7 +4120,7 @@ local function buildUI()
 	inst[297].Rotation = 0
 	inst[297].AutomaticSize = Enum.AutomaticSize.None
 	inst[297].LayoutOrder = 11
-	inst[297].Active = true
+	inst[297].Active = false
 	inst[297].Selectable = false
 	inst[297].ZIndex = 1
 	inst[297].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -4222,7 +4222,7 @@ local function buildUI()
 	inst[304].Rotation = 0
 	inst[304].AutomaticSize = Enum.AutomaticSize.None
 	inst[304].LayoutOrder = 12
-	inst[304].Active = true
+	inst[304].Active = false
 	inst[304].Selectable = false
 	inst[304].ZIndex = 1
 	inst[304].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -4320,7 +4320,7 @@ local function buildUI()
 	inst[311].Rotation = 0
 	inst[311].AutomaticSize = Enum.AutomaticSize.None
 	inst[311].LayoutOrder = 13
-	inst[311].Active = true
+	inst[311].Active = false
 	inst[311].Selectable = false
 	inst[311].ZIndex = 1
 	inst[311].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -4418,7 +4418,7 @@ local function buildUI()
 	inst[318].Rotation = 0
 	inst[318].AutomaticSize = Enum.AutomaticSize.None
 	inst[318].LayoutOrder = 7
-	inst[318].Active = true
+	inst[318].Active = false
 	inst[318].Selectable = false
 	inst[318].ZIndex = 1
 	inst[318].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -4516,7 +4516,7 @@ local function buildUI()
 	inst[325].Rotation = 0
 	inst[325].AutomaticSize = Enum.AutomaticSize.None
 	inst[325].LayoutOrder = 8
-	inst[325].Active = true
+	inst[325].Active = false
 	inst[325].Selectable = false
 	inst[325].ZIndex = 1
 	inst[325].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -4614,7 +4614,7 @@ local function buildUI()
 	inst[332].Rotation = 0
 	inst[332].AutomaticSize = Enum.AutomaticSize.None
 	inst[332].LayoutOrder = 9
-	inst[332].Active = true
+	inst[332].Active = false
 	inst[332].Selectable = false
 	inst[332].ZIndex = 1
 	inst[332].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -4712,7 +4712,7 @@ local function buildUI()
 	inst[339].Rotation = 0
 	inst[339].AutomaticSize = Enum.AutomaticSize.None
 	inst[339].LayoutOrder = 10
-	inst[339].Active = true
+	inst[339].Active = false
 	inst[339].Selectable = false
 	inst[339].ZIndex = 1
 	inst[339].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -4873,7 +4873,7 @@ local function buildUI()
 	inst[351].Rotation = 0
 	inst[351].AutomaticSize = Enum.AutomaticSize.None
 	inst[351].LayoutOrder = 2
-	inst[351].Active = true
+	inst[351].Active = false
 	inst[351].Selectable = false
 	inst[351].ZIndex = 1
 	inst[351].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -4995,7 +4995,7 @@ local function buildUI()
 	inst[359].Rotation = 0
 	inst[359].AutomaticSize = Enum.AutomaticSize.None
 	inst[359].LayoutOrder = 3
-	inst[359].Active = true
+	inst[359].Active = false
 	inst[359].Selectable = false
 	inst[359].ZIndex = 1
 	inst[359].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -5117,7 +5117,7 @@ local function buildUI()
 	inst[367].Rotation = 0
 	inst[367].AutomaticSize = Enum.AutomaticSize.None
 	inst[367].LayoutOrder = 1
-	inst[367].Active = true
+	inst[367].Active = false
 	inst[367].Selectable = false
 	inst[367].ZIndex = 1
 	inst[367].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -5427,7 +5427,7 @@ local function buildUI()
 	inst[388].Rotation = 0
 	inst[388].AutomaticSize = Enum.AutomaticSize.None
 	inst[388].LayoutOrder = 5
-	inst[388].Active = true
+	inst[388].Active = false
 	inst[388].Selectable = false
 	inst[388].ZIndex = 5
 	inst[388].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -5518,7 +5518,7 @@ local function buildUI()
 	inst[395].Rotation = 0
 	inst[395].AutomaticSize = Enum.AutomaticSize.None
 	inst[395].LayoutOrder = 0
-	inst[395].Active = true
+	inst[395].Active = false
 	inst[395].Selectable = false
 	inst[395].ZIndex = 1
 	inst[395].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -5544,7 +5544,7 @@ local function buildUI()
 	inst[396].Rotation = 0
 	inst[396].AutomaticSize = Enum.AutomaticSize.None
 	inst[396].LayoutOrder = 0
-	inst[396].Active = true
+	inst[396].Active = false
 	inst[396].Selectable = false
 	inst[396].ZIndex = 1
 	inst[396].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -5615,7 +5615,7 @@ local function buildUI()
 	inst[401].Rotation = 0
 	inst[401].AutomaticSize = Enum.AutomaticSize.None
 	inst[401].LayoutOrder = 0
-	inst[401].Active = true
+	inst[401].Active = false
 	inst[401].Selectable = false
 	inst[401].ZIndex = 1
 	inst[401].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -5645,7 +5645,7 @@ local function buildUI()
 	inst[403].Rotation = 0
 	inst[403].AutomaticSize = Enum.AutomaticSize.None
 	inst[403].LayoutOrder = 0
-	inst[403].Active = true
+	inst[403].Active = false
 	inst[403].Selectable = false
 	inst[403].ZIndex = 1
 	inst[403].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -5743,7 +5743,7 @@ local function buildUI()
 	inst[410].Rotation = 0
 	inst[410].AutomaticSize = Enum.AutomaticSize.None
 	inst[410].LayoutOrder = 2
-	inst[410].Active = true
+	inst[410].Active = false
 	inst[410].Selectable = false
 	inst[410].ZIndex = 5
 	inst[410].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -5834,7 +5834,7 @@ local function buildUI()
 	inst[416].Rotation = 0
 	inst[416].AutomaticSize = Enum.AutomaticSize.None
 	inst[416].LayoutOrder = 0
-	inst[416].Active = true
+	inst[416].Active = false
 	inst[416].Selectable = false
 	inst[416].ZIndex = 1
 	inst[416].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -5876,7 +5876,7 @@ local function buildUI()
 	inst[418].Rotation = 0
 	inst[418].AutomaticSize = Enum.AutomaticSize.X
 	inst[418].LayoutOrder = 0
-	inst[418].Active = true
+	inst[418].Active = false
 	inst[418].ZIndex = 1
 	inst[418].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[418].Text = 'Back'
@@ -5940,7 +5940,7 @@ local function buildUI()
 	inst[423].Rotation = 0
 	inst[423].AutomaticSize = Enum.AutomaticSize.None
 	inst[423].LayoutOrder = 0
-	inst[423].Active = true
+	inst[423].Active = false
 	inst[423].Selectable = false
 	inst[423].ZIndex = 1
 	inst[423].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -6112,7 +6112,7 @@ local function buildUI()
 	inst[434].Rotation = 0
 	inst[434].AutomaticSize = Enum.AutomaticSize.None
 	inst[434].LayoutOrder = 1
-	inst[434].Active = true
+	inst[434].Active = false
 	inst[434].Selectable = false
 	inst[434].ZIndex = 1
 	inst[434].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -6163,7 +6163,7 @@ local function buildUI()
 	inst[439].Rotation = 0
 	inst[439].AutomaticSize = Enum.AutomaticSize.None
 	inst[439].LayoutOrder = 2
-	inst[439].Active = true
+	inst[439].Active = false
 	inst[439].Selectable = false
 	inst[439].ZIndex = 1
 	inst[439].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -6245,7 +6245,7 @@ local function buildUI()
 	inst[446].Rotation = 0
 	inst[446].AutomaticSize = Enum.AutomaticSize.None
 	inst[446].LayoutOrder = 0
-	inst[446].Active = true
+	inst[446].Active = false
 	inst[446].ZIndex = 1
 	inst[446].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[446].Image = ''
@@ -6359,7 +6359,7 @@ local function buildUI()
 	inst[454].Rotation = 0
 	inst[454].AutomaticSize = Enum.AutomaticSize.Y
 	inst[454].LayoutOrder = 3
-	inst[454].Active = true
+	inst[454].Active = false
 	inst[454].Selectable = false
 	inst[454].ZIndex = 1
 	inst[454].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -6468,7 +6468,7 @@ local function buildUI()
 	inst[462].Rotation = 0
 	inst[462].AutomaticSize = Enum.AutomaticSize.None
 	inst[462].LayoutOrder = 0
-	inst[462].Active = true
+	inst[462].Active = false
 	inst[462].ZIndex = 1
 	inst[462].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[462].Image = ''
@@ -6582,7 +6582,7 @@ local function buildUI()
 	inst[470].Rotation = 0
 	inst[470].AutomaticSize = Enum.AutomaticSize.Y
 	inst[470].LayoutOrder = 3
-	inst[470].Active = true
+	inst[470].Active = false
 	inst[470].Selectable = false
 	inst[470].ZIndex = 1
 	inst[470].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -6658,7 +6658,7 @@ local function buildUI()
 	inst[476].Rotation = 0
 	inst[476].AutomaticSize = Enum.AutomaticSize.None
 	inst[476].LayoutOrder = 0
-	inst[476].Active = true
+	inst[476].Active = false
 	inst[476].Selectable = false
 	inst[476].ZIndex = 1
 	inst[476].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -6736,7 +6736,7 @@ local function buildUI()
 	inst[481].Rotation = 0
 	inst[481].AutomaticSize = Enum.AutomaticSize.Y
 	inst[481].LayoutOrder = 3
-	inst[481].Active = true
+	inst[481].Active = false
 	inst[481].Selectable = false
 	inst[481].ZIndex = 1
 	inst[481].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -6879,7 +6879,7 @@ local function buildUI()
 	inst[489].Rotation = 0
 	inst[489].AutomaticSize = Enum.AutomaticSize.None
 	inst[489].LayoutOrder = 0
-	inst[489].Active = true
+	inst[489].Active = false
 	inst[489].ZIndex = 1
 	inst[489].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[489].Image = ''
@@ -6911,7 +6911,7 @@ local function buildUI()
 	inst[491].Rotation = 0
 	inst[491].AutomaticSize = Enum.AutomaticSize.Y
 	inst[491].LayoutOrder = 1
-	inst[491].Active = true
+	inst[491].Active = false
 	inst[491].Selectable = false
 	inst[491].ZIndex = 1
 	inst[491].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -7054,7 +7054,7 @@ local function buildUI()
 	inst[499].Rotation = 0
 	inst[499].AutomaticSize = Enum.AutomaticSize.None
 	inst[499].LayoutOrder = 0
-	inst[499].Active = true
+	inst[499].Active = false
 	inst[499].ZIndex = 1
 	inst[499].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[499].Image = ''
@@ -7079,7 +7079,7 @@ local function buildUI()
 	inst[500].Rotation = 0
 	inst[500].AutomaticSize = Enum.AutomaticSize.Y
 	inst[500].LayoutOrder = 2
-	inst[500].Active = true
+	inst[500].Active = false
 	inst[500].Selectable = false
 	inst[500].ZIndex = 1
 	inst[500].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -7223,7 +7223,7 @@ local function buildUI()
 	inst[508].Rotation = 0
 	inst[508].AutomaticSize = Enum.AutomaticSize.None
 	inst[508].LayoutOrder = 0
-	inst[508].Active = true
+	inst[508].Active = false
 	inst[508].Selectable = false
 	inst[508].ZIndex = 1
 	inst[508].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -7265,7 +7265,7 @@ local function buildUI()
 	inst[510].Rotation = 0
 	inst[510].AutomaticSize = Enum.AutomaticSize.X
 	inst[510].LayoutOrder = 0
-	inst[510].Active = true
+	inst[510].Active = false
 	inst[510].ZIndex = 1
 	inst[510].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[510].Text = 'Ban'
@@ -7303,7 +7303,7 @@ local function buildUI()
 	inst[513].Rotation = 0
 	inst[513].AutomaticSize = Enum.AutomaticSize.X
 	inst[513].LayoutOrder = 0
-	inst[513].Active = true
+	inst[513].Active = false
 	inst[513].ZIndex = 1
 	inst[513].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[513].Text = 'Manage Players'
@@ -7585,7 +7585,7 @@ local function buildUI()
 	inst[535].Rotation = 0
 	inst[535].AutomaticSize = Enum.AutomaticSize.None
 	inst[535].LayoutOrder = 2
-	inst[535].Active = true
+	inst[535].Active = false
 	inst[535].Selectable = false
 	inst[535].ZIndex = 5
 	inst[535].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -7643,7 +7643,7 @@ local function buildUI()
 	inst[539].Rotation = 0
 	inst[539].AutomaticSize = Enum.AutomaticSize.None
 	inst[539].LayoutOrder = 1
-	inst[539].Active = true
+	inst[539].Active = false
 	inst[539].Selectable = false
 	inst[539].ZIndex = 5
 	inst[539].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -7735,7 +7735,7 @@ local function buildUI()
 	inst[546].Rotation = 0
 	inst[546].AutomaticSize = Enum.AutomaticSize.None
 	inst[546].LayoutOrder = 0
-	inst[546].Active = true
+	inst[546].Active = false
 	inst[546].Selectable = false
 	inst[546].ZIndex = 1
 	inst[546].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -7761,7 +7761,7 @@ local function buildUI()
 	inst[547].Rotation = 0
 	inst[547].AutomaticSize = Enum.AutomaticSize.None
 	inst[547].LayoutOrder = 0
-	inst[547].Active = true
+	inst[547].Active = false
 	inst[547].Selectable = false
 	inst[547].ZIndex = 1
 	inst[547].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -7832,7 +7832,7 @@ local function buildUI()
 	inst[552].Rotation = 0
 	inst[552].AutomaticSize = Enum.AutomaticSize.None
 	inst[552].LayoutOrder = 0
-	inst[552].Active = true
+	inst[552].Active = false
 	inst[552].Selectable = false
 	inst[552].ZIndex = 1
 	inst[552].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -7862,7 +7862,7 @@ local function buildUI()
 	inst[554].Rotation = 0
 	inst[554].AutomaticSize = Enum.AutomaticSize.None
 	inst[554].LayoutOrder = 0
-	inst[554].Active = true
+	inst[554].Active = false
 	inst[554].Selectable = false
 	inst[554].ZIndex = 1
 	inst[554].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -7960,7 +7960,7 @@ local function buildUI()
 	inst[561].Rotation = 0
 	inst[561].AutomaticSize = Enum.AutomaticSize.None
 	inst[561].LayoutOrder = 2
-	inst[561].Active = true
+	inst[561].Active = false
 	inst[561].Selectable = false
 	inst[561].ZIndex = 5
 	inst[561].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -8051,7 +8051,7 @@ local function buildUI()
 	inst[567].Rotation = 0
 	inst[567].AutomaticSize = Enum.AutomaticSize.None
 	inst[567].LayoutOrder = 0
-	inst[567].Active = true
+	inst[567].Active = false
 	inst[567].Selectable = false
 	inst[567].ZIndex = 1
 	inst[567].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -8093,7 +8093,7 @@ local function buildUI()
 	inst[569].Rotation = 0
 	inst[569].AutomaticSize = Enum.AutomaticSize.X
 	inst[569].LayoutOrder = 0
-	inst[569].Active = true
+	inst[569].Active = false
 	inst[569].ZIndex = 1
 	inst[569].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[569].Text = 'Back'
@@ -8157,7 +8157,7 @@ local function buildUI()
 	inst[574].Rotation = 0
 	inst[574].AutomaticSize = Enum.AutomaticSize.None
 	inst[574].LayoutOrder = 0
-	inst[574].Active = true
+	inst[574].Active = false
 	inst[574].Selectable = false
 	inst[574].ZIndex = 1
 	inst[574].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -8283,7 +8283,7 @@ local function buildUI()
 	inst[584].Rotation = 0
 	inst[584].AutomaticSize = Enum.AutomaticSize.Y
 	inst[584].LayoutOrder = 3
-	inst[584].Active = true
+	inst[584].Active = false
 	inst[584].Selectable = false
 	inst[584].ZIndex = 1
 	inst[584].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -8363,7 +8363,7 @@ local function buildUI()
 	inst[590].Rotation = 0
 	inst[590].AutomaticSize = Enum.AutomaticSize.None
 	inst[590].LayoutOrder = 0
-	inst[590].Active = true
+	inst[590].Active = false
 	inst[590].Selectable = false
 	inst[590].ZIndex = 1
 	inst[590].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -8448,7 +8448,7 @@ local function buildUI()
 	inst[596].Rotation = 0
 	inst[596].AutomaticSize = Enum.AutomaticSize.Y
 	inst[596].LayoutOrder = 2
-	inst[596].Active = true
+	inst[596].Active = false
 	inst[596].Selectable = false
 	inst[596].ZIndex = 1
 	inst[596].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -8591,7 +8591,7 @@ local function buildUI()
 	inst[604].Rotation = 0
 	inst[604].AutomaticSize = Enum.AutomaticSize.None
 	inst[604].LayoutOrder = 0
-	inst[604].Active = true
+	inst[604].Active = false
 	inst[604].ZIndex = 1
 	inst[604].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[604].Image = ''
@@ -8616,7 +8616,7 @@ local function buildUI()
 	inst[605].Rotation = 0
 	inst[605].AutomaticSize = Enum.AutomaticSize.None
 	inst[605].LayoutOrder = 0
-	inst[605].Active = true
+	inst[605].Active = false
 	inst[605].Selectable = false
 	inst[605].ZIndex = 1
 	inst[605].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -8658,7 +8658,7 @@ local function buildUI()
 	inst[607].Rotation = 0
 	inst[607].AutomaticSize = Enum.AutomaticSize.X
 	inst[607].LayoutOrder = 0
-	inst[607].Active = true
+	inst[607].Active = false
 	inst[607].ZIndex = 1
 	inst[607].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[607].Text = 'Kick'
@@ -8696,7 +8696,7 @@ local function buildUI()
 	inst[610].Rotation = 0
 	inst[610].AutomaticSize = Enum.AutomaticSize.X
 	inst[610].LayoutOrder = 0
-	inst[610].Active = true
+	inst[610].Active = false
 	inst[610].ZIndex = 1
 	inst[610].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[610].Text = 'Manage Players'
@@ -8978,7 +8978,7 @@ local function buildUI()
 	inst[632].Rotation = 0
 	inst[632].AutomaticSize = Enum.AutomaticSize.None
 	inst[632].LayoutOrder = 2
-	inst[632].Active = true
+	inst[632].Active = false
 	inst[632].Selectable = false
 	inst[632].ZIndex = 5
 	inst[632].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -9036,7 +9036,7 @@ local function buildUI()
 	inst[636].Rotation = 0
 	inst[636].AutomaticSize = Enum.AutomaticSize.None
 	inst[636].LayoutOrder = 1
-	inst[636].Active = true
+	inst[636].Active = false
 	inst[636].Selectable = false
 	inst[636].ZIndex = 5
 	inst[636].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -9128,7 +9128,7 @@ local function buildUI()
 	inst[643].Rotation = 0
 	inst[643].AutomaticSize = Enum.AutomaticSize.None
 	inst[643].LayoutOrder = 0
-	inst[643].Active = true
+	inst[643].Active = false
 	inst[643].Selectable = false
 	inst[643].ZIndex = 2
 	inst[643].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -9154,7 +9154,7 @@ local function buildUI()
 	inst[644].Rotation = 0
 	inst[644].AutomaticSize = Enum.AutomaticSize.None
 	inst[644].LayoutOrder = 0
-	inst[644].Active = true
+	inst[644].Active = false
 	inst[644].Selectable = false
 	inst[644].ZIndex = 1
 	inst[644].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -9208,7 +9208,7 @@ local function buildUI()
 	inst[648].Rotation = 0
 	inst[648].AutomaticSize = Enum.AutomaticSize.None
 	inst[648].LayoutOrder = 0
-	inst[648].Active = true
+	inst[648].Active = false
 	inst[648].Selectable = false
 	inst[648].ZIndex = 1
 	inst[648].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -9269,7 +9269,7 @@ local function buildUI()
 	inst[653].Rotation = 0
 	inst[653].AutomaticSize = Enum.AutomaticSize.None
 	inst[653].LayoutOrder = 2
-	inst[653].Active = true
+	inst[653].Active = false
 	inst[653].Selectable = false
 	inst[653].ZIndex = 1
 	inst[653].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -9413,7 +9413,7 @@ local function buildUI()
 	inst[661].Rotation = 0
 	inst[661].AutomaticSize = Enum.AutomaticSize.None
 	inst[661].LayoutOrder = 3
-	inst[661].Active = true
+	inst[661].Active = false
 	inst[661].Selectable = false
 	inst[661].ZIndex = 1
 	inst[661].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -9557,7 +9557,7 @@ local function buildUI()
 	inst[669].Rotation = 0
 	inst[669].AutomaticSize = Enum.AutomaticSize.None
 	inst[669].LayoutOrder = 3
-	inst[669].Active = true
+	inst[669].Active = false
 	inst[669].Selectable = false
 	inst[669].ZIndex = 1
 	inst[669].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -9788,7 +9788,7 @@ local function buildUI()
 	inst[684].Rotation = 0
 	inst[684].AutomaticSize = Enum.AutomaticSize.None
 	inst[684].LayoutOrder = 4
-	inst[684].Active = true
+	inst[684].Active = false
 	inst[684].Selectable = false
 	inst[684].ZIndex = 1
 	inst[684].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -9913,7 +9913,7 @@ local function buildUI()
 	inst[692].Rotation = 0
 	inst[692].AutomaticSize = Enum.AutomaticSize.None
 	inst[692].LayoutOrder = 1
-	inst[692].Active = true
+	inst[692].Active = false
 	inst[692].Selectable = false
 	inst[692].ZIndex = 1
 	inst[692].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -10523,7 +10523,7 @@ local function buildUI()
 	inst[733].Rotation = 0
 	inst[733].AutomaticSize = Enum.AutomaticSize.None
 	inst[733].LayoutOrder = 0
-	inst[733].Active = true
+	inst[733].Active = false
 	inst[733].Selectable = false
 	inst[733].ZIndex = 1
 	inst[733].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -10565,7 +10565,7 @@ local function buildUI()
 	inst[735].Rotation = 0
 	inst[735].AutomaticSize = Enum.AutomaticSize.X
 	inst[735].LayoutOrder = 0
-	inst[735].Active = true
+	inst[735].Active = false
 	inst[735].ZIndex = 1
 	inst[735].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[735].Text = 'Revoke'
@@ -10791,7 +10791,7 @@ local function buildUI()
 	inst[751].Rotation = 0
 	inst[751].AutomaticSize = Enum.AutomaticSize.None
 	inst[751].LayoutOrder = 5
-	inst[751].Active = true
+	inst[751].Active = false
 	inst[751].Selectable = false
 	inst[751].ZIndex = 5
 	inst[751].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -10882,7 +10882,7 @@ local function buildUI()
 	inst[758].Rotation = 0
 	inst[758].AutomaticSize = Enum.AutomaticSize.None
 	inst[758].LayoutOrder = 0
-	inst[758].Active = true
+	inst[758].Active = false
 	inst[758].Selectable = false
 	inst[758].ZIndex = 1
 	inst[758].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -10908,7 +10908,7 @@ local function buildUI()
 	inst[759].Rotation = 0
 	inst[759].AutomaticSize = Enum.AutomaticSize.None
 	inst[759].LayoutOrder = 0
-	inst[759].Active = true
+	inst[759].Active = false
 	inst[759].Selectable = false
 	inst[759].ZIndex = 1
 	inst[759].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -10963,7 +10963,7 @@ local function buildUI()
 	inst[763].Rotation = 0
 	inst[763].AutomaticSize = Enum.AutomaticSize.None
 	inst[763].LayoutOrder = 0
-	inst[763].Active = true
+	inst[763].Active = false
 	inst[763].Selectable = false
 	inst[763].ZIndex = 1
 	inst[763].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -11089,7 +11089,7 @@ local function buildUI()
 	inst[773].Rotation = 0
 	inst[773].AutomaticSize = Enum.AutomaticSize.None
 	inst[773].LayoutOrder = 3
-	inst[773].Active = true
+	inst[773].Active = false
 	inst[773].Selectable = false
 	inst[773].ZIndex = 1
 	inst[773].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -11156,7 +11156,7 @@ local function buildUI()
 	inst[779].Rotation = 0
 	inst[779].AutomaticSize = Enum.AutomaticSize.None
 	inst[779].LayoutOrder = 2
-	inst[779].Active = true
+	inst[779].Active = false
 	inst[779].Selectable = false
 	inst[779].ZIndex = 1
 	inst[779].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -11196,7 +11196,7 @@ local function buildUI()
 	inst[782].Rotation = 0
 	inst[782].AutomaticSize = Enum.AutomaticSize.None
 	inst[782].LayoutOrder = 1
-	inst[782].Active = true
+	inst[782].Active = false
 	inst[782].Selectable = false
 	inst[782].ZIndex = 1
 	inst[782].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -11317,7 +11317,7 @@ local function buildUI()
 	inst[792].Rotation = 0
 	inst[792].AutomaticSize = Enum.AutomaticSize.None
 	inst[792].LayoutOrder = 0
-	inst[792].Active = true
+	inst[792].Active = false
 	inst[792].Selectable = false
 	inst[792].ZIndex = 1
 	inst[792].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -11359,7 +11359,7 @@ local function buildUI()
 	inst[794].Rotation = 0
 	inst[794].AutomaticSize = Enum.AutomaticSize.X
 	inst[794].LayoutOrder = 0
-	inst[794].Active = true
+	inst[794].Active = false
 	inst[794].ZIndex = 1
 	inst[794].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[794].Text = 'Continue'
@@ -11458,7 +11458,7 @@ local function buildUI()
 	inst[802].Rotation = 0
 	inst[802].AutomaticSize = Enum.AutomaticSize.None
 	inst[802].LayoutOrder = 2
-	inst[802].Active = true
+	inst[802].Active = false
 	inst[802].Selectable = false
 	inst[802].ZIndex = 5
 	inst[802].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -11579,7 +11579,7 @@ local function buildUI()
 	inst[811].Rotation = 0
 	inst[811].AutomaticSize = Enum.AutomaticSize.None
 	inst[811].LayoutOrder = 0
-	inst[811].Active = true
+	inst[811].Active = false
 	inst[811].Selectable = false
 	inst[811].ZIndex = 1
 	inst[811].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -11605,7 +11605,7 @@ local function buildUI()
 	inst[812].Rotation = 0
 	inst[812].AutomaticSize = Enum.AutomaticSize.None
 	inst[812].LayoutOrder = 0
-	inst[812].Active = true
+	inst[812].Active = false
 	inst[812].Selectable = false
 	inst[812].ZIndex = 1
 	inst[812].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -11715,7 +11715,7 @@ local function buildUI()
 	inst[819].Rotation = 0
 	inst[819].AutomaticSize = Enum.AutomaticSize.None
 	inst[819].LayoutOrder = 0
-	inst[819].Active = true
+	inst[819].Active = false
 	inst[819].Selectable = false
 	inst[819].ZIndex = 1
 	inst[819].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -11742,7 +11742,7 @@ local function buildUI()
 	inst[820].Rotation = 0
 	inst[820].AutomaticSize = Enum.AutomaticSize.None
 	inst[820].LayoutOrder = 0
-	inst[820].Active = true
+	inst[820].Active = false
 	inst[820].Selectable = false
 	inst[820].ZIndex = 1
 	inst[820].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -11903,7 +11903,7 @@ local function buildUI()
 	inst[833].Rotation = 0
 	inst[833].AutomaticSize = Enum.AutomaticSize.None
 	inst[833].LayoutOrder = 2
-	inst[833].Active = true
+	inst[833].Active = false
 	inst[833].Selectable = false
 	inst[833].ZIndex = 5
 	inst[833].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -11961,7 +11961,7 @@ local function buildUI()
 	inst[837].Rotation = 0
 	inst[837].AutomaticSize = Enum.AutomaticSize.None
 	inst[837].LayoutOrder = 1
-	inst[837].Active = true
+	inst[837].Active = false
 	inst[837].Selectable = false
 	inst[837].ZIndex = 5
 	inst[837].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -12053,7 +12053,7 @@ local function buildUI()
 	inst[844].Rotation = 0
 	inst[844].AutomaticSize = Enum.AutomaticSize.None
 	inst[844].LayoutOrder = 0
-	inst[844].Active = true
+	inst[844].Active = false
 	inst[844].Selectable = false
 	inst[844].ZIndex = 1
 	inst[844].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -12079,7 +12079,7 @@ local function buildUI()
 	inst[845].Rotation = 0
 	inst[845].AutomaticSize = Enum.AutomaticSize.None
 	inst[845].LayoutOrder = 0
-	inst[845].Active = true
+	inst[845].Active = false
 	inst[845].Selectable = false
 	inst[845].ZIndex = 1
 	inst[845].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -12133,7 +12133,7 @@ local function buildUI()
 	inst[849].Rotation = 0
 	inst[849].AutomaticSize = Enum.AutomaticSize.None
 	inst[849].LayoutOrder = 0
-	inst[849].Active = true
+	inst[849].Active = false
 	inst[849].Selectable = false
 	inst[849].ZIndex = 1
 	inst[849].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -12175,7 +12175,7 @@ local function buildUI()
 	inst[851].Rotation = 0
 	inst[851].AutomaticSize = Enum.AutomaticSize.X
 	inst[851].LayoutOrder = 0
-	inst[851].Active = true
+	inst[851].Active = false
 	inst[851].Selectable = false
 	inst[851].ZIndex = 1
 	inst[851].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -12247,7 +12247,7 @@ local function buildUI()
 	inst[856].Rotation = 0
 	inst[856].AutomaticSize = Enum.AutomaticSize.None
 	inst[856].LayoutOrder = 0
-	inst[856].Active = true
+	inst[856].Active = false
 	inst[856].Selectable = false
 	inst[856].ZIndex = 1
 	inst[856].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -12373,7 +12373,7 @@ local function buildUI()
 	inst[866].Rotation = 0
 	inst[866].AutomaticSize = Enum.AutomaticSize.Y
 	inst[866].LayoutOrder = 3
-	inst[866].Active = true
+	inst[866].Active = false
 	inst[866].Selectable = false
 	inst[866].ZIndex = 1
 	inst[866].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -12481,7 +12481,7 @@ local function buildUI()
 	inst[874].Rotation = 0
 	inst[874].AutomaticSize = Enum.AutomaticSize.Y
 	inst[874].LayoutOrder = 2
-	inst[874].Active = true
+	inst[874].Active = false
 	inst[874].Selectable = false
 	inst[874].ZIndex = 1
 	inst[874].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -12625,7 +12625,7 @@ local function buildUI()
 	inst[882].Rotation = 0
 	inst[882].AutomaticSize = Enum.AutomaticSize.Y
 	inst[882].LayoutOrder = 2
-	inst[882].Active = true
+	inst[882].Active = false
 	inst[882].Selectable = false
 	inst[882].ZIndex = 1
 	inst[882].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -12677,7 +12677,7 @@ local function buildUI()
 	inst[884].Rotation = 0
 	inst[884].AutomaticSize = Enum.AutomaticSize.X
 	inst[884].LayoutOrder = 0
-	inst[884].Active = true
+	inst[884].Active = false
 	inst[884].Selectable = false
 	inst[884].ZIndex = 1
 	inst[884].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -12847,7 +12847,7 @@ local function buildUI()
 	inst[898].Rotation = 0
 	inst[898].AutomaticSize = Enum.AutomaticSize.None
 	inst[898].LayoutOrder = 0
-	inst[898].Active = true
+	inst[898].Active = false
 	inst[898].Selectable = false
 	inst[898].ZIndex = 1
 	inst[898].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -12914,7 +12914,7 @@ local function buildUI()
 	inst[903].Rotation = 0
 	inst[903].AutomaticSize = Enum.AutomaticSize.None
 	inst[903].LayoutOrder = 0
-	inst[903].Active = true
+	inst[903].Active = false
 	inst[903].Selectable = false
 	inst[903].ZIndex = 1
 	inst[903].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -12981,7 +12981,7 @@ local function buildUI()
 	inst[908].Rotation = 0
 	inst[908].AutomaticSize = Enum.AutomaticSize.None
 	inst[908].LayoutOrder = 0
-	inst[908].Active = true
+	inst[908].Active = false
 	inst[908].Selectable = false
 	inst[908].ZIndex = 1
 	inst[908].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -13048,7 +13048,7 @@ local function buildUI()
 	inst[913].Rotation = 0
 	inst[913].AutomaticSize = Enum.AutomaticSize.None
 	inst[913].LayoutOrder = 0
-	inst[913].Active = true
+	inst[913].Active = false
 	inst[913].Selectable = false
 	inst[913].ZIndex = 1
 	inst[913].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -13115,7 +13115,7 @@ local function buildUI()
 	inst[918].Rotation = 0
 	inst[918].AutomaticSize = Enum.AutomaticSize.None
 	inst[918].LayoutOrder = 0
-	inst[918].Active = true
+	inst[918].Active = false
 	inst[918].Selectable = false
 	inst[918].ZIndex = 1
 	inst[918].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -13182,7 +13182,7 @@ local function buildUI()
 	inst[923].Rotation = 0
 	inst[923].AutomaticSize = Enum.AutomaticSize.None
 	inst[923].LayoutOrder = 0
-	inst[923].Active = true
+	inst[923].Active = false
 	inst[923].Selectable = false
 	inst[923].ZIndex = 1
 	inst[923].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -13249,7 +13249,7 @@ local function buildUI()
 	inst[928].Rotation = 0
 	inst[928].AutomaticSize = Enum.AutomaticSize.None
 	inst[928].LayoutOrder = 0
-	inst[928].Active = true
+	inst[928].Active = false
 	inst[928].Selectable = false
 	inst[928].ZIndex = 1
 	inst[928].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -13316,7 +13316,7 @@ local function buildUI()
 	inst[933].Rotation = 0
 	inst[933].AutomaticSize = Enum.AutomaticSize.None
 	inst[933].LayoutOrder = 0
-	inst[933].Active = true
+	inst[933].Active = false
 	inst[933].Selectable = false
 	inst[933].ZIndex = 1
 	inst[933].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -13383,7 +13383,7 @@ local function buildUI()
 	inst[938].Rotation = 0
 	inst[938].AutomaticSize = Enum.AutomaticSize.None
 	inst[938].LayoutOrder = 0
-	inst[938].Active = true
+	inst[938].Active = false
 	inst[938].Selectable = false
 	inst[938].ZIndex = 1
 	inst[938].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -13450,7 +13450,7 @@ local function buildUI()
 	inst[943].Rotation = 0
 	inst[943].AutomaticSize = Enum.AutomaticSize.None
 	inst[943].LayoutOrder = 0
-	inst[943].Active = true
+	inst[943].Active = false
 	inst[943].Selectable = false
 	inst[943].ZIndex = 1
 	inst[943].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -13517,7 +13517,7 @@ local function buildUI()
 	inst[948].Rotation = 0
 	inst[948].AutomaticSize = Enum.AutomaticSize.None
 	inst[948].LayoutOrder = 0
-	inst[948].Active = true
+	inst[948].Active = false
 	inst[948].Selectable = false
 	inst[948].ZIndex = 1
 	inst[948].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -13584,7 +13584,7 @@ local function buildUI()
 	inst[953].Rotation = 0
 	inst[953].AutomaticSize = Enum.AutomaticSize.None
 	inst[953].LayoutOrder = 0
-	inst[953].Active = true
+	inst[953].Active = false
 	inst[953].Selectable = false
 	inst[953].ZIndex = 1
 	inst[953].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -13651,7 +13651,7 @@ local function buildUI()
 	inst[958].Rotation = 0
 	inst[958].AutomaticSize = Enum.AutomaticSize.None
 	inst[958].LayoutOrder = 0
-	inst[958].Active = true
+	inst[958].Active = false
 	inst[958].Selectable = false
 	inst[958].ZIndex = 1
 	inst[958].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -13718,7 +13718,7 @@ local function buildUI()
 	inst[963].Rotation = 0
 	inst[963].AutomaticSize = Enum.AutomaticSize.None
 	inst[963].LayoutOrder = 0
-	inst[963].Active = true
+	inst[963].Active = false
 	inst[963].Selectable = false
 	inst[963].ZIndex = 1
 	inst[963].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -13785,7 +13785,7 @@ local function buildUI()
 	inst[968].Rotation = 0
 	inst[968].AutomaticSize = Enum.AutomaticSize.None
 	inst[968].LayoutOrder = 0
-	inst[968].Active = true
+	inst[968].Active = false
 	inst[968].Selectable = false
 	inst[968].ZIndex = 1
 	inst[968].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -13852,7 +13852,7 @@ local function buildUI()
 	inst[973].Rotation = 0
 	inst[973].AutomaticSize = Enum.AutomaticSize.None
 	inst[973].LayoutOrder = 0
-	inst[973].Active = true
+	inst[973].Active = false
 	inst[973].Selectable = false
 	inst[973].ZIndex = 1
 	inst[973].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -13919,7 +13919,7 @@ local function buildUI()
 	inst[978].Rotation = 0
 	inst[978].AutomaticSize = Enum.AutomaticSize.None
 	inst[978].LayoutOrder = 0
-	inst[978].Active = true
+	inst[978].Active = false
 	inst[978].Selectable = false
 	inst[978].ZIndex = 1
 	inst[978].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -13986,7 +13986,7 @@ local function buildUI()
 	inst[983].Rotation = 0
 	inst[983].AutomaticSize = Enum.AutomaticSize.None
 	inst[983].LayoutOrder = 0
-	inst[983].Active = true
+	inst[983].Active = false
 	inst[983].Selectable = false
 	inst[983].ZIndex = 1
 	inst[983].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -14053,7 +14053,7 @@ local function buildUI()
 	inst[988].Rotation = 0
 	inst[988].AutomaticSize = Enum.AutomaticSize.None
 	inst[988].LayoutOrder = 0
-	inst[988].Active = true
+	inst[988].Active = false
 	inst[988].Selectable = false
 	inst[988].ZIndex = 1
 	inst[988].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -14120,7 +14120,7 @@ local function buildUI()
 	inst[993].Rotation = 0
 	inst[993].AutomaticSize = Enum.AutomaticSize.None
 	inst[993].LayoutOrder = 0
-	inst[993].Active = true
+	inst[993].Active = false
 	inst[993].Selectable = false
 	inst[993].ZIndex = 1
 	inst[993].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -14187,7 +14187,7 @@ local function buildUI()
 	inst[998].Rotation = 0
 	inst[998].AutomaticSize = Enum.AutomaticSize.None
 	inst[998].LayoutOrder = 0
-	inst[998].Active = true
+	inst[998].Active = false
 	inst[998].Selectable = false
 	inst[998].ZIndex = 1
 	inst[998].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -14254,7 +14254,7 @@ local function buildUI()
 	inst[1003].Rotation = 0
 	inst[1003].AutomaticSize = Enum.AutomaticSize.None
 	inst[1003].LayoutOrder = 0
-	inst[1003].Active = true
+	inst[1003].Active = false
 	inst[1003].Selectable = false
 	inst[1003].ZIndex = 1
 	inst[1003].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -14321,7 +14321,7 @@ local function buildUI()
 	inst[1008].Rotation = 0
 	inst[1008].AutomaticSize = Enum.AutomaticSize.None
 	inst[1008].LayoutOrder = 0
-	inst[1008].Active = true
+	inst[1008].Active = false
 	inst[1008].Selectable = false
 	inst[1008].ZIndex = 1
 	inst[1008].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -14388,7 +14388,7 @@ local function buildUI()
 	inst[1013].Rotation = 0
 	inst[1013].AutomaticSize = Enum.AutomaticSize.None
 	inst[1013].LayoutOrder = 0
-	inst[1013].Active = true
+	inst[1013].Active = false
 	inst[1013].Selectable = false
 	inst[1013].ZIndex = 1
 	inst[1013].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -14455,7 +14455,7 @@ local function buildUI()
 	inst[1018].Rotation = 0
 	inst[1018].AutomaticSize = Enum.AutomaticSize.None
 	inst[1018].LayoutOrder = 0
-	inst[1018].Active = true
+	inst[1018].Active = false
 	inst[1018].Selectable = false
 	inst[1018].ZIndex = 1
 	inst[1018].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -14526,7 +14526,7 @@ local function buildUI()
 	inst[1023].Rotation = 0
 	inst[1023].AutomaticSize = Enum.AutomaticSize.None
 	inst[1023].LayoutOrder = 0
-	inst[1023].Active = true
+	inst[1023].Active = false
 	inst[1023].Selectable = false
 	inst[1023].ZIndex = 1
 	inst[1023].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -14593,7 +14593,7 @@ local function buildUI()
 	inst[1028].Rotation = 0
 	inst[1028].AutomaticSize = Enum.AutomaticSize.None
 	inst[1028].LayoutOrder = 0
-	inst[1028].Active = true
+	inst[1028].Active = false
 	inst[1028].Selectable = false
 	inst[1028].ZIndex = 1
 	inst[1028].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -14660,7 +14660,7 @@ local function buildUI()
 	inst[1033].Rotation = 0
 	inst[1033].AutomaticSize = Enum.AutomaticSize.None
 	inst[1033].LayoutOrder = 0
-	inst[1033].Active = true
+	inst[1033].Active = false
 	inst[1033].Selectable = false
 	inst[1033].ZIndex = 1
 	inst[1033].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -14727,7 +14727,7 @@ local function buildUI()
 	inst[1038].Rotation = 0
 	inst[1038].AutomaticSize = Enum.AutomaticSize.None
 	inst[1038].LayoutOrder = 0
-	inst[1038].Active = true
+	inst[1038].Active = false
 	inst[1038].Selectable = false
 	inst[1038].ZIndex = 1
 	inst[1038].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -14794,7 +14794,7 @@ local function buildUI()
 	inst[1043].Rotation = 0
 	inst[1043].AutomaticSize = Enum.AutomaticSize.None
 	inst[1043].LayoutOrder = 0
-	inst[1043].Active = true
+	inst[1043].Active = false
 	inst[1043].Selectable = false
 	inst[1043].ZIndex = 1
 	inst[1043].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -14861,7 +14861,7 @@ local function buildUI()
 	inst[1048].Rotation = 0
 	inst[1048].AutomaticSize = Enum.AutomaticSize.None
 	inst[1048].LayoutOrder = 0
-	inst[1048].Active = true
+	inst[1048].Active = false
 	inst[1048].Selectable = false
 	inst[1048].ZIndex = 1
 	inst[1048].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -14928,7 +14928,7 @@ local function buildUI()
 	inst[1053].Rotation = 0
 	inst[1053].AutomaticSize = Enum.AutomaticSize.None
 	inst[1053].LayoutOrder = 0
-	inst[1053].Active = true
+	inst[1053].Active = false
 	inst[1053].Selectable = false
 	inst[1053].ZIndex = 1
 	inst[1053].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -14995,7 +14995,7 @@ local function buildUI()
 	inst[1058].Rotation = 0
 	inst[1058].AutomaticSize = Enum.AutomaticSize.None
 	inst[1058].LayoutOrder = 0
-	inst[1058].Active = true
+	inst[1058].Active = false
 	inst[1058].Selectable = false
 	inst[1058].ZIndex = 1
 	inst[1058].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -15062,7 +15062,7 @@ local function buildUI()
 	inst[1063].Rotation = 0
 	inst[1063].AutomaticSize = Enum.AutomaticSize.None
 	inst[1063].LayoutOrder = 0
-	inst[1063].Active = true
+	inst[1063].Active = false
 	inst[1063].Selectable = false
 	inst[1063].ZIndex = 1
 	inst[1063].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -15129,7 +15129,7 @@ local function buildUI()
 	inst[1068].Rotation = 0
 	inst[1068].AutomaticSize = Enum.AutomaticSize.None
 	inst[1068].LayoutOrder = 0
-	inst[1068].Active = true
+	inst[1068].Active = false
 	inst[1068].Selectable = false
 	inst[1068].ZIndex = 1
 	inst[1068].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -15196,7 +15196,7 @@ local function buildUI()
 	inst[1073].Rotation = 0
 	inst[1073].AutomaticSize = Enum.AutomaticSize.None
 	inst[1073].LayoutOrder = 0
-	inst[1073].Active = true
+	inst[1073].Active = false
 	inst[1073].Selectable = false
 	inst[1073].ZIndex = 1
 	inst[1073].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -15263,7 +15263,7 @@ local function buildUI()
 	inst[1078].Rotation = 0
 	inst[1078].AutomaticSize = Enum.AutomaticSize.None
 	inst[1078].LayoutOrder = 0
-	inst[1078].Active = true
+	inst[1078].Active = false
 	inst[1078].Selectable = false
 	inst[1078].ZIndex = 1
 	inst[1078].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -15330,7 +15330,7 @@ local function buildUI()
 	inst[1083].Rotation = 0
 	inst[1083].AutomaticSize = Enum.AutomaticSize.None
 	inst[1083].LayoutOrder = 0
-	inst[1083].Active = true
+	inst[1083].Active = false
 	inst[1083].Selectable = false
 	inst[1083].ZIndex = 1
 	inst[1083].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -15397,7 +15397,7 @@ local function buildUI()
 	inst[1088].Rotation = 0
 	inst[1088].AutomaticSize = Enum.AutomaticSize.None
 	inst[1088].LayoutOrder = 0
-	inst[1088].Active = true
+	inst[1088].Active = false
 	inst[1088].Selectable = false
 	inst[1088].ZIndex = 1
 	inst[1088].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -15464,7 +15464,7 @@ local function buildUI()
 	inst[1093].Rotation = 0
 	inst[1093].AutomaticSize = Enum.AutomaticSize.None
 	inst[1093].LayoutOrder = 0
-	inst[1093].Active = true
+	inst[1093].Active = false
 	inst[1093].Selectable = false
 	inst[1093].ZIndex = 1
 	inst[1093].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -15531,7 +15531,7 @@ local function buildUI()
 	inst[1098].Rotation = 0
 	inst[1098].AutomaticSize = Enum.AutomaticSize.None
 	inst[1098].LayoutOrder = 0
-	inst[1098].Active = true
+	inst[1098].Active = false
 	inst[1098].Selectable = false
 	inst[1098].ZIndex = 1
 	inst[1098].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -15598,7 +15598,7 @@ local function buildUI()
 	inst[1103].Rotation = 0
 	inst[1103].AutomaticSize = Enum.AutomaticSize.None
 	inst[1103].LayoutOrder = 0
-	inst[1103].Active = true
+	inst[1103].Active = false
 	inst[1103].Selectable = false
 	inst[1103].ZIndex = 1
 	inst[1103].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -15668,7 +15668,7 @@ local function buildUI()
 	inst[1109].Rotation = 0
 	inst[1109].AutomaticSize = Enum.AutomaticSize.None
 	inst[1109].LayoutOrder = 0
-	inst[1109].Active = true
+	inst[1109].Active = false
 	inst[1109].ZIndex = 1
 	inst[1109].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1109].Image = ''
@@ -15844,7 +15844,7 @@ local function buildUI()
 	inst[1121].Rotation = 0
 	inst[1121].AutomaticSize = Enum.AutomaticSize.None
 	inst[1121].LayoutOrder = 4
-	inst[1121].Active = true
+	inst[1121].Active = false
 	inst[1121].Selectable = false
 	inst[1121].ZIndex = 1
 	inst[1121].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -15962,7 +15962,7 @@ local function buildUI()
 	inst[1131].Rotation = 0
 	inst[1131].AutomaticSize = Enum.AutomaticSize.None
 	inst[1131].LayoutOrder = 3
-	inst[1131].Active = true
+	inst[1131].Active = false
 	inst[1131].Selectable = false
 	inst[1131].ZIndex = 1
 	inst[1131].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -16080,7 +16080,7 @@ local function buildUI()
 	inst[1141].Rotation = 0
 	inst[1141].AutomaticSize = Enum.AutomaticSize.None
 	inst[1141].LayoutOrder = 5
-	inst[1141].Active = true
+	inst[1141].Active = false
 	inst[1141].Selectable = false
 	inst[1141].ZIndex = 1
 	inst[1141].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -16198,7 +16198,7 @@ local function buildUI()
 	inst[1151].Rotation = 0
 	inst[1151].AutomaticSize = Enum.AutomaticSize.None
 	inst[1151].LayoutOrder = 5
-	inst[1151].Active = true
+	inst[1151].Active = false
 	inst[1151].Selectable = false
 	inst[1151].ZIndex = 1
 	inst[1151].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -16403,7 +16403,7 @@ local function buildUI()
 	inst[1167].Rotation = 0
 	inst[1167].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1167].LayoutOrder = 3
-	inst[1167].Active = true
+	inst[1167].Active = false
 	inst[1167].Selectable = false
 	inst[1167].ZIndex = 1
 	inst[1167].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -16508,7 +16508,7 @@ local function buildUI()
 	inst[1175].Rotation = 0
 	inst[1175].AutomaticSize = Enum.AutomaticSize.None
 	inst[1175].LayoutOrder = 1
-	inst[1175].Active = true
+	inst[1175].Active = false
 	inst[1175].Selectable = false
 	inst[1175].ZIndex = 5
 	inst[1175].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -16570,7 +16570,7 @@ local function buildUI()
 	inst[1179].Rotation = 0
 	inst[1179].AutomaticSize = Enum.AutomaticSize.None
 	inst[1179].LayoutOrder = 2
-	inst[1179].Active = true
+	inst[1179].Active = false
 	inst[1179].Selectable = false
 	inst[1179].ZIndex = 5
 	inst[1179].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -16662,7 +16662,7 @@ local function buildUI()
 	inst[1186].Rotation = 0
 	inst[1186].AutomaticSize = Enum.AutomaticSize.None
 	inst[1186].LayoutOrder = 0
-	inst[1186].Active = true
+	inst[1186].Active = false
 	inst[1186].Selectable = false
 	inst[1186].ZIndex = 1
 	inst[1186].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -16688,7 +16688,7 @@ local function buildUI()
 	inst[1187].Rotation = 0
 	inst[1187].AutomaticSize = Enum.AutomaticSize.None
 	inst[1187].LayoutOrder = 0
-	inst[1187].Active = true
+	inst[1187].Active = false
 	inst[1187].Selectable = false
 	inst[1187].ZIndex = 1
 	inst[1187].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -16742,7 +16742,7 @@ local function buildUI()
 	inst[1191].Rotation = 0
 	inst[1191].AutomaticSize = Enum.AutomaticSize.None
 	inst[1191].LayoutOrder = 0
-	inst[1191].Active = true
+	inst[1191].Active = false
 	inst[1191].Selectable = false
 	inst[1191].ZIndex = 1
 	inst[1191].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -16784,7 +16784,7 @@ local function buildUI()
 	inst[1193].Rotation = 0
 	inst[1193].AutomaticSize = Enum.AutomaticSize.X
 	inst[1193].LayoutOrder = 0
-	inst[1193].Active = true
+	inst[1193].Active = false
 	inst[1193].Selectable = false
 	inst[1193].ZIndex = 1
 	inst[1193].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -16856,7 +16856,7 @@ local function buildUI()
 	inst[1198].Rotation = 0
 	inst[1198].AutomaticSize = Enum.AutomaticSize.None
 	inst[1198].LayoutOrder = 0
-	inst[1198].Active = true
+	inst[1198].Active = false
 	inst[1198].Selectable = false
 	inst[1198].ZIndex = 1
 	inst[1198].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -16982,7 +16982,7 @@ local function buildUI()
 	inst[1208].Rotation = 0
 	inst[1208].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1208].LayoutOrder = 3
-	inst[1208].Active = true
+	inst[1208].Active = false
 	inst[1208].Selectable = false
 	inst[1208].ZIndex = 1
 	inst[1208].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -17177,7 +17177,7 @@ local function buildUI()
 	inst[1223].Rotation = 0
 	inst[1223].AutomaticSize = Enum.AutomaticSize.None
 	inst[1223].LayoutOrder = 0
-	inst[1223].Active = true
+	inst[1223].Active = false
 	inst[1223].Selectable = false
 	inst[1223].ZIndex = 1
 	inst[1223].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -17244,7 +17244,7 @@ local function buildUI()
 	inst[1228].Rotation = 0
 	inst[1228].AutomaticSize = Enum.AutomaticSize.None
 	inst[1228].LayoutOrder = 0
-	inst[1228].Active = true
+	inst[1228].Active = false
 	inst[1228].Selectable = false
 	inst[1228].ZIndex = 1
 	inst[1228].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -17311,7 +17311,7 @@ local function buildUI()
 	inst[1233].Rotation = 0
 	inst[1233].AutomaticSize = Enum.AutomaticSize.None
 	inst[1233].LayoutOrder = 0
-	inst[1233].Active = true
+	inst[1233].Active = false
 	inst[1233].Selectable = false
 	inst[1233].ZIndex = 1
 	inst[1233].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -17378,7 +17378,7 @@ local function buildUI()
 	inst[1238].Rotation = 0
 	inst[1238].AutomaticSize = Enum.AutomaticSize.None
 	inst[1238].LayoutOrder = 0
-	inst[1238].Active = true
+	inst[1238].Active = false
 	inst[1238].Selectable = false
 	inst[1238].ZIndex = 1
 	inst[1238].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -17445,7 +17445,7 @@ local function buildUI()
 	inst[1243].Rotation = 0
 	inst[1243].AutomaticSize = Enum.AutomaticSize.None
 	inst[1243].LayoutOrder = 0
-	inst[1243].Active = true
+	inst[1243].Active = false
 	inst[1243].Selectable = false
 	inst[1243].ZIndex = 1
 	inst[1243].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -17512,7 +17512,7 @@ local function buildUI()
 	inst[1248].Rotation = 0
 	inst[1248].AutomaticSize = Enum.AutomaticSize.None
 	inst[1248].LayoutOrder = 0
-	inst[1248].Active = true
+	inst[1248].Active = false
 	inst[1248].Selectable = false
 	inst[1248].ZIndex = 1
 	inst[1248].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -17579,7 +17579,7 @@ local function buildUI()
 	inst[1253].Rotation = 0
 	inst[1253].AutomaticSize = Enum.AutomaticSize.None
 	inst[1253].LayoutOrder = 0
-	inst[1253].Active = true
+	inst[1253].Active = false
 	inst[1253].Selectable = false
 	inst[1253].ZIndex = 1
 	inst[1253].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -17646,7 +17646,7 @@ local function buildUI()
 	inst[1258].Rotation = 0
 	inst[1258].AutomaticSize = Enum.AutomaticSize.None
 	inst[1258].LayoutOrder = 0
-	inst[1258].Active = true
+	inst[1258].Active = false
 	inst[1258].Selectable = false
 	inst[1258].ZIndex = 1
 	inst[1258].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -17713,7 +17713,7 @@ local function buildUI()
 	inst[1263].Rotation = 0
 	inst[1263].AutomaticSize = Enum.AutomaticSize.None
 	inst[1263].LayoutOrder = 0
-	inst[1263].Active = true
+	inst[1263].Active = false
 	inst[1263].Selectable = false
 	inst[1263].ZIndex = 1
 	inst[1263].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -17780,7 +17780,7 @@ local function buildUI()
 	inst[1268].Rotation = 0
 	inst[1268].AutomaticSize = Enum.AutomaticSize.None
 	inst[1268].LayoutOrder = 0
-	inst[1268].Active = true
+	inst[1268].Active = false
 	inst[1268].Selectable = false
 	inst[1268].ZIndex = 1
 	inst[1268].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -17847,7 +17847,7 @@ local function buildUI()
 	inst[1273].Rotation = 0
 	inst[1273].AutomaticSize = Enum.AutomaticSize.None
 	inst[1273].LayoutOrder = 0
-	inst[1273].Active = true
+	inst[1273].Active = false
 	inst[1273].Selectable = false
 	inst[1273].ZIndex = 1
 	inst[1273].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -17914,7 +17914,7 @@ local function buildUI()
 	inst[1278].Rotation = 0
 	inst[1278].AutomaticSize = Enum.AutomaticSize.None
 	inst[1278].LayoutOrder = 0
-	inst[1278].Active = true
+	inst[1278].Active = false
 	inst[1278].Selectable = false
 	inst[1278].ZIndex = 1
 	inst[1278].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -17981,7 +17981,7 @@ local function buildUI()
 	inst[1283].Rotation = 0
 	inst[1283].AutomaticSize = Enum.AutomaticSize.None
 	inst[1283].LayoutOrder = 0
-	inst[1283].Active = true
+	inst[1283].Active = false
 	inst[1283].Selectable = false
 	inst[1283].ZIndex = 1
 	inst[1283].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -18048,7 +18048,7 @@ local function buildUI()
 	inst[1288].Rotation = 0
 	inst[1288].AutomaticSize = Enum.AutomaticSize.None
 	inst[1288].LayoutOrder = 0
-	inst[1288].Active = true
+	inst[1288].Active = false
 	inst[1288].Selectable = false
 	inst[1288].ZIndex = 1
 	inst[1288].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -18115,7 +18115,7 @@ local function buildUI()
 	inst[1293].Rotation = 0
 	inst[1293].AutomaticSize = Enum.AutomaticSize.None
 	inst[1293].LayoutOrder = 0
-	inst[1293].Active = true
+	inst[1293].Active = false
 	inst[1293].Selectable = false
 	inst[1293].ZIndex = 1
 	inst[1293].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -18182,7 +18182,7 @@ local function buildUI()
 	inst[1298].Rotation = 0
 	inst[1298].AutomaticSize = Enum.AutomaticSize.None
 	inst[1298].LayoutOrder = 0
-	inst[1298].Active = true
+	inst[1298].Active = false
 	inst[1298].Selectable = false
 	inst[1298].ZIndex = 1
 	inst[1298].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -18249,7 +18249,7 @@ local function buildUI()
 	inst[1303].Rotation = 0
 	inst[1303].AutomaticSize = Enum.AutomaticSize.None
 	inst[1303].LayoutOrder = 0
-	inst[1303].Active = true
+	inst[1303].Active = false
 	inst[1303].Selectable = false
 	inst[1303].ZIndex = 1
 	inst[1303].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -18316,7 +18316,7 @@ local function buildUI()
 	inst[1308].Rotation = 0
 	inst[1308].AutomaticSize = Enum.AutomaticSize.None
 	inst[1308].LayoutOrder = 0
-	inst[1308].Active = true
+	inst[1308].Active = false
 	inst[1308].Selectable = false
 	inst[1308].ZIndex = 1
 	inst[1308].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -18383,7 +18383,7 @@ local function buildUI()
 	inst[1313].Rotation = 0
 	inst[1313].AutomaticSize = Enum.AutomaticSize.None
 	inst[1313].LayoutOrder = 0
-	inst[1313].Active = true
+	inst[1313].Active = false
 	inst[1313].Selectable = false
 	inst[1313].ZIndex = 1
 	inst[1313].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -18450,7 +18450,7 @@ local function buildUI()
 	inst[1318].Rotation = 0
 	inst[1318].AutomaticSize = Enum.AutomaticSize.None
 	inst[1318].LayoutOrder = 0
-	inst[1318].Active = true
+	inst[1318].Active = false
 	inst[1318].Selectable = false
 	inst[1318].ZIndex = 1
 	inst[1318].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -18517,7 +18517,7 @@ local function buildUI()
 	inst[1323].Rotation = 0
 	inst[1323].AutomaticSize = Enum.AutomaticSize.None
 	inst[1323].LayoutOrder = 0
-	inst[1323].Active = true
+	inst[1323].Active = false
 	inst[1323].Selectable = false
 	inst[1323].ZIndex = 1
 	inst[1323].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -18584,7 +18584,7 @@ local function buildUI()
 	inst[1328].Rotation = 0
 	inst[1328].AutomaticSize = Enum.AutomaticSize.None
 	inst[1328].LayoutOrder = 0
-	inst[1328].Active = true
+	inst[1328].Active = false
 	inst[1328].Selectable = false
 	inst[1328].ZIndex = 1
 	inst[1328].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -18655,7 +18655,7 @@ local function buildUI()
 	inst[1333].Rotation = 0
 	inst[1333].AutomaticSize = Enum.AutomaticSize.None
 	inst[1333].LayoutOrder = 0
-	inst[1333].Active = true
+	inst[1333].Active = false
 	inst[1333].Selectable = false
 	inst[1333].ZIndex = 1
 	inst[1333].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -18722,7 +18722,7 @@ local function buildUI()
 	inst[1338].Rotation = 0
 	inst[1338].AutomaticSize = Enum.AutomaticSize.None
 	inst[1338].LayoutOrder = 0
-	inst[1338].Active = true
+	inst[1338].Active = false
 	inst[1338].Selectable = false
 	inst[1338].ZIndex = 1
 	inst[1338].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -18789,7 +18789,7 @@ local function buildUI()
 	inst[1343].Rotation = 0
 	inst[1343].AutomaticSize = Enum.AutomaticSize.None
 	inst[1343].LayoutOrder = 0
-	inst[1343].Active = true
+	inst[1343].Active = false
 	inst[1343].Selectable = false
 	inst[1343].ZIndex = 1
 	inst[1343].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -18856,7 +18856,7 @@ local function buildUI()
 	inst[1348].Rotation = 0
 	inst[1348].AutomaticSize = Enum.AutomaticSize.None
 	inst[1348].LayoutOrder = 0
-	inst[1348].Active = true
+	inst[1348].Active = false
 	inst[1348].Selectable = false
 	inst[1348].ZIndex = 1
 	inst[1348].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -18923,7 +18923,7 @@ local function buildUI()
 	inst[1353].Rotation = 0
 	inst[1353].AutomaticSize = Enum.AutomaticSize.None
 	inst[1353].LayoutOrder = 0
-	inst[1353].Active = true
+	inst[1353].Active = false
 	inst[1353].Selectable = false
 	inst[1353].ZIndex = 1
 	inst[1353].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -18990,7 +18990,7 @@ local function buildUI()
 	inst[1358].Rotation = 0
 	inst[1358].AutomaticSize = Enum.AutomaticSize.None
 	inst[1358].LayoutOrder = 0
-	inst[1358].Active = true
+	inst[1358].Active = false
 	inst[1358].Selectable = false
 	inst[1358].ZIndex = 1
 	inst[1358].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -19057,7 +19057,7 @@ local function buildUI()
 	inst[1363].Rotation = 0
 	inst[1363].AutomaticSize = Enum.AutomaticSize.None
 	inst[1363].LayoutOrder = 0
-	inst[1363].Active = true
+	inst[1363].Active = false
 	inst[1363].Selectable = false
 	inst[1363].ZIndex = 1
 	inst[1363].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -19124,7 +19124,7 @@ local function buildUI()
 	inst[1368].Rotation = 0
 	inst[1368].AutomaticSize = Enum.AutomaticSize.None
 	inst[1368].LayoutOrder = 0
-	inst[1368].Active = true
+	inst[1368].Active = false
 	inst[1368].Selectable = false
 	inst[1368].ZIndex = 1
 	inst[1368].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -19191,7 +19191,7 @@ local function buildUI()
 	inst[1373].Rotation = 0
 	inst[1373].AutomaticSize = Enum.AutomaticSize.None
 	inst[1373].LayoutOrder = 0
-	inst[1373].Active = true
+	inst[1373].Active = false
 	inst[1373].Selectable = false
 	inst[1373].ZIndex = 1
 	inst[1373].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -19258,7 +19258,7 @@ local function buildUI()
 	inst[1378].Rotation = 0
 	inst[1378].AutomaticSize = Enum.AutomaticSize.None
 	inst[1378].LayoutOrder = 0
-	inst[1378].Active = true
+	inst[1378].Active = false
 	inst[1378].Selectable = false
 	inst[1378].ZIndex = 1
 	inst[1378].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -19325,7 +19325,7 @@ local function buildUI()
 	inst[1383].Rotation = 0
 	inst[1383].AutomaticSize = Enum.AutomaticSize.None
 	inst[1383].LayoutOrder = 0
-	inst[1383].Active = true
+	inst[1383].Active = false
 	inst[1383].Selectable = false
 	inst[1383].ZIndex = 1
 	inst[1383].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -19392,7 +19392,7 @@ local function buildUI()
 	inst[1388].Rotation = 0
 	inst[1388].AutomaticSize = Enum.AutomaticSize.None
 	inst[1388].LayoutOrder = 0
-	inst[1388].Active = true
+	inst[1388].Active = false
 	inst[1388].Selectable = false
 	inst[1388].ZIndex = 1
 	inst[1388].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -19459,7 +19459,7 @@ local function buildUI()
 	inst[1393].Rotation = 0
 	inst[1393].AutomaticSize = Enum.AutomaticSize.None
 	inst[1393].LayoutOrder = 0
-	inst[1393].Active = true
+	inst[1393].Active = false
 	inst[1393].Selectable = false
 	inst[1393].ZIndex = 1
 	inst[1393].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -19526,7 +19526,7 @@ local function buildUI()
 	inst[1398].Rotation = 0
 	inst[1398].AutomaticSize = Enum.AutomaticSize.None
 	inst[1398].LayoutOrder = 0
-	inst[1398].Active = true
+	inst[1398].Active = false
 	inst[1398].Selectable = false
 	inst[1398].ZIndex = 1
 	inst[1398].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -19593,7 +19593,7 @@ local function buildUI()
 	inst[1403].Rotation = 0
 	inst[1403].AutomaticSize = Enum.AutomaticSize.None
 	inst[1403].LayoutOrder = 0
-	inst[1403].Active = true
+	inst[1403].Active = false
 	inst[1403].Selectable = false
 	inst[1403].ZIndex = 1
 	inst[1403].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -19660,7 +19660,7 @@ local function buildUI()
 	inst[1408].Rotation = 0
 	inst[1408].AutomaticSize = Enum.AutomaticSize.None
 	inst[1408].LayoutOrder = 0
-	inst[1408].Active = true
+	inst[1408].Active = false
 	inst[1408].Selectable = false
 	inst[1408].ZIndex = 1
 	inst[1408].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -19727,7 +19727,7 @@ local function buildUI()
 	inst[1413].Rotation = 0
 	inst[1413].AutomaticSize = Enum.AutomaticSize.None
 	inst[1413].LayoutOrder = 0
-	inst[1413].Active = true
+	inst[1413].Active = false
 	inst[1413].Selectable = false
 	inst[1413].ZIndex = 1
 	inst[1413].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -19794,7 +19794,7 @@ local function buildUI()
 	inst[1418].Rotation = 0
 	inst[1418].AutomaticSize = Enum.AutomaticSize.None
 	inst[1418].LayoutOrder = 0
-	inst[1418].Active = true
+	inst[1418].Active = false
 	inst[1418].Selectable = false
 	inst[1418].ZIndex = 1
 	inst[1418].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -19861,7 +19861,7 @@ local function buildUI()
 	inst[1423].Rotation = 0
 	inst[1423].AutomaticSize = Enum.AutomaticSize.None
 	inst[1423].LayoutOrder = 0
-	inst[1423].Active = true
+	inst[1423].Active = false
 	inst[1423].Selectable = false
 	inst[1423].ZIndex = 1
 	inst[1423].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -19928,7 +19928,7 @@ local function buildUI()
 	inst[1428].Rotation = 0
 	inst[1428].AutomaticSize = Enum.AutomaticSize.None
 	inst[1428].LayoutOrder = 0
-	inst[1428].Active = true
+	inst[1428].Active = false
 	inst[1428].Selectable = false
 	inst[1428].ZIndex = 1
 	inst[1428].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -19998,7 +19998,7 @@ local function buildUI()
 	inst[1434].Rotation = 0
 	inst[1434].AutomaticSize = Enum.AutomaticSize.None
 	inst[1434].LayoutOrder = 0
-	inst[1434].Active = true
+	inst[1434].Active = false
 	inst[1434].ZIndex = 1
 	inst[1434].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1434].Image = ''
@@ -20174,7 +20174,7 @@ local function buildUI()
 	inst[1446].Rotation = 0
 	inst[1446].AutomaticSize = Enum.AutomaticSize.None
 	inst[1446].LayoutOrder = 4
-	inst[1446].Active = true
+	inst[1446].Active = false
 	inst[1446].Selectable = false
 	inst[1446].ZIndex = 1
 	inst[1446].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -20292,7 +20292,7 @@ local function buildUI()
 	inst[1456].Rotation = 0
 	inst[1456].AutomaticSize = Enum.AutomaticSize.None
 	inst[1456].LayoutOrder = 3
-	inst[1456].Active = true
+	inst[1456].Active = false
 	inst[1456].Selectable = false
 	inst[1456].ZIndex = 1
 	inst[1456].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -20410,7 +20410,7 @@ local function buildUI()
 	inst[1466].Rotation = 0
 	inst[1466].AutomaticSize = Enum.AutomaticSize.None
 	inst[1466].LayoutOrder = 5
-	inst[1466].Active = true
+	inst[1466].Active = false
 	inst[1466].Selectable = false
 	inst[1466].ZIndex = 1
 	inst[1466].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -20528,7 +20528,7 @@ local function buildUI()
 	inst[1476].Rotation = 0
 	inst[1476].AutomaticSize = Enum.AutomaticSize.None
 	inst[1476].LayoutOrder = 5
-	inst[1476].Active = true
+	inst[1476].Active = false
 	inst[1476].Selectable = false
 	inst[1476].ZIndex = 1
 	inst[1476].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -20602,7 +20602,7 @@ local function buildUI()
 	inst[1482].Rotation = 0
 	inst[1482].AutomaticSize = Enum.AutomaticSize.None
 	inst[1482].LayoutOrder = 1
-	inst[1482].Active = true
+	inst[1482].Active = false
 	inst[1482].ZIndex = 1
 	inst[1482].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1482].Text = ''
@@ -20738,7 +20738,7 @@ local function buildUI()
 	inst[1492].Rotation = 0
 	inst[1492].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1492].LayoutOrder = 3
-	inst[1492].Active = true
+	inst[1492].Active = false
 	inst[1492].Selectable = false
 	inst[1492].ZIndex = 1
 	inst[1492].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -20843,7 +20843,7 @@ local function buildUI()
 	inst[1500].Rotation = 0
 	inst[1500].AutomaticSize = Enum.AutomaticSize.None
 	inst[1500].LayoutOrder = 2
-	inst[1500].Active = true
+	inst[1500].Active = false
 	inst[1500].Selectable = false
 	inst[1500].ZIndex = 5
 	inst[1500].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -20901,7 +20901,7 @@ local function buildUI()
 	inst[1504].Rotation = 0
 	inst[1504].AutomaticSize = Enum.AutomaticSize.None
 	inst[1504].LayoutOrder = 1
-	inst[1504].Active = true
+	inst[1504].Active = false
 	inst[1504].Selectable = false
 	inst[1504].ZIndex = 5
 	inst[1504].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -20993,7 +20993,7 @@ local function buildUI()
 	inst[1511].Rotation = 0
 	inst[1511].AutomaticSize = Enum.AutomaticSize.None
 	inst[1511].LayoutOrder = 0
-	inst[1511].Active = true
+	inst[1511].Active = false
 	inst[1511].Selectable = false
 	inst[1511].ZIndex = 2
 	inst[1511].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -21019,7 +21019,7 @@ local function buildUI()
 	inst[1512].Rotation = 0
 	inst[1512].AutomaticSize = Enum.AutomaticSize.None
 	inst[1512].LayoutOrder = 0
-	inst[1512].Active = true
+	inst[1512].Active = false
 	inst[1512].Selectable = false
 	inst[1512].ZIndex = 1
 	inst[1512].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -21073,7 +21073,7 @@ local function buildUI()
 	inst[1516].Rotation = 0
 	inst[1516].AutomaticSize = Enum.AutomaticSize.None
 	inst[1516].LayoutOrder = 0
-	inst[1516].Active = true
+	inst[1516].Active = false
 	inst[1516].Selectable = false
 	inst[1516].ZIndex = 1
 	inst[1516].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -21104,7 +21104,7 @@ local function buildUI()
 	inst[1518].Rotation = 0
 	inst[1518].AutomaticSize = Enum.AutomaticSize.None
 	inst[1518].LayoutOrder = 0
-	inst[1518].Active = true
+	inst[1518].Active = false
 	inst[1518].Selectable = false
 	inst[1518].ZIndex = 1
 	inst[1518].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -21335,7 +21335,7 @@ local function buildUI()
 	inst[1535].Rotation = 0
 	inst[1535].AutomaticSize = Enum.AutomaticSize.None
 	inst[1535].LayoutOrder = 2
-	inst[1535].Active = true
+	inst[1535].Active = false
 	inst[1535].Selectable = false
 	inst[1535].ZIndex = 1
 	inst[1535].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -21361,7 +21361,7 @@ local function buildUI()
 	inst[1536].Rotation = 0
 	inst[1536].AutomaticSize = Enum.AutomaticSize.None
 	inst[1536].LayoutOrder = 1
-	inst[1536].Active = true
+	inst[1536].Active = false
 	inst[1536].Selectable = false
 	inst[1536].ZIndex = 1
 	inst[1536].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -21430,7 +21430,7 @@ local function buildUI()
 	inst[1541].Rotation = 0
 	inst[1541].AutomaticSize = Enum.AutomaticSize.None
 	inst[1541].LayoutOrder = 2
-	inst[1541].Active = true
+	inst[1541].Active = false
 	inst[1541].Selectable = false
 	inst[1541].ZIndex = 1
 	inst[1541].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -21484,7 +21484,7 @@ local function buildUI()
 	inst[1544].Rotation = 0
 	inst[1544].AutomaticSize = Enum.AutomaticSize.None
 	inst[1544].LayoutOrder = 3
-	inst[1544].Active = true
+	inst[1544].Active = false
 	inst[1544].Selectable = false
 	inst[1544].ZIndex = 1
 	inst[1544].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -21554,7 +21554,7 @@ local function buildUI()
 	inst[1550].Rotation = 0
 	inst[1550].AutomaticSize = Enum.AutomaticSize.None
 	inst[1550].LayoutOrder = 1
-	inst[1550].Active = true
+	inst[1550].Active = false
 	inst[1550].Selectable = false
 	inst[1550].ZIndex = 1
 	inst[1550].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -21580,7 +21580,7 @@ local function buildUI()
 	inst[1551].Rotation = 0
 	inst[1551].AutomaticSize = Enum.AutomaticSize.None
 	inst[1551].LayoutOrder = 1
-	inst[1551].Active = true
+	inst[1551].Active = false
 	inst[1551].Selectable = false
 	inst[1551].ZIndex = 1
 	inst[1551].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -21657,7 +21657,7 @@ local function buildUI()
 	inst[1558].Rotation = 0
 	inst[1558].AutomaticSize = Enum.AutomaticSize.None
 	inst[1558].LayoutOrder = 0
-	inst[1558].Active = true
+	inst[1558].Active = false
 	inst[1558].Selectable = false
 	inst[1558].ZIndex = 1
 	inst[1558].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -21699,7 +21699,7 @@ local function buildUI()
 	inst[1560].Rotation = 0
 	inst[1560].AutomaticSize = Enum.AutomaticSize.X
 	inst[1560].LayoutOrder = 0
-	inst[1560].Active = true
+	inst[1560].Active = false
 	inst[1560].ZIndex = 1
 	inst[1560].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1560].Text = 'Select'
@@ -21876,7 +21876,7 @@ local function buildUI()
 	inst[1573].Rotation = 0
 	inst[1573].AutomaticSize = Enum.AutomaticSize.None
 	inst[1573].LayoutOrder = 5
-	inst[1573].Active = true
+	inst[1573].Active = false
 	inst[1573].Selectable = false
 	inst[1573].ZIndex = 5
 	inst[1573].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -21972,7 +21972,7 @@ local function buildUI()
 	inst[1581].Rotation = 0
 	inst[1581].AutomaticSize = Enum.AutomaticSize.None
 	inst[1581].LayoutOrder = 0
-	inst[1581].Active = true
+	inst[1581].Active = false
 	inst[1581].Selectable = false
 	inst[1581].ZIndex = 2
 	inst[1581].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -21998,7 +21998,7 @@ local function buildUI()
 	inst[1582].Rotation = 0
 	inst[1582].AutomaticSize = Enum.AutomaticSize.None
 	inst[1582].LayoutOrder = 0
-	inst[1582].Active = true
+	inst[1582].Active = false
 	inst[1582].Selectable = false
 	inst[1582].ZIndex = 1
 	inst[1582].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -22052,7 +22052,7 @@ local function buildUI()
 	inst[1586].Rotation = 0
 	inst[1586].AutomaticSize = Enum.AutomaticSize.None
 	inst[1586].LayoutOrder = 0
-	inst[1586].Active = true
+	inst[1586].Active = false
 	inst[1586].Selectable = false
 	inst[1586].ZIndex = 1
 	inst[1586].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -22083,7 +22083,7 @@ local function buildUI()
 	inst[1588].Rotation = 0
 	inst[1588].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1588].LayoutOrder = 0
-	inst[1588].Active = true
+	inst[1588].Active = false
 	inst[1588].Selectable = false
 	inst[1588].ZIndex = 1
 	inst[1588].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -22259,7 +22259,7 @@ local function buildUI()
 	inst[1601].Rotation = 0
 	inst[1601].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1601].LayoutOrder = 0
-	inst[1601].Active = true
+	inst[1601].Active = false
 	inst[1601].Selectable = false
 	inst[1601].ZIndex = 1
 	inst[1601].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -22459,7 +22459,7 @@ local function buildUI()
 	inst[1615].Rotation = 0
 	inst[1615].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1615].LayoutOrder = 0
-	inst[1615].Active = true
+	inst[1615].Active = false
 	inst[1615].Selectable = false
 	inst[1615].ZIndex = 1
 	inst[1615].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -22659,7 +22659,7 @@ local function buildUI()
 	inst[1629].Rotation = 0
 	inst[1629].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1629].LayoutOrder = 0
-	inst[1629].Active = true
+	inst[1629].Active = false
 	inst[1629].Selectable = false
 	inst[1629].ZIndex = 1
 	inst[1629].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -22863,7 +22863,7 @@ local function buildUI()
 	inst[1643].Rotation = 0
 	inst[1643].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1643].LayoutOrder = 0
-	inst[1643].Active = true
+	inst[1643].Active = false
 	inst[1643].Selectable = false
 	inst[1643].ZIndex = 1
 	inst[1643].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -23063,7 +23063,7 @@ local function buildUI()
 	inst[1657].Rotation = 0
 	inst[1657].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1657].LayoutOrder = 0
-	inst[1657].Active = true
+	inst[1657].Active = false
 	inst[1657].Selectable = false
 	inst[1657].ZIndex = 1
 	inst[1657].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -23263,7 +23263,7 @@ local function buildUI()
 	inst[1671].Rotation = 0
 	inst[1671].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1671].LayoutOrder = 0
-	inst[1671].Active = true
+	inst[1671].Active = false
 	inst[1671].Selectable = false
 	inst[1671].ZIndex = 1
 	inst[1671].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -23463,7 +23463,7 @@ local function buildUI()
 	inst[1685].Rotation = 0
 	inst[1685].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1685].LayoutOrder = 0
-	inst[1685].Active = true
+	inst[1685].Active = false
 	inst[1685].Selectable = false
 	inst[1685].ZIndex = 1
 	inst[1685].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -23685,7 +23685,7 @@ local function buildUI()
 	inst[1700].Rotation = 0
 	inst[1700].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1700].LayoutOrder = 0
-	inst[1700].Active = true
+	inst[1700].Active = false
 	inst[1700].Selectable = false
 	inst[1700].ZIndex = 1
 	inst[1700].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -23885,7 +23885,7 @@ local function buildUI()
 	inst[1714].Rotation = 0
 	inst[1714].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1714].LayoutOrder = 0
-	inst[1714].Active = true
+	inst[1714].Active = false
 	inst[1714].Selectable = false
 	inst[1714].ZIndex = 1
 	inst[1714].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -24085,7 +24085,7 @@ local function buildUI()
 	inst[1728].Rotation = 0
 	inst[1728].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1728].LayoutOrder = 0
-	inst[1728].Active = true
+	inst[1728].Active = false
 	inst[1728].Selectable = false
 	inst[1728].ZIndex = 1
 	inst[1728].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -24285,7 +24285,7 @@ local function buildUI()
 	inst[1742].Rotation = 0
 	inst[1742].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1742].LayoutOrder = 0
-	inst[1742].Active = true
+	inst[1742].Active = false
 	inst[1742].Selectable = false
 	inst[1742].ZIndex = 1
 	inst[1742].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -24485,7 +24485,7 @@ local function buildUI()
 	inst[1756].Rotation = 0
 	inst[1756].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1756].LayoutOrder = 0
-	inst[1756].Active = true
+	inst[1756].Active = false
 	inst[1756].Selectable = false
 	inst[1756].ZIndex = 1
 	inst[1756].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -24692,7 +24692,7 @@ local function buildUI()
 	inst[1772].Rotation = 0
 	inst[1772].AutomaticSize = Enum.AutomaticSize.None
 	inst[1772].LayoutOrder = 1
-	inst[1772].Active = true
+	inst[1772].Active = false
 	inst[1772].Selectable = false
 	inst[1772].ZIndex = 1
 	inst[1772].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -24718,7 +24718,7 @@ local function buildUI()
 	inst[1773].Rotation = 0
 	inst[1773].AutomaticSize = Enum.AutomaticSize.None
 	inst[1773].LayoutOrder = 1
-	inst[1773].Active = true
+	inst[1773].Active = false
 	inst[1773].Selectable = false
 	inst[1773].ZIndex = 1
 	inst[1773].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -24799,7 +24799,7 @@ local function buildUI()
 	inst[1780].Rotation = 0
 	inst[1780].AutomaticSize = Enum.AutomaticSize.None
 	inst[1780].LayoutOrder = 0
-	inst[1780].Active = true
+	inst[1780].Active = false
 	inst[1780].Selectable = false
 	inst[1780].ZIndex = 1
 	inst[1780].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -24841,7 +24841,7 @@ local function buildUI()
 	inst[1782].Rotation = 0
 	inst[1782].AutomaticSize = Enum.AutomaticSize.X
 	inst[1782].LayoutOrder = 0
-	inst[1782].Active = true
+	inst[1782].Active = false
 	inst[1782].ZIndex = 1
 	inst[1782].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1782].Text = 'Select'
@@ -25025,7 +25025,7 @@ local function buildUI()
 	inst[1796].Rotation = 0
 	inst[1796].AutomaticSize = Enum.AutomaticSize.None
 	inst[1796].LayoutOrder = 5
-	inst[1796].Active = true
+	inst[1796].Active = false
 	inst[1796].Selectable = false
 	inst[1796].ZIndex = 5
 	inst[1796].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -25116,7 +25116,7 @@ local function buildUI()
 	inst[1803].Rotation = 0
 	inst[1803].AutomaticSize = Enum.AutomaticSize.None
 	inst[1803].LayoutOrder = 0
-	inst[1803].Active = true
+	inst[1803].Active = false
 	inst[1803].Selectable = false
 	inst[1803].ZIndex = 1
 	inst[1803].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -25142,7 +25142,7 @@ local function buildUI()
 	inst[1804].Rotation = 0
 	inst[1804].AutomaticSize = Enum.AutomaticSize.None
 	inst[1804].LayoutOrder = 0
-	inst[1804].Active = true
+	inst[1804].Active = false
 	inst[1804].Selectable = false
 	inst[1804].ZIndex = 1
 	inst[1804].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -25197,7 +25197,7 @@ local function buildUI()
 	inst[1808].Rotation = 0
 	inst[1808].AutomaticSize = Enum.AutomaticSize.None
 	inst[1808].LayoutOrder = 0
-	inst[1808].Active = true
+	inst[1808].Active = false
 	inst[1808].Selectable = false
 	inst[1808].ZIndex = 1
 	inst[1808].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -25250,7 +25250,7 @@ local function buildUI()
 	inst[1812].Rotation = 0
 	inst[1812].AutomaticSize = Enum.AutomaticSize.None
 	inst[1812].LayoutOrder = 3
-	inst[1812].Active = true
+	inst[1812].Active = false
 	inst[1812].Selectable = false
 	inst[1812].ZIndex = 1
 	inst[1812].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -25276,7 +25276,7 @@ local function buildUI()
 	inst[1813].Rotation = 0
 	inst[1813].AutomaticSize = Enum.AutomaticSize.None
 	inst[1813].LayoutOrder = 0
-	inst[1813].Active = true
+	inst[1813].Active = false
 	inst[1813].Selectable = false
 	inst[1813].ZIndex = 1
 	inst[1813].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -25338,7 +25338,7 @@ local function buildUI()
 	inst[1818].Rotation = 0
 	inst[1818].AutomaticSize = Enum.AutomaticSize.None
 	inst[1818].LayoutOrder = 0
-	inst[1818].Active = true
+	inst[1818].Active = false
 	inst[1818].Selectable = false
 	inst[1818].ZIndex = 1
 	inst[1818].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -25400,7 +25400,7 @@ local function buildUI()
 	inst[1823].Rotation = 0
 	inst[1823].AutomaticSize = Enum.AutomaticSize.None
 	inst[1823].LayoutOrder = 0
-	inst[1823].Active = true
+	inst[1823].Active = false
 	inst[1823].Selectable = false
 	inst[1823].ZIndex = 1
 	inst[1823].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -25580,7 +25580,7 @@ local function buildUI()
 	inst[1838].Rotation = 0
 	inst[1838].AutomaticSize = Enum.AutomaticSize.None
 	inst[1838].LayoutOrder = 3
-	inst[1838].Active = true
+	inst[1838].Active = false
 	inst[1838].Selectable = false
 	inst[1838].ZIndex = 1
 	inst[1838].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -25814,7 +25814,7 @@ local function buildUI()
 	inst[1853].Rotation = 0
 	inst[1853].AutomaticSize = Enum.AutomaticSize.None
 	inst[1853].LayoutOrder = 3
-	inst[1853].Active = true
+	inst[1853].Active = false
 	inst[1853].Selectable = false
 	inst[1853].ZIndex = 1
 	inst[1853].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -25928,7 +25928,7 @@ local function buildUI()
 	inst[1860].Rotation = 0
 	inst[1860].AutomaticSize = Enum.AutomaticSize.None
 	inst[1860].LayoutOrder = 2
-	inst[1860].Active = true
+	inst[1860].Active = false
 	inst[1860].Selectable = false
 	inst[1860].ZIndex = 5
 	inst[1860].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -26023,7 +26023,7 @@ local function buildUI()
 	inst[1868].Rotation = 0
 	inst[1868].AutomaticSize = Enum.AutomaticSize.None
 	inst[1868].LayoutOrder = 0
-	inst[1868].Active = true
+	inst[1868].Active = false
 	inst[1868].Selectable = false
 	inst[1868].ZIndex = 1
 	inst[1868].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -26049,7 +26049,7 @@ local function buildUI()
 	inst[1869].Rotation = 0
 	inst[1869].AutomaticSize = Enum.AutomaticSize.None
 	inst[1869].LayoutOrder = 0
-	inst[1869].Active = true
+	inst[1869].Active = false
 	inst[1869].Selectable = false
 	inst[1869].ZIndex = 1
 	inst[1869].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -26120,7 +26120,7 @@ local function buildUI()
 	inst[1874].Rotation = 0
 	inst[1874].AutomaticSize = Enum.AutomaticSize.None
 	inst[1874].LayoutOrder = 0
-	inst[1874].Active = true
+	inst[1874].Active = false
 	inst[1874].Selectable = false
 	inst[1874].ZIndex = 1
 	inst[1874].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -26150,7 +26150,7 @@ local function buildUI()
 	inst[1876].Rotation = 0
 	inst[1876].AutomaticSize = Enum.AutomaticSize.None
 	inst[1876].LayoutOrder = 0
-	inst[1876].Active = true
+	inst[1876].Active = false
 	inst[1876].Selectable = false
 	inst[1876].ZIndex = 1
 	inst[1876].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -26248,7 +26248,7 @@ local function buildUI()
 	inst[1883].Rotation = 0
 	inst[1883].AutomaticSize = Enum.AutomaticSize.None
 	inst[1883].LayoutOrder = 2
-	inst[1883].Active = true
+	inst[1883].Active = false
 	inst[1883].Selectable = false
 	inst[1883].ZIndex = 5
 	inst[1883].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -26339,7 +26339,7 @@ local function buildUI()
 	inst[1889].Rotation = 0
 	inst[1889].AutomaticSize = Enum.AutomaticSize.None
 	inst[1889].LayoutOrder = 0
-	inst[1889].Active = true
+	inst[1889].Active = false
 	inst[1889].Selectable = false
 	inst[1889].ZIndex = 1
 	inst[1889].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -26381,7 +26381,7 @@ local function buildUI()
 	inst[1891].Rotation = 0
 	inst[1891].AutomaticSize = Enum.AutomaticSize.X
 	inst[1891].LayoutOrder = 0
-	inst[1891].Active = true
+	inst[1891].Active = false
 	inst[1891].ZIndex = 1
 	inst[1891].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1891].Text = 'Back'
@@ -26445,7 +26445,7 @@ local function buildUI()
 	inst[1896].Rotation = 0
 	inst[1896].AutomaticSize = Enum.AutomaticSize.None
 	inst[1896].LayoutOrder = 0
-	inst[1896].Active = true
+	inst[1896].Active = false
 	inst[1896].Selectable = false
 	inst[1896].ZIndex = 1
 	inst[1896].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -26571,7 +26571,7 @@ local function buildUI()
 	inst[1906].Rotation = 0
 	inst[1906].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1906].LayoutOrder = 3
-	inst[1906].Active = true
+	inst[1906].Active = false
 	inst[1906].Selectable = false
 	inst[1906].ZIndex = 1
 	inst[1906].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -26647,7 +26647,7 @@ local function buildUI()
 	inst[1912].Rotation = 0
 	inst[1912].AutomaticSize = Enum.AutomaticSize.None
 	inst[1912].LayoutOrder = 0
-	inst[1912].Active = true
+	inst[1912].Active = false
 	inst[1912].Selectable = false
 	inst[1912].ZIndex = 1
 	inst[1912].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -26767,7 +26767,7 @@ local function buildUI()
 	inst[1920].Rotation = 0
 	inst[1920].AutomaticSize = Enum.AutomaticSize.None
 	inst[1920].LayoutOrder = 0
-	inst[1920].Active = true
+	inst[1920].Active = false
 	inst[1920].Selectable = false
 	inst[1920].ZIndex = 1
 	inst[1920].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -26809,7 +26809,7 @@ local function buildUI()
 	inst[1922].Rotation = 0
 	inst[1922].AutomaticSize = Enum.AutomaticSize.X
 	inst[1922].LayoutOrder = 0
-	inst[1922].Active = true
+	inst[1922].Active = false
 	inst[1922].ZIndex = 1
 	inst[1922].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1922].Text = 'Warn'
@@ -26851,7 +26851,7 @@ local function buildUI()
 	inst[1925].Rotation = 0
 	inst[1925].AutomaticSize = Enum.AutomaticSize.X
 	inst[1925].LayoutOrder = 0
-	inst[1925].Active = true
+	inst[1925].Active = false
 	inst[1925].ZIndex = 1
 	inst[1925].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1925].Text = 'Manage Players'
@@ -27133,7 +27133,7 @@ local function buildUI()
 	inst[1947].Rotation = 0
 	inst[1947].AutomaticSize = Enum.AutomaticSize.None
 	inst[1947].LayoutOrder = 2
-	inst[1947].Active = true
+	inst[1947].Active = false
 	inst[1947].Selectable = false
 	inst[1947].ZIndex = 5
 	inst[1947].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -27191,7 +27191,7 @@ local function buildUI()
 	inst[1951].Rotation = 0
 	inst[1951].AutomaticSize = Enum.AutomaticSize.None
 	inst[1951].LayoutOrder = 1
-	inst[1951].Active = true
+	inst[1951].Active = false
 	inst[1951].Selectable = false
 	inst[1951].ZIndex = 5
 	inst[1951].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -27283,7 +27283,7 @@ local function buildUI()
 	inst[1958].Rotation = 0
 	inst[1958].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1958].LayoutOrder = 0
-	inst[1958].Active = true
+	inst[1958].Active = false
 	inst[1958].Selectable = false
 	inst[1958].ZIndex = 1
 	inst[1958].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -27309,7 +27309,7 @@ local function buildUI()
 	inst[1959].Rotation = 0
 	inst[1959].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1959].LayoutOrder = 0
-	inst[1959].Active = true
+	inst[1959].Active = false
 	inst[1959].Selectable = false
 	inst[1959].ZIndex = 1
 	inst[1959].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -27374,7 +27374,7 @@ local function buildUI()
 	inst[1964].Rotation = 0
 	inst[1964].AutomaticSize = Enum.AutomaticSize.None
 	inst[1964].LayoutOrder = 2
-	inst[1964].Active = true
+	inst[1964].Active = false
 	inst[1964].Selectable = false
 	inst[1964].ZIndex = 1
 	inst[1964].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -27406,7 +27406,7 @@ local function buildUI()
 	inst[1966].Rotation = 0
 	inst[1966].AutomaticSize = Enum.AutomaticSize.None
 	inst[1966].LayoutOrder = 1
-	inst[1966].Active = true
+	inst[1966].Active = false
 	inst[1966].Selectable = false
 	inst[1966].ZIndex = 1
 	inst[1966].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -27460,7 +27460,7 @@ local function buildUI()
 	inst[1968].Rotation = 0
 	inst[1968].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1968].LayoutOrder = 1
-	inst[1968].Active = true
+	inst[1968].Active = false
 	inst[1968].Selectable = false
 	inst[1968].ZIndex = 1
 	inst[1968].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -27550,7 +27550,7 @@ local function buildUI()
 	inst[1974].Rotation = 0
 	inst[1974].AutomaticSize = Enum.AutomaticSize.None
 	inst[1974].LayoutOrder = 0
-	inst[1974].Active = true
+	inst[1974].Active = false
 	inst[1974].Selectable = false
 	inst[1974].ZIndex = 2
 	inst[1974].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -27576,7 +27576,7 @@ local function buildUI()
 	inst[1975].Rotation = 0
 	inst[1975].AutomaticSize = Enum.AutomaticSize.None
 	inst[1975].LayoutOrder = 0
-	inst[1975].Active = true
+	inst[1975].Active = false
 	inst[1975].Selectable = false
 	inst[1975].ZIndex = 1
 	inst[1975].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -27630,7 +27630,7 @@ local function buildUI()
 	inst[1979].Rotation = 0
 	inst[1979].AutomaticSize = Enum.AutomaticSize.None
 	inst[1979].LayoutOrder = 0
-	inst[1979].Active = true
+	inst[1979].Active = false
 	inst[1979].Selectable = false
 	inst[1979].ZIndex = 1
 	inst[1979].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -27660,7 +27660,7 @@ local function buildUI()
 	inst[1981].Rotation = 0
 	inst[1981].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1981].LayoutOrder = 0
-	inst[1981].Active = true
+	inst[1981].Active = false
 	inst[1981].Selectable = false
 	inst[1981].ZIndex = 1
 	inst[1981].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -27984,7 +27984,7 @@ local function buildUI()
 	inst[2003].Rotation = 0
 	inst[2003].AutomaticSize = Enum.AutomaticSize.None
 	inst[2003].LayoutOrder = 5
-	inst[2003].Active = true
+	inst[2003].Active = false
 	inst[2003].Selectable = false
 	inst[2003].ZIndex = 5
 	inst[2003].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -28132,7 +28132,7 @@ local function buildUI()
 	inst[2014].Rotation = 0
 	inst[2014].AutomaticSize = Enum.AutomaticSize.None
 	inst[2014].LayoutOrder = 0
-	inst[2014].Active = true
+	inst[2014].Active = false
 	inst[2014].Selectable = false
 	inst[2014].ZIndex = 2
 	inst[2014].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -28158,7 +28158,7 @@ local function buildUI()
 	inst[2015].Rotation = 0
 	inst[2015].AutomaticSize = Enum.AutomaticSize.None
 	inst[2015].LayoutOrder = 0
-	inst[2015].Active = true
+	inst[2015].Active = false
 	inst[2015].Selectable = false
 	inst[2015].ZIndex = 1
 	inst[2015].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -28213,7 +28213,7 @@ local function buildUI()
 	inst[2019].Rotation = 0
 	inst[2019].AutomaticSize = Enum.AutomaticSize.None
 	inst[2019].LayoutOrder = 0
-	inst[2019].Active = true
+	inst[2019].Active = false
 	inst[2019].Selectable = false
 	inst[2019].ZIndex = 1
 	inst[2019].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -28275,7 +28275,7 @@ local function buildUI()
 	inst[2024].Rotation = 0
 	inst[2024].AutomaticSize = Enum.AutomaticSize.None
 	inst[2024].LayoutOrder = 1
-	inst[2024].Active = true
+	inst[2024].Active = false
 	inst[2024].Selectable = false
 	inst[2024].ZIndex = 1
 	inst[2024].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -28301,7 +28301,7 @@ local function buildUI()
 	inst[2025].Rotation = 0
 	inst[2025].AutomaticSize = Enum.AutomaticSize.None
 	inst[2025].LayoutOrder = 1
-	inst[2025].Active = true
+	inst[2025].Active = false
 	inst[2025].Selectable = false
 	inst[2025].ZIndex = 1
 	inst[2025].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -28501,7 +28501,7 @@ local function buildUI()
 	inst[2042].Rotation = 0
 	inst[2042].AutomaticSize = Enum.AutomaticSize.None
 	inst[2042].LayoutOrder = 0
-	inst[2042].Active = true
+	inst[2042].Active = false
 	inst[2042].Selectable = false
 	inst[2042].ZIndex = 1
 	inst[2042].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -28657,7 +28657,7 @@ local function buildUI()
 	inst[2054].Rotation = 0
 	inst[2054].AutomaticSize = Enum.AutomaticSize.None
 	inst[2054].LayoutOrder = 0
-	inst[2054].Active = true
+	inst[2054].Active = false
 	inst[2054].Selectable = false
 	inst[2054].ZIndex = 1
 	inst[2054].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -28724,7 +28724,7 @@ local function buildUI()
 	inst[2057].Rotation = 0
 	inst[2057].AutomaticSize = Enum.AutomaticSize.None
 	inst[2057].LayoutOrder = 0
-	inst[2057].Active = true
+	inst[2057].Active = false
 	inst[2057].Selectable = false
 	inst[2057].ZIndex = 1
 	inst[2057].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -28934,7 +28934,7 @@ local function buildUI()
 	inst[2071].Rotation = 0
 	inst[2071].AutomaticSize = Enum.AutomaticSize.None
 	inst[2071].LayoutOrder = 0
-	inst[2071].Active = true
+	inst[2071].Active = false
 	inst[2071].Selectable = false
 	inst[2071].ZIndex = 1
 	inst[2071].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -29000,7 +29000,7 @@ local function buildUI()
 	inst[2074].Rotation = 0
 	inst[2074].AutomaticSize = Enum.AutomaticSize.None
 	inst[2074].LayoutOrder = 0
-	inst[2074].Active = true
+	inst[2074].Active = false
 	inst[2074].Selectable = false
 	inst[2074].ZIndex = 1
 	inst[2074].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -29042,7 +29042,7 @@ local function buildUI()
 	inst[2076].Rotation = 0
 	inst[2076].AutomaticSize = Enum.AutomaticSize.X
 	inst[2076].LayoutOrder = 0
-	inst[2076].Active = true
+	inst[2076].Active = false
 	inst[2076].ZIndex = 1
 	inst[2076].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2076].Text = 'Attach'
@@ -29189,7 +29189,7 @@ local function buildUI()
 	inst[2087].Rotation = 0
 	inst[2087].AutomaticSize = Enum.AutomaticSize.None
 	inst[2087].LayoutOrder = 5
-	inst[2087].Active = true
+	inst[2087].Active = false
 	inst[2087].Selectable = false
 	inst[2087].ZIndex = 5
 	inst[2087].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -29309,7 +29309,7 @@ local function buildUI()
 	inst[2096].Rotation = 0
 	inst[2096].AutomaticSize = Enum.AutomaticSize.None
 	inst[2096].LayoutOrder = 0
-	inst[2096].Active = true
+	inst[2096].Active = false
 	inst[2096].Selectable = false
 	inst[2096].ZIndex = 2
 	inst[2096].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -29335,7 +29335,7 @@ local function buildUI()
 	inst[2097].Rotation = 0
 	inst[2097].AutomaticSize = Enum.AutomaticSize.None
 	inst[2097].LayoutOrder = 0
-	inst[2097].Active = true
+	inst[2097].Active = false
 	inst[2097].Selectable = false
 	inst[2097].ZIndex = 1
 	inst[2097].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -29389,7 +29389,7 @@ local function buildUI()
 	inst[2101].Rotation = 0
 	inst[2101].AutomaticSize = Enum.AutomaticSize.None
 	inst[2101].LayoutOrder = 0
-	inst[2101].Active = true
+	inst[2101].Active = false
 	inst[2101].Selectable = false
 	inst[2101].ZIndex = 1
 	inst[2101].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -29476,7 +29476,7 @@ local function buildUI()
 	inst[2107].Rotation = 0
 	inst[2107].AutomaticSize = Enum.AutomaticSize.Y
 	inst[2107].LayoutOrder = 1
-	inst[2107].Active = true
+	inst[2107].Active = false
 	inst[2107].Selectable = false
 	inst[2107].ZIndex = 1
 	inst[2107].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -29623,7 +29623,7 @@ local function buildUI()
 	inst[2116].Rotation = 0
 	inst[2116].AutomaticSize = Enum.AutomaticSize.None
 	inst[2116].LayoutOrder = 1
-	inst[2116].Active = true
+	inst[2116].Active = false
 	inst[2116].Selectable = false
 	inst[2116].ZIndex = 1
 	inst[2116].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -29745,7 +29745,7 @@ local function buildUI()
 	inst[2123].Rotation = 0
 	inst[2123].AutomaticSize = Enum.AutomaticSize.None
 	inst[2123].LayoutOrder = 1
-	inst[2123].Active = true
+	inst[2123].Active = false
 	inst[2123].Selectable = false
 	inst[2123].ZIndex = 1
 	inst[2123].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -29843,7 +29843,7 @@ local function buildUI()
 	inst[2130].Rotation = 0
 	inst[2130].AutomaticSize = Enum.AutomaticSize.None
 	inst[2130].LayoutOrder = 1
-	inst[2130].Active = true
+	inst[2130].Active = false
 	inst[2130].Selectable = false
 	inst[2130].ZIndex = 1
 	inst[2130].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -29937,7 +29937,7 @@ local function buildUI()
 	inst[2136].Rotation = 0
 	inst[2136].AutomaticSize = Enum.AutomaticSize.None
 	inst[2136].LayoutOrder = 1
-	inst[2136].Active = true
+	inst[2136].Active = false
 	inst[2136].Selectable = false
 	inst[2136].ZIndex = 1
 	inst[2136].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -30031,7 +30031,7 @@ local function buildUI()
 	inst[2142].Rotation = 0
 	inst[2142].AutomaticSize = Enum.AutomaticSize.None
 	inst[2142].LayoutOrder = 1
-	inst[2142].Active = true
+	inst[2142].Active = false
 	inst[2142].Selectable = false
 	inst[2142].ZIndex = 1
 	inst[2142].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -30175,7 +30175,7 @@ local function buildUI()
 	inst[2151].Rotation = 0
 	inst[2151].AutomaticSize = Enum.AutomaticSize.Y
 	inst[2151].LayoutOrder = 1
-	inst[2151].Active = true
+	inst[2151].Active = false
 	inst[2151].Selectable = false
 	inst[2151].ZIndex = 1
 	inst[2151].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -30348,7 +30348,7 @@ local function buildUI()
 	inst[2161].Rotation = 0
 	inst[2161].AutomaticSize = Enum.AutomaticSize.Y
 	inst[2161].LayoutOrder = 1
-	inst[2161].Active = true
+	inst[2161].Active = false
 	inst[2161].Selectable = false
 	inst[2161].ZIndex = 1
 	inst[2161].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -30502,7 +30502,7 @@ local function buildUI()
 	inst[2171].Rotation = 0
 	inst[2171].AutomaticSize = Enum.AutomaticSize.None
 	inst[2171].LayoutOrder = 5
-	inst[2171].Active = true
+	inst[2171].Active = false
 	inst[2171].Selectable = false
 	inst[2171].ZIndex = 5
 	inst[2171].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -30589,7 +30589,7 @@ local function buildUI()
 	inst[2177].Rotation = 0
 	inst[2177].AutomaticSize = Enum.AutomaticSize.None
 	inst[2177].LayoutOrder = 1
-	inst[2177].Active = true
+	inst[2177].Active = false
 	inst[2177].Selectable = false
 	inst[2177].ZIndex = 5
 	inst[2177].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -30680,7 +30680,7 @@ local function buildUI()
 	inst[2184].Rotation = 0
 	inst[2184].AutomaticSize = Enum.AutomaticSize.None
 	inst[2184].LayoutOrder = 0
-	inst[2184].Active = true
+	inst[2184].Active = false
 	inst[2184].Selectable = false
 	inst[2184].ZIndex = 2
 	inst[2184].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -30706,7 +30706,7 @@ local function buildUI()
 	inst[2185].Rotation = 0
 	inst[2185].AutomaticSize = Enum.AutomaticSize.None
 	inst[2185].LayoutOrder = 0
-	inst[2185].Active = true
+	inst[2185].Active = false
 	inst[2185].Selectable = false
 	inst[2185].ZIndex = 1
 	inst[2185].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -30760,7 +30760,7 @@ local function buildUI()
 	inst[2189].Rotation = 0
 	inst[2189].AutomaticSize = Enum.AutomaticSize.None
 	inst[2189].LayoutOrder = 0
-	inst[2189].Active = true
+	inst[2189].Active = false
 	inst[2189].Selectable = false
 	inst[2189].ZIndex = 1
 	inst[2189].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -31300,7 +31300,7 @@ local function buildUI()
 	inst[2226].Rotation = 0
 	inst[2226].AutomaticSize = Enum.AutomaticSize.None
 	inst[2226].LayoutOrder = 5
-	inst[2226].Active = true
+	inst[2226].Active = false
 	inst[2226].Selectable = false
 	inst[2226].ZIndex = 5
 	inst[2226].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -31538,7 +31538,7 @@ local function buildUI()
 	inst[2249].Rotation = 0
 	inst[2249].AutomaticSize = Enum.AutomaticSize.None
 	inst[2249].LayoutOrder = 0
-	inst[2249].Active = true
+	inst[2249].Active = false
 	inst[2249].Selectable = false
 	inst[2249].ZIndex = 1
 	inst[2249].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -31630,7 +31630,7 @@ local function buildUI()
 	inst[2255].Rotation = 0
 	inst[2255].AutomaticSize = Enum.AutomaticSize.None
 	inst[2255].LayoutOrder = 0
-	inst[2255].Active = true
+	inst[2255].Active = false
 	inst[2255].Selectable = false
 	inst[2255].ZIndex = 1
 	inst[2255].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -31679,7 +31679,7 @@ local function buildUI()
 	inst[2258].Rotation = 0
 	inst[2258].AutomaticSize = Enum.AutomaticSize.None
 	inst[2258].LayoutOrder = 2
-	inst[2258].Active = true
+	inst[2258].Active = false
 	inst[2258].Selectable = false
 	inst[2258].ZIndex = 1
 	inst[2258].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -31853,7 +31853,7 @@ local function buildUI()
 	inst[2272].Rotation = 0
 	inst[2272].AutomaticSize = Enum.AutomaticSize.None
 	inst[2272].LayoutOrder = 1
-	inst[2272].Active = true
+	inst[2272].Active = false
 	inst[2272].Selectable = false
 	inst[2272].ZIndex = 1
 	inst[2272].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -31954,7 +31954,7 @@ local function buildUI()
 	inst[2279].Rotation = 0
 	inst[2279].AutomaticSize = Enum.AutomaticSize.None
 	inst[2279].LayoutOrder = 2
-	inst[2279].Active = true
+	inst[2279].Active = false
 	inst[2279].Selectable = false
 	inst[2279].ZIndex = 1
 	inst[2279].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -32071,7 +32071,7 @@ local function buildUI()
 	inst[2286].Rotation = 0
 	inst[2286].AutomaticSize = Enum.AutomaticSize.None
 	inst[2286].LayoutOrder = 3
-	inst[2286].Active = true
+	inst[2286].Active = false
 	inst[2286].Selectable = false
 	inst[2286].ZIndex = 1
 	inst[2286].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -32124,7 +32124,7 @@ local function buildUI()
 	inst[2290].Rotation = 0
 	inst[2290].AutomaticSize = Enum.AutomaticSize.None
 	inst[2290].LayoutOrder = 1
-	inst[2290].Active = true
+	inst[2290].Active = false
 	inst[2290].Selectable = false
 	inst[2290].ZIndex = 1
 	inst[2290].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -32237,7 +32237,7 @@ local function buildUI()
 	inst[2298].Rotation = 0
 	inst[2298].AutomaticSize = Enum.AutomaticSize.None
 	inst[2298].LayoutOrder = 3
-	inst[2298].Active = true
+	inst[2298].Active = false
 	inst[2298].Selectable = false
 	inst[2298].ZIndex = 1
 	inst[2298].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -32395,7 +32395,7 @@ local function buildUI()
 	inst[2309].Rotation = 0
 	inst[2309].AutomaticSize = Enum.AutomaticSize.None
 	inst[2309].LayoutOrder = 6
-	inst[2309].Active = true
+	inst[2309].Active = false
 	inst[2309].Selectable = false
 	inst[2309].ZIndex = 1
 	inst[2309].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -32557,7 +32557,7 @@ local function buildUI()
 	inst[2320].Rotation = 0
 	inst[2320].AutomaticSize = Enum.AutomaticSize.None
 	inst[2320].LayoutOrder = 4
-	inst[2320].Active = true
+	inst[2320].Active = false
 	inst[2320].Selectable = false
 	inst[2320].ZIndex = 1
 	inst[2320].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -32711,7 +32711,7 @@ local function buildUI()
 	inst[2330].Rotation = 0
 	inst[2330].AutomaticSize = Enum.AutomaticSize.None
 	inst[2330].LayoutOrder = 2
-	inst[2330].Active = true
+	inst[2330].Active = false
 	inst[2330].Selectable = false
 	inst[2330].ZIndex = 1
 	inst[2330].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -32824,7 +32824,7 @@ local function buildUI()
 	inst[2338].Rotation = 0
 	inst[2338].AutomaticSize = Enum.AutomaticSize.None
 	inst[2338].LayoutOrder = 5
-	inst[2338].Active = true
+	inst[2338].Active = false
 	inst[2338].Selectable = false
 	inst[2338].ZIndex = 1
 	inst[2338].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -33008,7 +33008,7 @@ local function buildUI()
 	inst[2352].Rotation = 0
 	inst[2352].AutomaticSize = Enum.AutomaticSize.None
 	inst[2352].LayoutOrder = 5
-	inst[2352].Active = true
+	inst[2352].Active = false
 	inst[2352].Selectable = false
 	inst[2352].ZIndex = 1
 	inst[2352].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -33214,7 +33214,7 @@ local function buildUI()
 	inst[2370].Rotation = 0
 	inst[2370].AutomaticSize = Enum.AutomaticSize.None
 	inst[2370].LayoutOrder = 1
-	inst[2370].Active = true
+	inst[2370].Active = false
 	inst[2370].ZIndex = 1
 	inst[2370].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2370].Image = ''
@@ -33240,7 +33240,7 @@ local function buildUI()
 	inst[2371].Rotation = 0
 	inst[2371].AutomaticSize = Enum.AutomaticSize.None
 	inst[2371].LayoutOrder = 0
-	inst[2371].Active = true
+	inst[2371].Active = false
 	inst[2371].Selectable = false
 	inst[2371].ZIndex = 1
 	inst[2371].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -33391,7 +33391,7 @@ local function buildUI()
 	inst[2383].Rotation = 0
 	inst[2383].AutomaticSize = Enum.AutomaticSize.None
 	inst[2383].LayoutOrder = 0
-	inst[2383].Active = true
+	inst[2383].Active = false
 	inst[2383].Selectable = false
 	inst[2383].ZIndex = 1
 	inst[2383].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -33526,7 +33526,7 @@ local function buildUI()
 	inst[2393].Rotation = 0
 	inst[2393].AutomaticSize = Enum.AutomaticSize.None
 	inst[2393].LayoutOrder = 0
-	inst[2393].Active = true
+	inst[2393].Active = false
 	inst[2393].Selectable = false
 	inst[2393].ZIndex = 1
 	inst[2393].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -33753,7 +33753,7 @@ local function buildUI()
 	inst[2406].Rotation = 0
 	inst[2406].AutomaticSize = Enum.AutomaticSize.None
 	inst[2406].LayoutOrder = 0
-	inst[2406].Active = true
+	inst[2406].Active = false
 	inst[2406].Selectable = false
 	inst[2406].ZIndex = 1
 	inst[2406].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -33825,7 +33825,7 @@ local function buildUI()
 	inst[2412].Rotation = 0
 	inst[2412].AutomaticSize = Enum.AutomaticSize.None
 	inst[2412].LayoutOrder = -21
-	inst[2412].Active = true
+	inst[2412].Active = false
 	inst[2412].Selectable = false
 	inst[2412].ZIndex = 1
 	inst[2412].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -34049,7 +34049,7 @@ local function buildUI()
 	inst[2428].Rotation = 0
 	inst[2428].AutomaticSize = Enum.AutomaticSize.None
 	inst[2428].LayoutOrder = 0
-	inst[2428].Active = true
+	inst[2428].Active = false
 	inst[2428].Selectable = false
 	inst[2428].ZIndex = 1
 	inst[2428].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -34323,7 +34323,7 @@ local function buildUI()
 	inst[2449].Rotation = 0
 	inst[2449].AutomaticSize = Enum.AutomaticSize.None
 	inst[2449].LayoutOrder = 0
-	inst[2449].Active = true
+	inst[2449].Active = false
 	inst[2449].Selectable = false
 	inst[2449].ZIndex = 1
 	inst[2449].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -34788,7 +34788,7 @@ local function buildUI()
 	inst[2482].Rotation = 0
 	inst[2482].AutomaticSize = Enum.AutomaticSize.None
 	inst[2482].LayoutOrder = 0
-	inst[2482].Active = true
+	inst[2482].Active = false
 	inst[2482].Selectable = false
 	inst[2482].ZIndex = 1
 	inst[2482].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -34987,7 +34987,7 @@ local function buildUI()
 	inst[2497].Rotation = 0
 	inst[2497].AutomaticSize = Enum.AutomaticSize.None
 	inst[2497].LayoutOrder = 0
-	inst[2497].Active = true
+	inst[2497].Active = false
 	inst[2497].Selectable = false
 	inst[2497].ZIndex = 1
 	inst[2497].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -35187,7 +35187,7 @@ local function buildUI()
 	inst[2510].Rotation = 0
 	inst[2510].AutomaticSize = Enum.AutomaticSize.None
 	inst[2510].LayoutOrder = 0
-	inst[2510].Active = true
+	inst[2510].Active = false
 	inst[2510].Selectable = false
 	inst[2510].ZIndex = 1
 	inst[2510].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -35632,7 +35632,7 @@ local function buildUI()
 	inst[2544].Rotation = 0
 	inst[2544].AutomaticSize = Enum.AutomaticSize.Y
 	inst[2544].LayoutOrder = 0
-	inst[2544].Active = true
+	inst[2544].Active = false
 	inst[2544].Selectable = false
 	inst[2544].ZIndex = 1
 	inst[2544].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -35650,7 +35650,7 @@ local function buildUI()
 	inst[2545].Rotation = 0
 	inst[2545].AutomaticSize = Enum.AutomaticSize.None
 	inst[2545].LayoutOrder = 0
-	inst[2545].Active = true
+	inst[2545].Active = false
 	inst[2545].ZIndex = 1
 	inst[2545].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2545].Image = ''
@@ -35712,7 +35712,7 @@ local function buildUI()
 	inst[2549].Rotation = 0
 	inst[2549].AutomaticSize = Enum.AutomaticSize.X
 	inst[2549].LayoutOrder = 0
-	inst[2549].Active = true
+	inst[2549].Active = false
 	inst[2549].ZIndex = 1
 	inst[2549].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2549].Text = '101073989556246'
@@ -35765,7 +35765,7 @@ local function buildUI()
 	inst[2553].Rotation = 0
 	inst[2553].AutomaticSize = Enum.AutomaticSize.None
 	inst[2553].LayoutOrder = 0
-	inst[2553].Active = true
+	inst[2553].Active = false
 	inst[2553].ZIndex = 1
 	inst[2553].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2553].Image = ''
@@ -35827,7 +35827,7 @@ local function buildUI()
 	inst[2557].Rotation = 0
 	inst[2557].AutomaticSize = Enum.AutomaticSize.XY
 	inst[2557].LayoutOrder = 0
-	inst[2557].Active = true
+	inst[2557].Active = false
 	inst[2557].ZIndex = 1
 	inst[2557].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2557].Text = '77aa6287-58e6-4f14-8128-c080650ce317'
@@ -36090,7 +36090,7 @@ local function buildUI()
 	inst[2578].Rotation = 0
 	inst[2578].AutomaticSize = Enum.AutomaticSize.None
 	inst[2578].LayoutOrder = 1
-	inst[2578].Active = true
+	inst[2578].Active = false
 	inst[2578].Selectable = false
 	inst[2578].ZIndex = 1
 	inst[2578].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -36204,7 +36204,7 @@ local function buildUI()
 	inst[2586].Rotation = 0
 	inst[2586].AutomaticSize = Enum.AutomaticSize.None
 	inst[2586].LayoutOrder = 0
-	inst[2586].Active = true
+	inst[2586].Active = false
 	inst[2586].ZIndex = 1
 	inst[2586].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2586].Image = ''
@@ -36261,7 +36261,7 @@ local function buildUI()
 	inst[2590].Rotation = 0
 	inst[2590].AutomaticSize = Enum.AutomaticSize.None
 	inst[2590].LayoutOrder = 3
-	inst[2590].Active = true
+	inst[2590].Active = false
 	inst[2590].Selectable = false
 	inst[2590].ZIndex = 1
 	inst[2590].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -36375,7 +36375,7 @@ local function buildUI()
 	inst[2598].Rotation = 0
 	inst[2598].AutomaticSize = Enum.AutomaticSize.None
 	inst[2598].LayoutOrder = 0
-	inst[2598].Active = true
+	inst[2598].Active = false
 	inst[2598].ZIndex = 1
 	inst[2598].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2598].Image = ''
@@ -36432,7 +36432,7 @@ local function buildUI()
 	inst[2602].Rotation = 0
 	inst[2602].AutomaticSize = Enum.AutomaticSize.None
 	inst[2602].LayoutOrder = 1
-	inst[2602].Active = true
+	inst[2602].Active = false
 	inst[2602].Selectable = false
 	inst[2602].ZIndex = 1
 	inst[2602].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -36546,7 +36546,7 @@ local function buildUI()
 	inst[2610].Rotation = 0
 	inst[2610].AutomaticSize = Enum.AutomaticSize.None
 	inst[2610].LayoutOrder = 0
-	inst[2610].Active = true
+	inst[2610].Active = false
 	inst[2610].ZIndex = 1
 	inst[2610].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2610].Image = ''
@@ -36603,7 +36603,7 @@ local function buildUI()
 	inst[2614].Rotation = 0
 	inst[2614].AutomaticSize = Enum.AutomaticSize.None
 	inst[2614].LayoutOrder = 1
-	inst[2614].Active = true
+	inst[2614].Active = false
 	inst[2614].Selectable = false
 	inst[2614].ZIndex = 1
 	inst[2614].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -36717,7 +36717,7 @@ local function buildUI()
 	inst[2622].Rotation = 0
 	inst[2622].AutomaticSize = Enum.AutomaticSize.None
 	inst[2622].LayoutOrder = 0
-	inst[2622].Active = true
+	inst[2622].Active = false
 	inst[2622].ZIndex = 1
 	inst[2622].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2622].Image = ''
@@ -36774,7 +36774,7 @@ local function buildUI()
 	inst[2626].Rotation = 0
 	inst[2626].AutomaticSize = Enum.AutomaticSize.None
 	inst[2626].LayoutOrder = 0
-	inst[2626].Active = true
+	inst[2626].Active = false
 	inst[2626].Selectable = false
 	inst[2626].ZIndex = 1
 	inst[2626].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -36888,7 +36888,7 @@ local function buildUI()
 	inst[2634].Rotation = 0
 	inst[2634].AutomaticSize = Enum.AutomaticSize.None
 	inst[2634].LayoutOrder = 0
-	inst[2634].Active = true
+	inst[2634].Active = false
 	inst[2634].ZIndex = 1
 	inst[2634].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2634].Image = ''
@@ -36945,7 +36945,7 @@ local function buildUI()
 	inst[2638].Rotation = 0
 	inst[2638].AutomaticSize = Enum.AutomaticSize.None
 	inst[2638].LayoutOrder = 1
-	inst[2638].Active = true
+	inst[2638].Active = false
 	inst[2638].Selectable = false
 	inst[2638].ZIndex = 1
 	inst[2638].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -37059,7 +37059,7 @@ local function buildUI()
 	inst[2646].Rotation = 0
 	inst[2646].AutomaticSize = Enum.AutomaticSize.None
 	inst[2646].LayoutOrder = 0
-	inst[2646].Active = true
+	inst[2646].Active = false
 	inst[2646].ZIndex = 1
 	inst[2646].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2646].Image = ''
@@ -37116,7 +37116,7 @@ local function buildUI()
 	inst[2650].Rotation = 0
 	inst[2650].AutomaticSize = Enum.AutomaticSize.None
 	inst[2650].LayoutOrder = 1
-	inst[2650].Active = true
+	inst[2650].Active = false
 	inst[2650].Selectable = false
 	inst[2650].ZIndex = 1
 	inst[2650].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -37234,7 +37234,7 @@ local function buildUI()
 	inst[2658].Rotation = 0
 	inst[2658].AutomaticSize = Enum.AutomaticSize.None
 	inst[2658].LayoutOrder = 0
-	inst[2658].Active = true
+	inst[2658].Active = false
 	inst[2658].ZIndex = 1
 	inst[2658].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2658].Image = ''
@@ -37291,7 +37291,7 @@ local function buildUI()
 	inst[2662].Rotation = 0
 	inst[2662].AutomaticSize = Enum.AutomaticSize.None
 	inst[2662].LayoutOrder = 2
-	inst[2662].Active = true
+	inst[2662].Active = false
 	inst[2662].Selectable = false
 	inst[2662].ZIndex = 1
 	inst[2662].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -37405,7 +37405,7 @@ local function buildUI()
 	inst[2670].Rotation = 0
 	inst[2670].AutomaticSize = Enum.AutomaticSize.None
 	inst[2670].LayoutOrder = 0
-	inst[2670].Active = true
+	inst[2670].Active = false
 	inst[2670].ZIndex = 1
 	inst[2670].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2670].Image = ''
@@ -37463,7 +37463,7 @@ local function buildUI()
 	inst[2674].Rotation = 0
 	inst[2674].AutomaticSize = Enum.AutomaticSize.None
 	inst[2674].LayoutOrder = 9999
-	inst[2674].Active = true
+	inst[2674].Active = false
 	inst[2674].Selectable = false
 	inst[2674].ZIndex = 1
 	inst[2674].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -37594,7 +37594,7 @@ local function buildUI()
 	inst[2685].Rotation = 0
 	inst[2685].AutomaticSize = Enum.AutomaticSize.None
 	inst[2685].LayoutOrder = 3
-	inst[2685].Active = true
+	inst[2685].Active = false
 	inst[2685].Selectable = false
 	inst[2685].ZIndex = 1
 	inst[2685].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -37708,7 +37708,7 @@ local function buildUI()
 	inst[2693].Rotation = 0
 	inst[2693].AutomaticSize = Enum.AutomaticSize.None
 	inst[2693].LayoutOrder = 0
-	inst[2693].Active = true
+	inst[2693].Active = false
 	inst[2693].ZIndex = 1
 	inst[2693].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2693].Image = ''
@@ -37765,7 +37765,7 @@ local function buildUI()
 	inst[2697].Rotation = 0
 	inst[2697].AutomaticSize = Enum.AutomaticSize.None
 	inst[2697].LayoutOrder = 3
-	inst[2697].Active = true
+	inst[2697].Active = false
 	inst[2697].Selectable = false
 	inst[2697].ZIndex = 1
 	inst[2697].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -37879,7 +37879,7 @@ local function buildUI()
 	inst[2705].Rotation = 0
 	inst[2705].AutomaticSize = Enum.AutomaticSize.None
 	inst[2705].LayoutOrder = 0
-	inst[2705].Active = true
+	inst[2705].Active = false
 	inst[2705].ZIndex = 1
 	inst[2705].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2705].Image = ''
@@ -37936,7 +37936,7 @@ local function buildUI()
 	inst[2709].Rotation = 0
 	inst[2709].AutomaticSize = Enum.AutomaticSize.None
 	inst[2709].LayoutOrder = 2
-	inst[2709].Active = true
+	inst[2709].Active = false
 	inst[2709].ZIndex = 1
 	inst[2709].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2709].Image = ''
@@ -37962,7 +37962,7 @@ local function buildUI()
 	inst[2710].Rotation = 0
 	inst[2710].AutomaticSize = Enum.AutomaticSize.None
 	inst[2710].LayoutOrder = 0
-	inst[2710].Active = true
+	inst[2710].Active = false
 	inst[2710].Selectable = false
 	inst[2710].ZIndex = 1
 	inst[2710].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -38023,7 +38023,7 @@ local function buildUI()
 	inst[2715].Rotation = 0
 	inst[2715].AutomaticSize = Enum.AutomaticSize.None
 	inst[2715].LayoutOrder = 0
-	inst[2715].Active = true
+	inst[2715].Active = false
 	inst[2715].Selectable = false
 	inst[2715].ZIndex = 1
 	inst[2715].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -38114,7 +38114,7 @@ local function buildUI()
 	inst[2720].Rotation = 0
 	inst[2720].AutomaticSize = Enum.AutomaticSize.None
 	inst[2720].LayoutOrder = 0
-	inst[2720].Active = true
+	inst[2720].Active = false
 	inst[2720].Selectable = false
 	inst[2720].ZIndex = 1
 	inst[2720].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -38205,7 +38205,7 @@ local function buildUI()
 	inst[2725].Rotation = 0
 	inst[2725].AutomaticSize = Enum.AutomaticSize.None
 	inst[2725].LayoutOrder = 0
-	inst[2725].Active = true
+	inst[2725].Active = false
 	inst[2725].Selectable = false
 	inst[2725].ZIndex = 1
 	inst[2725].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -38296,7 +38296,7 @@ local function buildUI()
 	inst[2730].Rotation = 0
 	inst[2730].AutomaticSize = Enum.AutomaticSize.None
 	inst[2730].LayoutOrder = 0
-	inst[2730].Active = true
+	inst[2730].Active = false
 	inst[2730].Selectable = false
 	inst[2730].ZIndex = 1
 	inst[2730].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -38404,7 +38404,7 @@ local function buildUI()
 	inst[2736].Rotation = 0
 	inst[2736].AutomaticSize = Enum.AutomaticSize.None
 	inst[2736].LayoutOrder = 2
-	inst[2736].Active = true
+	inst[2736].Active = false
 	inst[2736].Selectable = false
 	inst[2736].ZIndex = 1
 	inst[2736].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -38434,7 +38434,7 @@ local function buildUI()
 	inst[2738].Rotation = 0
 	inst[2738].AutomaticSize = Enum.AutomaticSize.None
 	inst[2738].LayoutOrder = 0
-	inst[2738].Active = true
+	inst[2738].Active = false
 	inst[2738].Selectable = false
 	inst[2738].ZIndex = 1
 	inst[2738].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -38639,7 +38639,7 @@ local function buildUI()
 	inst[2753].Rotation = 0
 	inst[2753].AutomaticSize = Enum.AutomaticSize.None
 	inst[2753].LayoutOrder = 0
-	inst[2753].Active = true
+	inst[2753].Active = false
 	inst[2753].Selectable = false
 	inst[2753].ZIndex = 1
 	inst[2753].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -38809,7 +38809,7 @@ local function buildUI()
 	inst[2768].Rotation = 0
 	inst[2768].AutomaticSize = Enum.AutomaticSize.None
 	inst[2768].LayoutOrder = -21
-	inst[2768].Active = true
+	inst[2768].Active = false
 	inst[2768].Selectable = false
 	inst[2768].ZIndex = 1
 	inst[2768].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -39014,7 +39014,7 @@ local function buildUI()
 	inst[2783].Rotation = 0
 	inst[2783].AutomaticSize = Enum.AutomaticSize.None
 	inst[2783].LayoutOrder = 0
-	inst[2783].Active = true
+	inst[2783].Active = false
 	inst[2783].Selectable = false
 	inst[2783].ZIndex = 1
 	inst[2783].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -39206,7 +39206,7 @@ local function buildUI()
 	inst[2799].Rotation = 0
 	inst[2799].AutomaticSize = Enum.AutomaticSize.None
 	inst[2799].LayoutOrder = 1
-	inst[2799].Active = true
+	inst[2799].Active = false
 	inst[2799].Selectable = false
 	inst[2799].ZIndex = 1
 	inst[2799].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -39342,7 +39342,7 @@ local function buildUI()
 	inst[2810].Rotation = 0
 	inst[2810].AutomaticSize = Enum.AutomaticSize.None
 	inst[2810].LayoutOrder = 2
-	inst[2810].Active = true
+	inst[2810].Active = false
 	inst[2810].Selectable = false
 	inst[2810].ZIndex = 1
 	inst[2810].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -39377,7 +39377,7 @@ local function buildUI()
 	inst[2813].Rotation = 0
 	inst[2813].AutomaticSize = Enum.AutomaticSize.None
 	inst[2813].LayoutOrder = 3
-	inst[2813].Active = true
+	inst[2813].Active = false
 	inst[2813].Selectable = false
 	inst[2813].ZIndex = 1
 	inst[2813].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -39464,7 +39464,7 @@ local function buildUI()
 	inst[2819].Rotation = 0
 	inst[2819].AutomaticSize = Enum.AutomaticSize.None
 	inst[2819].LayoutOrder = 2
-	inst[2819].Active = true
+	inst[2819].Active = false
 	inst[2819].Selectable = false
 	inst[2819].ZIndex = 1
 	inst[2819].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -39490,7 +39490,7 @@ local function buildUI()
 	inst[2820].Rotation = 0
 	inst[2820].AutomaticSize = Enum.AutomaticSize.None
 	inst[2820].LayoutOrder = 1
-	inst[2820].Active = true
+	inst[2820].Active = false
 	inst[2820].Selectable = false
 	inst[2820].ZIndex = 1
 	inst[2820].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -39559,7 +39559,7 @@ local function buildUI()
 	inst[2825].Rotation = 0
 	inst[2825].AutomaticSize = Enum.AutomaticSize.None
 	inst[2825].LayoutOrder = 2
-	inst[2825].Active = true
+	inst[2825].Active = false
 	inst[2825].Selectable = false
 	inst[2825].ZIndex = 1
 	inst[2825].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -39613,7 +39613,7 @@ local function buildUI()
 	inst[2828].Rotation = 0
 	inst[2828].AutomaticSize = Enum.AutomaticSize.None
 	inst[2828].LayoutOrder = 3
-	inst[2828].Active = true
+	inst[2828].Active = false
 	inst[2828].Selectable = false
 	inst[2828].ZIndex = 1
 	inst[2828].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -39679,7 +39679,7 @@ local function buildUI()
 	inst[2833].Rotation = 0
 	inst[2833].AutomaticSize = Enum.AutomaticSize.None
 	inst[2833].LayoutOrder = 1
-	inst[2833].Active = true
+	inst[2833].Active = false
 	inst[2833].Selectable = false
 	inst[2833].ZIndex = 1
 	inst[2833].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -39708,7 +39708,7 @@ local function buildUI()
 	inst[2835].Rotation = 0
 	inst[2835].AutomaticSize = Enum.AutomaticSize.None
 	inst[2835].LayoutOrder = 1
-	inst[2835].Active = true
+	inst[2835].Active = false
 	inst[2835].Selectable = false
 	inst[2835].ZIndex = 1
 	inst[2835].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -39786,7 +39786,7 @@ local function buildUI()
 	inst[2842].Rotation = 0
 	inst[2842].AutomaticSize = Enum.AutomaticSize.None
 	inst[2842].LayoutOrder = 0
-	inst[2842].Active = true
+	inst[2842].Active = false
 	inst[2842].Selectable = false
 	inst[2842].ZIndex = 2
 	inst[2842].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -39969,7 +39969,7 @@ local function buildUI()
 	inst[2853].Rotation = 0
 	inst[2853].AutomaticSize = Enum.AutomaticSize.None
 	inst[2853].LayoutOrder = 3
-	inst[2853].Active = true
+	inst[2853].Active = false
 	inst[2853].Selectable = false
 	inst[2853].ZIndex = 1
 	inst[2853].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -40122,7 +40122,7 @@ local function buildUI()
 	inst[2864].Rotation = 0
 	inst[2864].AutomaticSize = Enum.AutomaticSize.None
 	inst[2864].LayoutOrder = 0
-	inst[2864].Active = true
+	inst[2864].Active = false
 	inst[2864].Selectable = false
 	inst[2864].ZIndex = 1
 	inst[2864].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -40156,7 +40156,7 @@ local function buildUI()
 	inst[2866].Rotation = 0
 	inst[2866].AutomaticSize = Enum.AutomaticSize.None
 	inst[2866].LayoutOrder = 0
-	inst[2866].Active = true
+	inst[2866].Active = false
 	inst[2866].Selectable = false
 	inst[2866].ZIndex = 1
 	inst[2866].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -40193,7 +40193,7 @@ local function buildUI()
 	inst[2869].Rotation = 0
 	inst[2869].AutomaticSize = Enum.AutomaticSize.None
 	inst[2869].LayoutOrder = 2
-	inst[2869].Active = true
+	inst[2869].Active = false
 	inst[2869].Selectable = false
 	inst[2869].ZIndex = 1
 	inst[2869].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -40247,7 +40247,7 @@ local function buildUI()
 	inst[2872].Rotation = 0
 	inst[2872].AutomaticSize = Enum.AutomaticSize.None
 	inst[2872].LayoutOrder = 3
-	inst[2872].Active = true
+	inst[2872].Active = false
 	inst[2872].Selectable = false
 	inst[2872].ZIndex = 1
 	inst[2872].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -40301,7 +40301,7 @@ local function buildUI()
 	inst[2875].Rotation = 0
 	inst[2875].AutomaticSize = Enum.AutomaticSize.None
 	inst[2875].LayoutOrder = 4
-	inst[2875].Active = true
+	inst[2875].Active = false
 	inst[2875].Selectable = false
 	inst[2875].ZIndex = 1
 	inst[2875].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -40355,7 +40355,7 @@ local function buildUI()
 	inst[2878].Rotation = 0
 	inst[2878].AutomaticSize = Enum.AutomaticSize.None
 	inst[2878].LayoutOrder = 5
-	inst[2878].Active = true
+	inst[2878].Active = false
 	inst[2878].Selectable = false
 	inst[2878].ZIndex = 1
 	inst[2878].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -40541,7 +40541,7 @@ local function buildUI()
 	inst[2890].Rotation = 0
 	inst[2890].AutomaticSize = Enum.AutomaticSize.None
 	inst[2890].LayoutOrder = 3
-	inst[2890].Active = true
+	inst[2890].Active = false
 	inst[2890].ZIndex = 1
 	inst[2890].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2890].Image = ''
@@ -40567,7 +40567,7 @@ local function buildUI()
 	inst[2891].Rotation = 0
 	inst[2891].AutomaticSize = Enum.AutomaticSize.None
 	inst[2891].LayoutOrder = 0
-	inst[2891].Active = true
+	inst[2891].Active = false
 	inst[2891].Selectable = false
 	inst[2891].ZIndex = 1
 	inst[2891].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -40628,7 +40628,7 @@ local function buildUI()
 	inst[2896].Rotation = 0
 	inst[2896].AutomaticSize = Enum.AutomaticSize.None
 	inst[2896].LayoutOrder = 0
-	inst[2896].Active = true
+	inst[2896].Active = false
 	inst[2896].Selectable = false
 	inst[2896].ZIndex = 1
 	inst[2896].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -40719,7 +40719,7 @@ local function buildUI()
 	inst[2901].Rotation = 0
 	inst[2901].AutomaticSize = Enum.AutomaticSize.None
 	inst[2901].LayoutOrder = 0
-	inst[2901].Active = true
+	inst[2901].Active = false
 	inst[2901].Selectable = false
 	inst[2901].ZIndex = 1
 	inst[2901].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -40810,7 +40810,7 @@ local function buildUI()
 	inst[2906].Rotation = 0
 	inst[2906].AutomaticSize = Enum.AutomaticSize.None
 	inst[2906].LayoutOrder = 0
-	inst[2906].Active = true
+	inst[2906].Active = false
 	inst[2906].Selectable = false
 	inst[2906].ZIndex = 1
 	inst[2906].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -40918,7 +40918,7 @@ local function buildUI()
 	inst[2912].Rotation = 0
 	inst[2912].AutomaticSize = Enum.AutomaticSize.None
 	inst[2912].LayoutOrder = 2
-	inst[2912].Active = true
+	inst[2912].Active = false
 	inst[2912].Selectable = false
 	inst[2912].ZIndex = 1
 	inst[2912].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -40948,7 +40948,7 @@ local function buildUI()
 	inst[2914].Rotation = 0
 	inst[2914].AutomaticSize = Enum.AutomaticSize.None
 	inst[2914].LayoutOrder = 0
-	inst[2914].Active = true
+	inst[2914].Active = false
 	inst[2914].Selectable = false
 	inst[2914].ZIndex = 1
 	inst[2914].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -41052,7 +41052,7 @@ local function buildUI()
 	inst[2922].Rotation = 0
 	inst[2922].AutomaticSize = Enum.AutomaticSize.None
 	inst[2922].LayoutOrder = 1
-	inst[2922].Active = true
+	inst[2922].Active = false
 	inst[2922].Selectable = false
 	inst[2922].ZIndex = 1
 	inst[2922].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -41369,7 +41369,7 @@ local function buildUI()
 	inst[2948].Rotation = 0
 	inst[2948].AutomaticSize = Enum.AutomaticSize.None
 	inst[2948].LayoutOrder = 3
-	inst[2948].Active = true
+	inst[2948].Active = false
 	inst[2948].Selectable = false
 	inst[2948].ZIndex = 1
 	inst[2948].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -41631,7 +41631,7 @@ local function buildUI()
 	inst[2969].Rotation = 0
 	inst[2969].AutomaticSize = Enum.AutomaticSize.None
 	inst[2969].LayoutOrder = 1
-	inst[2969].Active = true
+	inst[2969].Active = false
 	inst[2969].Selectable = false
 	inst[2969].ZIndex = 1
 	inst[2969].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -41763,7 +41763,7 @@ local function buildUI()
 	inst[2980].Rotation = 0
 	inst[2980].AutomaticSize = Enum.AutomaticSize.None
 	inst[2980].LayoutOrder = 2
-	inst[2980].Active = true
+	inst[2980].Active = false
 	inst[2980].Selectable = false
 	inst[2980].ZIndex = 1
 	inst[2980].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -41798,7 +41798,7 @@ local function buildUI()
 	inst[2983].Rotation = 0
 	inst[2983].AutomaticSize = Enum.AutomaticSize.None
 	inst[2983].LayoutOrder = 3
-	inst[2983].Active = true
+	inst[2983].Active = false
 	inst[2983].Selectable = false
 	inst[2983].ZIndex = 1
 	inst[2983].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -41830,7 +41830,7 @@ local function buildUI()
 	inst[2985].Rotation = 0
 	inst[2985].AutomaticSize = Enum.AutomaticSize.None
 	inst[2985].LayoutOrder = 3
-	inst[2985].Active = true
+	inst[2985].Active = false
 	inst[2985].Selectable = false
 	inst[2985].ZIndex = 1
 	inst[2985].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -41925,7 +41925,7 @@ local function buildUI()
 	inst[2992].Rotation = 0
 	inst[2992].AutomaticSize = Enum.AutomaticSize.None
 	inst[2992].LayoutOrder = 1
-	inst[2992].Active = true
+	inst[2992].Active = false
 	inst[2992].Selectable = false
 	inst[2992].ZIndex = 1
 	inst[2992].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -41954,7 +41954,7 @@ local function buildUI()
 	inst[2994].Rotation = 0
 	inst[2994].AutomaticSize = Enum.AutomaticSize.None
 	inst[2994].LayoutOrder = 1
-	inst[2994].Active = true
+	inst[2994].Active = false
 	inst[2994].Selectable = false
 	inst[2994].ZIndex = 1
 	inst[2994].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -42028,7 +42028,7 @@ local function buildUI()
 	inst[3000].Rotation = 0
 	inst[3000].AutomaticSize = Enum.AutomaticSize.None
 	inst[3000].LayoutOrder = 3
-	inst[3000].Active = true
+	inst[3000].Active = false
 	inst[3000].Selectable = false
 	inst[3000].ZIndex = 1
 	inst[3000].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -42203,7 +42203,7 @@ local function buildUI()
 	inst[3013].Rotation = 0
 	inst[3013].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3013].LayoutOrder = 5
-	inst[3013].Active = true
+	inst[3013].Active = false
 	inst[3013].Selectable = false
 	inst[3013].ZIndex = 1
 	inst[3013].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -42253,7 +42253,7 @@ local function buildUI()
 	inst[3016].Rotation = 0
 	inst[3016].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3016].LayoutOrder = 1
-	inst[3016].Active = true
+	inst[3016].Active = false
 	inst[3016].Selectable = false
 	inst[3016].ZIndex = 1
 	inst[3016].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -42299,7 +42299,7 @@ local function buildUI()
 	inst[3020].Rotation = 0
 	inst[3020].AutomaticSize = Enum.AutomaticSize.X
 	inst[3020].LayoutOrder = 0
-	inst[3020].Active = true
+	inst[3020].Active = false
 	inst[3020].Selectable = false
 	inst[3020].ZIndex = 1
 	inst[3020].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -42426,7 +42426,7 @@ local function buildUI()
 	inst[3030].Rotation = 0
 	inst[3030].AutomaticSize = Enum.AutomaticSize.None
 	inst[3030].LayoutOrder = 0
-	inst[3030].Active = true
+	inst[3030].Active = false
 	inst[3030].Selectable = false
 	inst[3030].ZIndex = 1
 	inst[3030].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -42480,7 +42480,7 @@ local function buildUI()
 	inst[3033].Rotation = 0
 	inst[3033].AutomaticSize = Enum.AutomaticSize.None
 	inst[3033].LayoutOrder = 0
-	inst[3033].Active = true
+	inst[3033].Active = false
 	inst[3033].Selectable = false
 	inst[3033].ZIndex = 1
 	inst[3033].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -42550,7 +42550,7 @@ local function buildUI()
 	inst[3038].Rotation = 0
 	inst[3038].AutomaticSize = Enum.AutomaticSize.None
 	inst[3038].LayoutOrder = 999999999
-	inst[3038].Active = true
+	inst[3038].Active = false
 	inst[3038].Selectable = false
 	inst[3038].ZIndex = 1
 	inst[3038].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -42653,7 +42653,7 @@ local function buildUI()
 	inst[3048].Rotation = 0
 	inst[3048].AutomaticSize = Enum.AutomaticSize.X
 	inst[3048].LayoutOrder = 1
-	inst[3048].Active = true
+	inst[3048].Active = false
 	inst[3048].Selectable = false
 	inst[3048].ZIndex = 1
 	inst[3048].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -42748,7 +42748,7 @@ local function buildUI()
 	inst[3054].Rotation = 0
 	inst[3054].AutomaticSize = Enum.AutomaticSize.X
 	inst[3054].LayoutOrder = 2
-	inst[3054].Active = true
+	inst[3054].Active = false
 	inst[3054].Selectable = false
 	inst[3054].ZIndex = 1
 	inst[3054].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -42843,7 +42843,7 @@ local function buildUI()
 	inst[3060].Rotation = 0
 	inst[3060].AutomaticSize = Enum.AutomaticSize.X
 	inst[3060].LayoutOrder = 3
-	inst[3060].Active = true
+	inst[3060].Active = false
 	inst[3060].Selectable = false
 	inst[3060].ZIndex = 2
 	inst[3060].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -43067,7 +43067,7 @@ local function buildUI()
 	inst[3075].Rotation = 0
 	inst[3075].AutomaticSize = Enum.AutomaticSize.None
 	inst[3075].LayoutOrder = 0
-	inst[3075].Active = true
+	inst[3075].Active = false
 	inst[3075].Selectable = false
 	inst[3075].ZIndex = 1
 	inst[3075].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -43101,7 +43101,7 @@ local function buildUI()
 	inst[3077].Rotation = 0
 	inst[3077].AutomaticSize = Enum.AutomaticSize.None
 	inst[3077].LayoutOrder = 0
-	inst[3077].Active = true
+	inst[3077].Active = false
 	inst[3077].Selectable = false
 	inst[3077].ZIndex = 1
 	inst[3077].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -43138,7 +43138,7 @@ local function buildUI()
 	inst[3080].Rotation = 0
 	inst[3080].AutomaticSize = Enum.AutomaticSize.None
 	inst[3080].LayoutOrder = 2
-	inst[3080].Active = true
+	inst[3080].Active = false
 	inst[3080].Selectable = false
 	inst[3080].ZIndex = 1
 	inst[3080].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -43324,7 +43324,7 @@ local function buildUI()
 	inst[3092].Rotation = 0
 	inst[3092].AutomaticSize = Enum.AutomaticSize.None
 	inst[3092].LayoutOrder = 4
-	inst[3092].Active = true
+	inst[3092].Active = false
 	inst[3092].ZIndex = 1
 	inst[3092].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3092].Image = ''
@@ -43350,7 +43350,7 @@ local function buildUI()
 	inst[3093].Rotation = 0
 	inst[3093].AutomaticSize = Enum.AutomaticSize.None
 	inst[3093].LayoutOrder = 0
-	inst[3093].Active = true
+	inst[3093].Active = false
 	inst[3093].Selectable = false
 	inst[3093].ZIndex = 1
 	inst[3093].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -43387,7 +43387,7 @@ local function buildUI()
 	inst[3096].Rotation = 0
 	inst[3096].AutomaticSize = Enum.AutomaticSize.None
 	inst[3096].LayoutOrder = 2
-	inst[3096].Active = true
+	inst[3096].Active = false
 	inst[3096].Selectable = false
 	inst[3096].ZIndex = 1
 	inst[3096].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -43807,7 +43807,7 @@ local function buildUI()
 	inst[3128].Rotation = 0
 	inst[3128].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3128].LayoutOrder = 0
-	inst[3128].Active = true
+	inst[3128].Active = false
 	inst[3128].Selectable = false
 	inst[3128].ZIndex = 1
 	inst[3128].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -43868,7 +43868,7 @@ local function buildUI()
 	inst[3133].Rotation = 0
 	inst[3133].AutomaticSize = Enum.AutomaticSize.None
 	inst[3133].LayoutOrder = 1
-	inst[3133].Active = true
+	inst[3133].Active = false
 	inst[3133].ZIndex = 1
 	inst[3133].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3133].Image = ''
@@ -44285,7 +44285,7 @@ local function buildUI()
 	inst[3162].Rotation = 0
 	inst[3162].AutomaticSize = Enum.AutomaticSize.None
 	inst[3162].LayoutOrder = 5
-	inst[3162].Active = true
+	inst[3162].Active = false
 	inst[3162].ZIndex = 1
 	inst[3162].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3162].Image = ''
@@ -44311,7 +44311,7 @@ local function buildUI()
 	inst[3163].Rotation = 0
 	inst[3163].AutomaticSize = Enum.AutomaticSize.None
 	inst[3163].LayoutOrder = 0
-	inst[3163].Active = true
+	inst[3163].Active = false
 	inst[3163].Selectable = false
 	inst[3163].ZIndex = 1
 	inst[3163].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -44441,7 +44441,7 @@ local function buildUI()
 	inst[3174].Rotation = 0
 	inst[3174].AutomaticSize = Enum.AutomaticSize.None
 	inst[3174].LayoutOrder = 1
-	inst[3174].Active = true
+	inst[3174].Active = false
 	inst[3174].Selectable = false
 	inst[3174].ZIndex = 1
 	inst[3174].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -44470,7 +44470,7 @@ local function buildUI()
 	inst[3176].Rotation = 0
 	inst[3176].AutomaticSize = Enum.AutomaticSize.None
 	inst[3176].LayoutOrder = 1
-	inst[3176].Active = true
+	inst[3176].Active = false
 	inst[3176].Selectable = false
 	inst[3176].ZIndex = 1
 	inst[3176].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -44561,7 +44561,7 @@ local function buildUI()
 	inst[3183].Rotation = 0
 	inst[3183].AutomaticSize = Enum.AutomaticSize.None
 	inst[3183].LayoutOrder = 2
-	inst[3183].Active = true
+	inst[3183].Active = false
 	inst[3183].Selectable = false
 	inst[3183].ZIndex = 1
 	inst[3183].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -44592,7 +44592,7 @@ local function buildUI()
 	inst[3185].Rotation = 0
 	inst[3185].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3185].LayoutOrder = 0
-	inst[3185].Active = true
+	inst[3185].Active = false
 	inst[3185].Selectable = false
 	inst[3185].ZIndex = 1
 	inst[3185].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -44851,7 +44851,7 @@ local function buildUI()
 	inst[3205].Rotation = 0
 	inst[3205].AutomaticSize = Enum.AutomaticSize.None
 	inst[3205].LayoutOrder = 1
-	inst[3205].Active = true
+	inst[3205].Active = false
 	inst[3205].Selectable = false
 	inst[3205].ZIndex = 1
 	inst[3205].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -44877,7 +44877,7 @@ local function buildUI()
 	inst[3206].Rotation = 0
 	inst[3206].AutomaticSize = Enum.AutomaticSize.None
 	inst[3206].LayoutOrder = 1
-	inst[3206].Active = true
+	inst[3206].Active = false
 	inst[3206].Selectable = false
 	inst[3206].ZIndex = 1
 	inst[3206].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -44923,7 +44923,7 @@ local function buildUI()
 	inst[3210].Rotation = 0
 	inst[3210].AutomaticSize = Enum.AutomaticSize.None
 	inst[3210].LayoutOrder = 1
-	inst[3210].Active = true
+	inst[3210].Active = false
 	inst[3210].Selectable = false
 	inst[3210].ZIndex = 1
 	inst[3210].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -45053,7 +45053,7 @@ local function buildUI()
 	inst[3220].Rotation = 0
 	inst[3220].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3220].LayoutOrder = 1
-	inst[3220].Active = true
+	inst[3220].Active = false
 	inst[3220].Selectable = false
 	inst[3220].ZIndex = 1
 	inst[3220].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -45087,7 +45087,7 @@ local function buildUI()
 	inst[3222].Rotation = 0
 	inst[3222].AutomaticSize = Enum.AutomaticSize.None
 	inst[3222].LayoutOrder = 3
-	inst[3222].Active = true
+	inst[3222].Active = false
 	inst[3222].Selectable = false
 	inst[3222].ZIndex = 1
 	inst[3222].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -45236,7 +45236,7 @@ local function buildUI()
 	inst[3232].Rotation = 0
 	inst[3232].AutomaticSize = Enum.AutomaticSize.None
 	inst[3232].LayoutOrder = 3
-	inst[3232].Active = true
+	inst[3232].Active = false
 	inst[3232].Selectable = false
 	inst[3232].ZIndex = 1
 	inst[3232].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -45400,7 +45400,7 @@ local function buildUI()
 	inst[3246].Rotation = 0
 	inst[3246].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3246].LayoutOrder = 0
-	inst[3246].Active = true
+	inst[3246].Active = false
 	inst[3246].Selectable = false
 	inst[3246].ZIndex = 1
 	inst[3246].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -45725,7 +45725,7 @@ local function buildUI()
 	inst[3270].Rotation = 0
 	inst[3270].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3270].LayoutOrder = 0
-	inst[3270].Active = true
+	inst[3270].Active = false
 	inst[3270].Selectable = false
 	inst[3270].ZIndex = 1
 	inst[3270].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -45759,7 +45759,7 @@ local function buildUI()
 	inst[3272].Rotation = 0
 	inst[3272].AutomaticSize = Enum.AutomaticSize.None
 	inst[3272].LayoutOrder = 1
-	inst[3272].Active = true
+	inst[3272].Active = false
 	inst[3272].Selectable = false
 	inst[3272].ZIndex = 1
 	inst[3272].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -46234,7 +46234,7 @@ local function buildUI()
 	inst[3311].Rotation = 0
 	inst[3311].AutomaticSize = Enum.AutomaticSize.X
 	inst[3311].LayoutOrder = 3
-	inst[3311].Active = true
+	inst[3311].Active = false
 	inst[3311].Selectable = false
 	inst[3311].ZIndex = 1
 	inst[3311].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -46565,7 +46565,7 @@ local function buildUI()
 	inst[3340].Rotation = 0
 	inst[3340].AutomaticSize = Enum.AutomaticSize.None
 	inst[3340].LayoutOrder = 6
-	inst[3340].Active = true
+	inst[3340].Active = false
 	inst[3340].ZIndex = 1
 	inst[3340].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3340].Image = ''
@@ -46591,7 +46591,7 @@ local function buildUI()
 	inst[3341].Rotation = 0
 	inst[3341].AutomaticSize = Enum.AutomaticSize.None
 	inst[3341].LayoutOrder = 0
-	inst[3341].Active = true
+	inst[3341].Active = false
 	inst[3341].Selectable = false
 	inst[3341].ZIndex = 1
 	inst[3341].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -46652,7 +46652,7 @@ local function buildUI()
 	inst[3346].Rotation = 0
 	inst[3346].AutomaticSize = Enum.AutomaticSize.None
 	inst[3346].LayoutOrder = 1
-	inst[3346].Active = true
+	inst[3346].Active = false
 	inst[3346].Selectable = false
 	inst[3346].ZIndex = 1
 	inst[3346].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -46681,7 +46681,7 @@ local function buildUI()
 	inst[3348].Rotation = 0
 	inst[3348].AutomaticSize = Enum.AutomaticSize.None
 	inst[3348].LayoutOrder = 1
-	inst[3348].Active = true
+	inst[3348].Active = false
 	inst[3348].Selectable = false
 	inst[3348].ZIndex = 1
 	inst[3348].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -46755,7 +46755,7 @@ local function buildUI()
 	inst[3354].Rotation = 0
 	inst[3354].AutomaticSize = Enum.AutomaticSize.None
 	inst[3354].LayoutOrder = 3
-	inst[3354].Active = true
+	inst[3354].Active = false
 	inst[3354].Selectable = false
 	inst[3354].ZIndex = 1
 	inst[3354].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -46831,7 +46831,7 @@ local function buildUI()
 	inst[3359].Rotation = 0
 	inst[3359].AutomaticSize = Enum.AutomaticSize.None
 	inst[3359].LayoutOrder = 2
-	inst[3359].Active = true
+	inst[3359].Active = false
 	inst[3359].Selectable = false
 	inst[3359].ZIndex = 1
 	inst[3359].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -46885,7 +46885,7 @@ local function buildUI()
 	inst[3363].Rotation = 0
 	inst[3363].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3363].LayoutOrder = 0
-	inst[3363].Active = true
+	inst[3363].Active = false
 	inst[3363].Selectable = false
 	inst[3363].ZIndex = 1
 	inst[3363].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -47015,7 +47015,7 @@ local function buildUI()
 	inst[3373].Rotation = 0
 	inst[3373].AutomaticSize = Enum.AutomaticSize.X
 	inst[3373].LayoutOrder = 0
-	inst[3373].Active = true
+	inst[3373].Active = false
 	inst[3373].Selectable = false
 	inst[3373].ZIndex = 1
 	inst[3373].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -47121,7 +47121,7 @@ local function buildUI()
 	inst[3382].Rotation = 0
 	inst[3382].AutomaticSize = Enum.AutomaticSize.None
 	inst[3382].LayoutOrder = 0
-	inst[3382].Active = true
+	inst[3382].Active = false
 	inst[3382].Selectable = false
 	inst[3382].ZIndex = 1
 	inst[3382].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -47280,7 +47280,7 @@ local function buildUI()
 	inst[3395].Rotation = 0
 	inst[3395].AutomaticSize = Enum.AutomaticSize.X
 	inst[3395].LayoutOrder = 50
-	inst[3395].Active = true
+	inst[3395].Active = false
 	inst[3395].ZIndex = 2
 	inst[3395].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3395].Text = 'See more...'
@@ -47331,7 +47331,7 @@ local function buildUI()
 	inst[3400].Rotation = 0
 	inst[3400].AutomaticSize = Enum.AutomaticSize.None
 	inst[3400].LayoutOrder = 0
-	inst[3400].Active = true
+	inst[3400].Active = false
 	inst[3400].ZIndex = 1
 	inst[3400].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3400].Image = ''
@@ -47547,7 +47547,7 @@ local function buildUI()
 	inst[3418].Rotation = 0
 	inst[3418].AutomaticSize = Enum.AutomaticSize.None
 	inst[3418].LayoutOrder = 0
-	inst[3418].Active = true
+	inst[3418].Active = false
 	inst[3418].Selectable = false
 	inst[3418].ZIndex = 1
 	inst[3418].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -47711,7 +47711,7 @@ local function buildUI()
 	inst[3429].Rotation = 0
 	inst[3429].AutomaticSize = Enum.AutomaticSize.None
 	inst[3429].LayoutOrder = 7
-	inst[3429].Active = true
+	inst[3429].Active = false
 	inst[3429].ZIndex = 1
 	inst[3429].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3429].Image = ''
@@ -47763,7 +47763,7 @@ local function buildUI()
 	inst[3432].Rotation = 0
 	inst[3432].AutomaticSize = Enum.AutomaticSize.None
 	inst[3432].LayoutOrder = 2
-	inst[3432].Active = true
+	inst[3432].Active = false
 	inst[3432].ZIndex = 1
 	inst[3432].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3432].ScrollBarThickness = 0
@@ -47881,7 +47881,7 @@ local function buildUI()
 	inst[3440].Rotation = 0
 	inst[3440].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3440].LayoutOrder = 0
-	inst[3440].Active = true
+	inst[3440].Active = false
 	inst[3440].Selectable = false
 	inst[3440].ZIndex = 1
 	inst[3440].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -47933,7 +47933,7 @@ local function buildUI()
 	inst[3443].Rotation = 0
 	inst[3443].AutomaticSize = Enum.AutomaticSize.None
 	inst[3443].LayoutOrder = 0
-	inst[3443].Active = true
+	inst[3443].Active = false
 	inst[3443].ZIndex = 1
 	inst[3443].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3443].Image = 'rbxassetid://11963361597'
@@ -48407,7 +48407,7 @@ local function buildUI()
 	inst[3477].Rotation = 0
 	inst[3477].AutomaticSize = Enum.AutomaticSize.X
 	inst[3477].LayoutOrder = 0
-	inst[3477].Active = true
+	inst[3477].Active = false
 	inst[3477].Selectable = false
 	inst[3477].ZIndex = 1
 	inst[3477].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -48589,7 +48589,7 @@ local function buildUI()
 	inst[3491].Rotation = 0
 	inst[3491].AutomaticSize = Enum.AutomaticSize.None
 	inst[3491].LayoutOrder = 0
-	inst[3491].Active = true
+	inst[3491].Active = false
 	inst[3491].ZIndex = 1
 	inst[3491].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3491].Image = 'rbxasset://textures/ui/GuiImagePlaceholder.png'
@@ -48646,7 +48646,7 @@ local function buildUI()
 	inst[3496].Rotation = 0
 	inst[3496].AutomaticSize = Enum.AutomaticSize.X
 	inst[3496].LayoutOrder = 0
-	inst[3496].Active = true
+	inst[3496].Active = false
 	inst[3496].Selectable = false
 	inst[3496].ZIndex = 1
 	inst[3496].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -49049,7 +49049,7 @@ local function buildUI()
 	inst[3525].Rotation = 0
 	inst[3525].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3525].LayoutOrder = 2
-	inst[3525].Active = true
+	inst[3525].Active = false
 	inst[3525].Selectable = false
 	inst[3525].ZIndex = 1
 	inst[3525].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -49102,7 +49102,7 @@ local function buildUI()
 	inst[3529].Rotation = 0
 	inst[3529].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3529].LayoutOrder = 2
-	inst[3529].Active = true
+	inst[3529].Active = false
 	inst[3529].Selectable = false
 	inst[3529].ZIndex = 1
 	inst[3529].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -49142,7 +49142,7 @@ local function buildUI()
 	inst[3532].Rotation = 0
 	inst[3532].AutomaticSize = Enum.AutomaticSize.None
 	inst[3532].LayoutOrder = 4
-	inst[3532].Active = true
+	inst[3532].Active = false
 	inst[3532].Selectable = false
 	inst[3532].ZIndex = 1
 	inst[3532].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -49203,7 +49203,7 @@ local function buildUI()
 	inst[3536].Rotation = 0
 	inst[3536].AutomaticSize = Enum.AutomaticSize.None
 	inst[3536].LayoutOrder = 1
-	inst[3536].Active = true
+	inst[3536].Active = false
 	inst[3536].Selectable = false
 	inst[3536].ZIndex = 1
 	inst[3536].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -49272,7 +49272,7 @@ local function buildUI()
 	inst[3540].Rotation = 0
 	inst[3540].AutomaticSize = Enum.AutomaticSize.None
 	inst[3540].LayoutOrder = 9999999
-	inst[3540].Active = true
+	inst[3540].Active = false
 	inst[3540].Selectable = false
 	inst[3540].ZIndex = 1
 	inst[3540].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -49402,7 +49402,7 @@ local function buildUI()
 	inst[3548].Rotation = 0
 	inst[3548].AutomaticSize = Enum.AutomaticSize.None
 	inst[3548].LayoutOrder = 0
-	inst[3548].Active = true
+	inst[3548].Active = false
 	inst[3548].Selectable = false
 	inst[3548].ZIndex = 1
 	inst[3548].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -49470,7 +49470,7 @@ local function buildUI()
 	inst[3554].Rotation = 0
 	inst[3554].AutomaticSize = Enum.AutomaticSize.None
 	inst[3554].LayoutOrder = 0
-	inst[3554].Active = true
+	inst[3554].Active = false
 	inst[3554].Selectable = false
 	inst[3554].ZIndex = 1
 	inst[3554].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -49520,7 +49520,7 @@ local function buildUI()
 	inst[3556].Rotation = 0
 	inst[3556].AutomaticSize = Enum.AutomaticSize.None
 	inst[3556].LayoutOrder = 0
-	inst[3556].Active = true
+	inst[3556].Active = false
 	inst[3556].Selectable = false
 	inst[3556].ZIndex = 1
 	inst[3556].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -49658,7 +49658,7 @@ local function buildUI()
 	inst[3566].Rotation = 0
 	inst[3566].AutomaticSize = Enum.AutomaticSize.None
 	inst[3566].LayoutOrder = 0
-	inst[3566].Active = true
+	inst[3566].Active = false
 	inst[3566].Selectable = false
 	inst[3566].ZIndex = 1
 	inst[3566].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -49715,7 +49715,7 @@ local function buildUI()
 	inst[3569].Rotation = 0
 	inst[3569].AutomaticSize = Enum.AutomaticSize.None
 	inst[3569].LayoutOrder = 8
-	inst[3569].Active = true
+	inst[3569].Active = false
 	inst[3569].ZIndex = 1
 	inst[3569].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3569].Image = ''
@@ -49741,7 +49741,7 @@ local function buildUI()
 	inst[3570].Rotation = 0
 	inst[3570].AutomaticSize = Enum.AutomaticSize.None
 	inst[3570].LayoutOrder = 0
-	inst[3570].Active = true
+	inst[3570].Active = false
 	inst[3570].Selectable = false
 	inst[3570].ZIndex = 1
 	inst[3570].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -49878,7 +49878,7 @@ local function buildUI()
 	inst[3581].Rotation = 0
 	inst[3581].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3581].LayoutOrder = 10
-	inst[3581].Active = true
+	inst[3581].Active = false
 	inst[3581].Selectable = false
 	inst[3581].ZIndex = 1
 	inst[3581].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -49993,7 +49993,7 @@ local function buildUI()
 	inst[3588].Rotation = 0
 	inst[3588].AutomaticSize = Enum.AutomaticSize.X
 	inst[3588].LayoutOrder = 3
-	inst[3588].Active = true
+	inst[3588].Active = false
 	inst[3588].Selectable = false
 	inst[3588].ZIndex = 1
 	inst[3588].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -50057,7 +50057,7 @@ local function buildUI()
 	inst[3592].Rotation = 0
 	inst[3592].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3592].LayoutOrder = 10
-	inst[3592].Active = true
+	inst[3592].Active = false
 	inst[3592].Selectable = false
 	inst[3592].ZIndex = 1
 	inst[3592].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -50172,7 +50172,7 @@ local function buildUI()
 	inst[3599].Rotation = 0
 	inst[3599].AutomaticSize = Enum.AutomaticSize.X
 	inst[3599].LayoutOrder = 3
-	inst[3599].Active = true
+	inst[3599].Active = false
 	inst[3599].Selectable = false
 	inst[3599].ZIndex = 1
 	inst[3599].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -50326,7 +50326,7 @@ local function buildUI()
 	inst[3612].Rotation = 0
 	inst[3612].AutomaticSize = Enum.AutomaticSize.None
 	inst[3612].LayoutOrder = 0
-	inst[3612].Active = true
+	inst[3612].Active = false
 	inst[3612].Selectable = false
 	inst[3612].ZIndex = 1
 	inst[3612].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -50415,7 +50415,7 @@ local function buildUI()
 	inst[3617].Rotation = 0
 	inst[3617].AutomaticSize = Enum.AutomaticSize.None
 	inst[3617].LayoutOrder = 0
-	inst[3617].Active = true
+	inst[3617].Active = false
 	inst[3617].Selectable = false
 	inst[3617].ZIndex = 1
 	inst[3617].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -50575,7 +50575,7 @@ local function buildUI()
 	inst[3628].Rotation = 0
 	inst[3628].AutomaticSize = Enum.AutomaticSize.None
 	inst[3628].LayoutOrder = 0
-	inst[3628].Active = true
+	inst[3628].Active = false
 	inst[3628].Selectable = false
 	inst[3628].ZIndex = 1
 	inst[3628].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -50664,7 +50664,7 @@ local function buildUI()
 	inst[3633].Rotation = 0
 	inst[3633].AutomaticSize = Enum.AutomaticSize.None
 	inst[3633].LayoutOrder = 0
-	inst[3633].Active = true
+	inst[3633].Active = false
 	inst[3633].Selectable = false
 	inst[3633].ZIndex = 1
 	inst[3633].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -50824,7 +50824,7 @@ local function buildUI()
 	inst[3644].Rotation = 0
 	inst[3644].AutomaticSize = Enum.AutomaticSize.None
 	inst[3644].LayoutOrder = 2
-	inst[3644].Active = true
+	inst[3644].Active = false
 	inst[3644].Selectable = false
 	inst[3644].ZIndex = 1
 	inst[3644].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -50913,7 +50913,7 @@ local function buildUI()
 	inst[3649].Rotation = 0
 	inst[3649].AutomaticSize = Enum.AutomaticSize.None
 	inst[3649].LayoutOrder = 1
-	inst[3649].Active = true
+	inst[3649].Active = false
 	inst[3649].Selectable = false
 	inst[3649].ZIndex = 1
 	inst[3649].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -51002,7 +51002,7 @@ local function buildUI()
 	inst[3654].Rotation = 0
 	inst[3654].AutomaticSize = Enum.AutomaticSize.None
 	inst[3654].LayoutOrder = 3
-	inst[3654].Active = true
+	inst[3654].Active = false
 	inst[3654].Selectable = false
 	inst[3654].ZIndex = 1
 	inst[3654].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -51125,7 +51125,7 @@ local function buildUI()
 	inst[3662].Rotation = 0
 	inst[3662].AutomaticSize = Enum.AutomaticSize.None
 	inst[3662].LayoutOrder = 1
-	inst[3662].Active = true
+	inst[3662].Active = false
 	inst[3662].Selectable = false
 	inst[3662].ZIndex = 1
 	inst[3662].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -51251,7 +51251,7 @@ local function buildUI()
 	inst[3670].Rotation = 0
 	inst[3670].AutomaticSize = Enum.AutomaticSize.None
 	inst[3670].LayoutOrder = 1
-	inst[3670].Active = true
+	inst[3670].Active = false
 	inst[3670].Selectable = false
 	inst[3670].ZIndex = 1
 	inst[3670].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -51385,7 +51385,7 @@ local function buildUI()
 	inst[3680].Rotation = 0
 	inst[3680].AutomaticSize = Enum.AutomaticSize.None
 	inst[3680].LayoutOrder = 0
-	inst[3680].Active = true
+	inst[3680].Active = false
 	inst[3680].Selectable = false
 	inst[3680].ZIndex = 1
 	inst[3680].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -51474,7 +51474,7 @@ local function buildUI()
 	inst[3685].Rotation = 0
 	inst[3685].AutomaticSize = Enum.AutomaticSize.None
 	inst[3685].LayoutOrder = 0
-	inst[3685].Active = true
+	inst[3685].Active = false
 	inst[3685].Selectable = false
 	inst[3685].ZIndex = 1
 	inst[3685].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -51572,7 +51572,7 @@ local function buildUI()
 	inst[3691].Rotation = 0
 	inst[3691].AutomaticSize = Enum.AutomaticSize.None
 	inst[3691].LayoutOrder = 0
-	inst[3691].Active = true
+	inst[3691].Active = false
 	inst[3691].Selectable = false
 	inst[3691].ZIndex = 1
 	inst[3691].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -51738,7 +51738,7 @@ local function buildUI()
 	inst[3701].Rotation = 0
 	inst[3701].AutomaticSize = Enum.AutomaticSize.None
 	inst[3701].LayoutOrder = 1
-	inst[3701].Active = true
+	inst[3701].Active = false
 	inst[3701].Selectable = false
 	inst[3701].ZIndex = 1
 	inst[3701].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -51828,7 +51828,7 @@ local function buildUI()
 	inst[3707].Rotation = 0
 	inst[3707].AutomaticSize = Enum.AutomaticSize.None
 	inst[3707].LayoutOrder = 2
-	inst[3707].Active = true
+	inst[3707].Active = false
 	inst[3707].Selectable = false
 	inst[3707].ZIndex = 1
 	inst[3707].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -51909,7 +51909,7 @@ local function buildUI()
 	inst[3712].Rotation = 0
 	inst[3712].AutomaticSize = Enum.AutomaticSize.None
 	inst[3712].LayoutOrder = 2
-	inst[3712].Active = true
+	inst[3712].Active = false
 	inst[3712].Selectable = false
 	inst[3712].ZIndex = 1
 	inst[3712].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -51991,7 +51991,7 @@ local function buildUI()
 	inst[3717].Rotation = 0
 	inst[3717].AutomaticSize = Enum.AutomaticSize.None
 	inst[3717].LayoutOrder = 3
-	inst[3717].Active = true
+	inst[3717].Active = false
 	inst[3717].Selectable = false
 	inst[3717].ZIndex = 1
 	inst[3717].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -52093,7 +52093,7 @@ local function buildUI()
 	inst[3724].Rotation = 0
 	inst[3724].AutomaticSize = Enum.AutomaticSize.None
 	inst[3724].LayoutOrder = 0
-	inst[3724].Active = true
+	inst[3724].Active = false
 	inst[3724].Selectable = false
 	inst[3724].ZIndex = 1
 	inst[3724].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -52119,7 +52119,7 @@ local function buildUI()
 	inst[3725].Rotation = 0
 	inst[3725].AutomaticSize = Enum.AutomaticSize.None
 	inst[3725].LayoutOrder = 0
-	inst[3725].Active = true
+	inst[3725].Active = false
 	inst[3725].Selectable = false
 	inst[3725].ZIndex = 10
 	inst[3725].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -52197,7 +52197,7 @@ local function buildUI()
 	inst[3730].Rotation = 0
 	inst[3730].AutomaticSize = Enum.AutomaticSize.None
 	inst[3730].LayoutOrder = 0
-	inst[3730].Active = true
+	inst[3730].Active = false
 	inst[3730].Selectable = false
 	inst[3730].ZIndex = 1
 	inst[3730].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -52304,7 +52304,7 @@ local function buildUI()
 	inst[3739].Rotation = 0
 	inst[3739].AutomaticSize = Enum.AutomaticSize.None
 	inst[3739].LayoutOrder = 0
-	inst[3739].Active = true
+	inst[3739].Active = false
 	inst[3739].Selectable = false
 	inst[3739].ZIndex = 99
 	inst[3739].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -52563,7 +52563,7 @@ local function buildUI()
 	inst[3759].Rotation = 0
 	inst[3759].AutomaticSize = Enum.AutomaticSize.X
 	inst[3759].LayoutOrder = 0
-	inst[3759].Active = true
+	inst[3759].Active = false
 	inst[3759].Selectable = false
 	inst[3759].ZIndex = 1
 	inst[3759].SizeConstraint = Enum.SizeConstraint.RelativeXY
@@ -52765,6 +52765,10 @@ local function buildUI()
 	end
 	_build26()
 
+	local _noSel = Instance.new("ImageLabel")
+	_noSel.BackgroundTransparency = 1
+	_noSel.Image = ""
+	inst[1].SelectionImageObject = _noSel
 	inst[1].Parent = playerGui
 end
 
