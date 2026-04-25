@@ -594,6 +594,7 @@ local function buildUI()
 	inst[44].TileSize = UDim2.new(1, 0, 1, 0)
 	inst[44].ImageRectOffset = Vector2.new(0, 0)
 	inst[44].ImageRectSize = Vector2.new(0, 0)
+	inst[44].Visible = false
 	inst[44].Parent = inst[1]
 	inst[45] = Instance.new('ImageButton')
 	inst[45].Name = 'frame'
@@ -1167,6 +1168,7 @@ local function buildUI()
 	inst[82].Selectable = true
 	inst[82].ZIndex = 1
 	inst[82].SizeConstraint = Enum.SizeConstraint.RelativeXY
+	inst[82].Visible = false
 	inst[82].Parent = inst[1]
 	inst[83] = Instance.new('Frame')
 	inst[83].Name = 'background'
@@ -31436,6 +31438,7 @@ local function buildUI()
 	inst[2236].Parent = inst[2184]
 	inst[2237] = Instance.new('Folder')
 	inst[2237].Name = 'storage'
+	inst[2237].Visible = false
 	inst[2237].Parent = inst[1]
 	inst[2238] = Instance.new('Sound')
 	inst[2238].Name = 'announcement'
@@ -52287,6 +52290,7 @@ local function buildUI()
 	inst[3738].Selectable = true
 	inst[3738].ZIndex = 99
 	inst[3738].SizeConstraint = Enum.SizeConstraint.RelativeXY
+	inst[3738].Visible = false
 	inst[3738].Parent = inst[1]
 	inst[3739] = Instance.new('ImageButton')
 	inst[3739].Name = 'background'
@@ -52368,6 +52372,7 @@ local function buildUI()
 	inst[3742].Parent = inst[3738]
 	inst[3743] = Instance.new('Folder')
 	inst[3743].Name = 'custom_commands'
+	inst[3743].Visible = false
 	inst[3743].Parent = inst[1]
 	inst[3744] = Instance.new('LocalScript')
 	inst[3744].Name = 'default_commands'
@@ -52493,6 +52498,7 @@ local function buildUI()
 	inst[3754].Selectable = true
 	inst[3754].ZIndex = 100
 	inst[3754].SizeConstraint = Enum.SizeConstraint.RelativeXY
+	inst[3754].Visible = false
 	inst[3754].Parent = inst[1]
 	inst[3755] = Instance.new('ImageLabel')
 	inst[3755].Name = 'Frame'
