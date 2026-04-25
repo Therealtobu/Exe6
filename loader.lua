@@ -31438,7 +31438,6 @@ local function buildUI()
 	inst[2236].Parent = inst[2184]
 	inst[2237] = Instance.new('Folder')
 	inst[2237].Name = 'storage'
-	inst[2237].Visible = false
 	inst[2237].Parent = inst[1]
 	inst[2238] = Instance.new('Sound')
 	inst[2238].Name = 'announcement'
@@ -52372,7 +52371,6 @@ local function buildUI()
 	inst[3742].Parent = inst[3738]
 	inst[3743] = Instance.new('Folder')
 	inst[3743].Name = 'custom_commands'
-	inst[3743].Visible = false
 	inst[3743].Parent = inst[1]
 	inst[3744] = Instance.new('LocalScript')
 	inst[3744].Name = 'default_commands'
