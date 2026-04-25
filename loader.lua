@@ -60,7 +60,7 @@ local function buildUI()
 	inst[5].Rotation = 0
 	inst[5].AutomaticSize = Enum.AutomaticSize.XY
 	inst[5].LayoutOrder = 0
-	inst[5].Selectable = true
+	inst[5].Selectable = false
 	inst[5].ZIndex = 1
 	inst[5].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[5].Image = 'rbxassetid://72548733587158'
@@ -109,7 +109,7 @@ local function buildUI()
 	inst[10].Rotation = 0
 	inst[10].AutomaticSize = Enum.AutomaticSize.XY
 	inst[10].LayoutOrder = 0
-	inst[10].Selectable = true
+	inst[10].Selectable = false
 	inst[10].ZIndex = 1
 	inst[10].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[10].Image = 'rbxassetid://125088425775676'
@@ -203,7 +203,7 @@ local function buildUI()
 	inst[17].Rotation = 0
 	inst[17].AutomaticSize = Enum.AutomaticSize.XY
 	inst[17].LayoutOrder = 0
-	inst[17].Selectable = true
+	inst[17].Selectable = false
 	inst[17].ZIndex = 1
 	inst[17].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[17].Image = 'rbxassetid://72548733587158'
@@ -229,7 +229,7 @@ local function buildUI()
 	inst[18].AutomaticSize = Enum.AutomaticSize.XY
 	inst[18].LayoutOrder = 0
 	inst[18].Active = true
-	inst[18].Selectable = true
+	inst[18].Selectable = false
 	inst[18].ZIndex = 1
 	inst[18].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[18].Image = 'rbxassetid://125088425775676'
@@ -513,7 +513,7 @@ local function buildUI()
 	inst[39].Rotation = 0
 	inst[39].AutomaticSize = Enum.AutomaticSize.None
 	inst[39].LayoutOrder = 0
-	inst[39].Selectable = true
+	inst[39].Selectable = false
 	inst[39].ZIndex = -1
 	inst[39].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[39].Image = 'rbxassetid://72548733587158'
@@ -539,7 +539,7 @@ local function buildUI()
 	inst[40].AutomaticSize = Enum.AutomaticSize.None
 	inst[40].LayoutOrder = 0
 	inst[40].Active = true
-	inst[40].Selectable = true
+	inst[40].Selectable = false
 	inst[40].ZIndex = 1
 	inst[40].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[40].Image = 'rbxassetid://125088425775676'
@@ -583,7 +583,7 @@ local function buildUI()
 	inst[44].AutomaticSize = Enum.AutomaticSize.None
 	inst[44].LayoutOrder = 0
 	inst[44].Active = true
-	inst[44].Selectable = true
+	inst[44].Selectable = false
 	inst[44].ZIndex = 0
 	inst[44].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[44].Image = 'rbxassetid://72548733587158'
@@ -611,7 +611,7 @@ local function buildUI()
 	inst[45].AutomaticSize = Enum.AutomaticSize.None
 	inst[45].LayoutOrder = 0
 	inst[45].Active = true
-	inst[45].Selectable = true
+	inst[45].Selectable = false
 	inst[45].ZIndex = 1
 	inst[45].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[45].Image = 'rbxassetid://125088425775676'
@@ -665,7 +665,7 @@ local function buildUI()
 	inst[49].AutomaticSize = Enum.AutomaticSize.None
 	inst[49].LayoutOrder = 0
 	inst[49].Active = true
-	inst[49].Selectable = true
+	inst[49].Selectable = false
 	inst[49].ZIndex = 1
 	inst[49].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[49].ScrollBarThickness = 0
@@ -982,7 +982,7 @@ local function buildUI()
 	inst[68].Rotation = 0
 	inst[68].AutomaticSize = Enum.AutomaticSize.None
 	inst[68].LayoutOrder = 0
-	inst[68].Selectable = true
+	inst[68].Selectable = false
 	inst[68].ZIndex = 1
 	inst[68].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[68].Image = 'rbxassetid://125088425775676'
@@ -1092,7 +1092,7 @@ local function buildUI()
 	inst[75].AutomaticSize = Enum.AutomaticSize.None
 	inst[75].LayoutOrder = 2
 	inst[75].Active = true
-	inst[75].Selectable = true
+	inst[75].Selectable = false
 	inst[75].ZIndex = 5
 	inst[75].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[75].Image = 'rbxassetid://125088425775676'
@@ -1165,7 +1165,7 @@ local function buildUI()
 	inst[82].Rotation = 0
 	inst[82].AutomaticSize = Enum.AutomaticSize.None
 	inst[82].LayoutOrder = 0
-	inst[82].Selectable = true
+	inst[82].Selectable = false
 	inst[82].ZIndex = 1
 	inst[82].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[82].Visible = false
@@ -1228,7 +1228,7 @@ local function buildUI()
 	inst[87].AutomaticSize = Enum.AutomaticSize.None
 	inst[87].LayoutOrder = 2
 	inst[87].Active = true
-	inst[87].Selectable = true
+	inst[87].Selectable = false
 	inst[87].ZIndex = 1
 	inst[87].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[87].Image = 'rbxassetid://125088425775676'
@@ -1297,7 +1297,7 @@ local function buildUI()
 	inst[92].AutomaticSize = Enum.AutomaticSize.X
 	inst[92].LayoutOrder = 1
 	inst[92].Active = true
-	inst[92].Selectable = true
+	inst[92].Selectable = false
 	inst[92].ZIndex = 1
 	inst[92].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[92].Image = 'rbxassetid://125088425775676'
@@ -1555,7 +1555,7 @@ local function buildUI()
 	inst[111].Rotation = 0
 	inst[111].AutomaticSize = Enum.AutomaticSize.None
 	inst[111].LayoutOrder = 0
-	inst[111].Selectable = true
+	inst[111].Selectable = false
 	inst[111].ZIndex = 2
 	inst[111].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[111].Parent = inst[1]
@@ -1572,7 +1572,7 @@ local function buildUI()
 	inst[112].AutomaticSize = Enum.AutomaticSize.None
 	inst[112].LayoutOrder = 0
 	inst[112].Active = true
-	inst[112].Selectable = true
+	inst[112].Selectable = false
 	inst[112].ZIndex = 2
 	inst[112].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[112].Image = 'rbxassetid://72548733587158'
@@ -1598,7 +1598,7 @@ local function buildUI()
 	inst[113].AutomaticSize = Enum.AutomaticSize.None
 	inst[113].LayoutOrder = 0
 	inst[113].Active = true
-	inst[113].Selectable = true
+	inst[113].Selectable = false
 	inst[113].ZIndex = 1
 	inst[113].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[113].Image = 'rbxassetid://125088425775676'
@@ -1652,7 +1652,7 @@ local function buildUI()
 	inst[117].AutomaticSize = Enum.AutomaticSize.None
 	inst[117].LayoutOrder = 0
 	inst[117].Active = true
-	inst[117].Selectable = true
+	inst[117].Selectable = false
 	inst[117].ZIndex = 1
 	inst[117].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[117].ScrollBarThickness = 0
@@ -1749,7 +1749,7 @@ local function buildUI()
 	inst[125].AutomaticSize = Enum.AutomaticSize.X
 	inst[125].LayoutOrder = 1
 	inst[125].Active = true
-	inst[125].Selectable = true
+	inst[125].Selectable = false
 	inst[125].ZIndex = 1
 	inst[125].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[125].Image = 'rbxassetid://125088425775676'
@@ -1850,7 +1850,7 @@ local function buildUI()
 	inst[132].AutomaticSize = Enum.AutomaticSize.X
 	inst[132].LayoutOrder = 2
 	inst[132].Active = true
-	inst[132].Selectable = true
+	inst[132].Selectable = false
 	inst[132].ZIndex = 1
 	inst[132].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[132].Image = 'rbxassetid://125088425775676'
@@ -1951,7 +1951,7 @@ local function buildUI()
 	inst[139].AutomaticSize = Enum.AutomaticSize.X
 	inst[139].LayoutOrder = 3
 	inst[139].Active = true
-	inst[139].Selectable = true
+	inst[139].Selectable = false
 	inst[139].ZIndex = 1
 	inst[139].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[139].Image = 'rbxassetid://125088425775676'
@@ -2059,7 +2059,7 @@ local function buildUI()
 	inst[147].AutomaticSize = Enum.AutomaticSize.X
 	inst[147].LayoutOrder = 4
 	inst[147].Active = true
-	inst[147].Selectable = true
+	inst[147].Selectable = false
 	inst[147].ZIndex = 1
 	inst[147].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[147].Image = 'rbxassetid://125088425775676'
@@ -2265,7 +2265,7 @@ local function buildUI()
 	inst[162].AutomaticSize = Enum.AutomaticSize.None
 	inst[162].LayoutOrder = 3
 	inst[162].Active = true
-	inst[162].Selectable = true
+	inst[162].Selectable = false
 	inst[162].ZIndex = 1
 	inst[162].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[162].Image = 'rbxassetid://125088425775676'
@@ -2395,7 +2395,7 @@ local function buildUI()
 	inst[171].AutomaticSize = Enum.AutomaticSize.None
 	inst[171].LayoutOrder = 4
 	inst[171].Active = true
-	inst[171].Selectable = true
+	inst[171].Selectable = false
 	inst[171].ZIndex = 1
 	inst[171].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[171].Image = 'rbxassetid://125088425775676'
@@ -2517,7 +2517,7 @@ local function buildUI()
 	inst[179].AutomaticSize = Enum.AutomaticSize.None
 	inst[179].LayoutOrder = 1
 	inst[179].Active = true
-	inst[179].Selectable = true
+	inst[179].Selectable = false
 	inst[179].ZIndex = 1
 	inst[179].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[179].Image = 'rbxassetid://125088425775676'
@@ -2639,7 +2639,7 @@ local function buildUI()
 	inst[187].AutomaticSize = Enum.AutomaticSize.None
 	inst[187].LayoutOrder = 2
 	inst[187].Active = true
-	inst[187].Selectable = true
+	inst[187].Selectable = false
 	inst[187].ZIndex = 1
 	inst[187].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[187].Image = 'rbxassetid://125088425775676'
@@ -2824,7 +2824,7 @@ local function buildUI()
 	inst[200].AutomaticSize = Enum.AutomaticSize.None
 	inst[200].LayoutOrder = 1
 	inst[200].Active = true
-	inst[200].Selectable = true
+	inst[200].Selectable = false
 	inst[200].ZIndex = 1
 	inst[200].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[200].Image = 'rbxassetid://125088425775676'
@@ -3034,7 +3034,7 @@ local function buildUI()
 	inst[214].AutomaticSize = Enum.AutomaticSize.None
 	inst[214].LayoutOrder = 1
 	inst[214].Active = true
-	inst[214].Selectable = true
+	inst[214].Selectable = false
 	inst[214].ZIndex = 1
 	inst[214].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[214].Image = 'rbxassetid://125088425775676'
@@ -3179,7 +3179,7 @@ local function buildUI()
 	inst[226].AutomaticSize = Enum.AutomaticSize.None
 	inst[226].LayoutOrder = 2
 	inst[226].Active = true
-	inst[226].Selectable = true
+	inst[226].Selectable = false
 	inst[226].ZIndex = 1
 	inst[226].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[226].Image = 'rbxassetid://125088425775676'
@@ -3324,7 +3324,7 @@ local function buildUI()
 	inst[238].AutomaticSize = Enum.AutomaticSize.None
 	inst[238].LayoutOrder = 3
 	inst[238].Active = true
-	inst[238].Selectable = true
+	inst[238].Selectable = false
 	inst[238].ZIndex = 1
 	inst[238].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[238].Image = 'rbxassetid://125088425775676'
@@ -3533,7 +3533,7 @@ local function buildUI()
 	inst[255].AutomaticSize = Enum.AutomaticSize.None
 	inst[255].LayoutOrder = 1
 	inst[255].Active = true
-	inst[255].Selectable = true
+	inst[255].Selectable = false
 	inst[255].ZIndex = 1
 	inst[255].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[255].Image = 'rbxassetid://125088425775676'
@@ -3631,7 +3631,7 @@ local function buildUI()
 	inst[262].AutomaticSize = Enum.AutomaticSize.None
 	inst[262].LayoutOrder = 2
 	inst[262].Active = true
-	inst[262].Selectable = true
+	inst[262].Selectable = false
 	inst[262].ZIndex = 1
 	inst[262].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[262].Image = 'rbxassetid://125088425775676'
@@ -3729,7 +3729,7 @@ local function buildUI()
 	inst[269].AutomaticSize = Enum.AutomaticSize.None
 	inst[269].LayoutOrder = 3
 	inst[269].Active = true
-	inst[269].Selectable = true
+	inst[269].Selectable = false
 	inst[269].ZIndex = 1
 	inst[269].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[269].Image = 'rbxassetid://125088425775676'
@@ -3827,7 +3827,7 @@ local function buildUI()
 	inst[276].AutomaticSize = Enum.AutomaticSize.None
 	inst[276].LayoutOrder = 4
 	inst[276].Active = true
-	inst[276].Selectable = true
+	inst[276].Selectable = false
 	inst[276].ZIndex = 1
 	inst[276].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[276].Image = 'rbxassetid://125088425775676'
@@ -3925,7 +3925,7 @@ local function buildUI()
 	inst[283].AutomaticSize = Enum.AutomaticSize.None
 	inst[283].LayoutOrder = 6
 	inst[283].Active = true
-	inst[283].Selectable = true
+	inst[283].Selectable = false
 	inst[283].ZIndex = 1
 	inst[283].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[283].Image = 'rbxassetid://125088425775676'
@@ -4023,7 +4023,7 @@ local function buildUI()
 	inst[290].AutomaticSize = Enum.AutomaticSize.None
 	inst[290].LayoutOrder = 5
 	inst[290].Active = true
-	inst[290].Selectable = true
+	inst[290].Selectable = false
 	inst[290].ZIndex = 1
 	inst[290].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[290].Image = 'rbxassetid://125088425775676'
@@ -4121,7 +4121,7 @@ local function buildUI()
 	inst[297].AutomaticSize = Enum.AutomaticSize.None
 	inst[297].LayoutOrder = 11
 	inst[297].Active = true
-	inst[297].Selectable = true
+	inst[297].Selectable = false
 	inst[297].ZIndex = 1
 	inst[297].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[297].Image = 'rbxassetid://125088425775676'
@@ -4223,7 +4223,7 @@ local function buildUI()
 	inst[304].AutomaticSize = Enum.AutomaticSize.None
 	inst[304].LayoutOrder = 12
 	inst[304].Active = true
-	inst[304].Selectable = true
+	inst[304].Selectable = false
 	inst[304].ZIndex = 1
 	inst[304].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[304].Image = 'rbxassetid://125088425775676'
@@ -4321,7 +4321,7 @@ local function buildUI()
 	inst[311].AutomaticSize = Enum.AutomaticSize.None
 	inst[311].LayoutOrder = 13
 	inst[311].Active = true
-	inst[311].Selectable = true
+	inst[311].Selectable = false
 	inst[311].ZIndex = 1
 	inst[311].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[311].Image = 'rbxassetid://125088425775676'
@@ -4419,7 +4419,7 @@ local function buildUI()
 	inst[318].AutomaticSize = Enum.AutomaticSize.None
 	inst[318].LayoutOrder = 7
 	inst[318].Active = true
-	inst[318].Selectable = true
+	inst[318].Selectable = false
 	inst[318].ZIndex = 1
 	inst[318].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[318].Image = 'rbxassetid://125088425775676'
@@ -4517,7 +4517,7 @@ local function buildUI()
 	inst[325].AutomaticSize = Enum.AutomaticSize.None
 	inst[325].LayoutOrder = 8
 	inst[325].Active = true
-	inst[325].Selectable = true
+	inst[325].Selectable = false
 	inst[325].ZIndex = 1
 	inst[325].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[325].Image = 'rbxassetid://125088425775676'
@@ -4615,7 +4615,7 @@ local function buildUI()
 	inst[332].AutomaticSize = Enum.AutomaticSize.None
 	inst[332].LayoutOrder = 9
 	inst[332].Active = true
-	inst[332].Selectable = true
+	inst[332].Selectable = false
 	inst[332].ZIndex = 1
 	inst[332].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[332].Image = 'rbxassetid://125088425775676'
@@ -4713,7 +4713,7 @@ local function buildUI()
 	inst[339].AutomaticSize = Enum.AutomaticSize.None
 	inst[339].LayoutOrder = 10
 	inst[339].Active = true
-	inst[339].Selectable = true
+	inst[339].Selectable = false
 	inst[339].ZIndex = 1
 	inst[339].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[339].Image = 'rbxassetid://125088425775676'
@@ -4874,7 +4874,7 @@ local function buildUI()
 	inst[351].AutomaticSize = Enum.AutomaticSize.None
 	inst[351].LayoutOrder = 2
 	inst[351].Active = true
-	inst[351].Selectable = true
+	inst[351].Selectable = false
 	inst[351].ZIndex = 1
 	inst[351].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[351].Image = 'rbxassetid://125088425775676'
@@ -4996,7 +4996,7 @@ local function buildUI()
 	inst[359].AutomaticSize = Enum.AutomaticSize.None
 	inst[359].LayoutOrder = 3
 	inst[359].Active = true
-	inst[359].Selectable = true
+	inst[359].Selectable = false
 	inst[359].ZIndex = 1
 	inst[359].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[359].Image = 'rbxassetid://125088425775676'
@@ -5118,7 +5118,7 @@ local function buildUI()
 	inst[367].AutomaticSize = Enum.AutomaticSize.None
 	inst[367].LayoutOrder = 1
 	inst[367].Active = true
-	inst[367].Selectable = true
+	inst[367].Selectable = false
 	inst[367].ZIndex = 1
 	inst[367].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[367].Image = 'rbxassetid://125088425775676'
@@ -5239,7 +5239,7 @@ local function buildUI()
 	inst[375].Rotation = 0
 	inst[375].AutomaticSize = Enum.AutomaticSize.None
 	inst[375].LayoutOrder = 0
-	inst[375].Selectable = true
+	inst[375].Selectable = false
 	inst[375].ZIndex = 1
 	inst[375].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[375].Image = 'rbxassetid://125088425775676'
@@ -5428,7 +5428,7 @@ local function buildUI()
 	inst[388].AutomaticSize = Enum.AutomaticSize.None
 	inst[388].LayoutOrder = 5
 	inst[388].Active = true
-	inst[388].Selectable = true
+	inst[388].Selectable = false
 	inst[388].ZIndex = 5
 	inst[388].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[388].Image = 'rbxassetid://125088425775676'
@@ -5519,7 +5519,7 @@ local function buildUI()
 	inst[395].AutomaticSize = Enum.AutomaticSize.None
 	inst[395].LayoutOrder = 0
 	inst[395].Active = true
-	inst[395].Selectable = true
+	inst[395].Selectable = false
 	inst[395].ZIndex = 1
 	inst[395].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[395].Image = 'rbxassetid://72548733587158'
@@ -5545,7 +5545,7 @@ local function buildUI()
 	inst[396].AutomaticSize = Enum.AutomaticSize.None
 	inst[396].LayoutOrder = 0
 	inst[396].Active = true
-	inst[396].Selectable = true
+	inst[396].Selectable = false
 	inst[396].ZIndex = 1
 	inst[396].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[396].Image = 'rbxassetid://125088425775676'
@@ -5616,7 +5616,7 @@ local function buildUI()
 	inst[401].AutomaticSize = Enum.AutomaticSize.None
 	inst[401].LayoutOrder = 0
 	inst[401].Active = true
-	inst[401].Selectable = true
+	inst[401].Selectable = false
 	inst[401].ZIndex = 1
 	inst[401].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[401].ScrollBarThickness = 0
@@ -5646,7 +5646,7 @@ local function buildUI()
 	inst[403].AutomaticSize = Enum.AutomaticSize.None
 	inst[403].LayoutOrder = 0
 	inst[403].Active = true
-	inst[403].Selectable = true
+	inst[403].Selectable = false
 	inst[403].ZIndex = 1
 	inst[403].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[403].Image = 'rbxassetid://125088425775676'
@@ -5744,7 +5744,7 @@ local function buildUI()
 	inst[410].AutomaticSize = Enum.AutomaticSize.None
 	inst[410].LayoutOrder = 2
 	inst[410].Active = true
-	inst[410].Selectable = true
+	inst[410].Selectable = false
 	inst[410].ZIndex = 5
 	inst[410].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[410].Image = 'rbxassetid://138426819549450'
@@ -5835,7 +5835,7 @@ local function buildUI()
 	inst[416].AutomaticSize = Enum.AutomaticSize.None
 	inst[416].LayoutOrder = 0
 	inst[416].Active = true
-	inst[416].Selectable = true
+	inst[416].Selectable = false
 	inst[416].ZIndex = 1
 	inst[416].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[416].Image = ''
@@ -5941,7 +5941,7 @@ local function buildUI()
 	inst[423].AutomaticSize = Enum.AutomaticSize.None
 	inst[423].LayoutOrder = 0
 	inst[423].Active = true
-	inst[423].Selectable = true
+	inst[423].Selectable = false
 	inst[423].ZIndex = 1
 	inst[423].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[423].ScrollBarThickness = 0
@@ -6113,7 +6113,7 @@ local function buildUI()
 	inst[434].AutomaticSize = Enum.AutomaticSize.None
 	inst[434].LayoutOrder = 1
 	inst[434].Active = true
-	inst[434].Selectable = true
+	inst[434].Selectable = false
 	inst[434].ZIndex = 1
 	inst[434].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[434].Text = ''
@@ -6164,7 +6164,7 @@ local function buildUI()
 	inst[439].AutomaticSize = Enum.AutomaticSize.None
 	inst[439].LayoutOrder = 2
 	inst[439].Active = true
-	inst[439].Selectable = true
+	inst[439].Selectable = false
 	inst[439].ZIndex = 1
 	inst[439].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[439].Image = ''
@@ -6360,7 +6360,7 @@ local function buildUI()
 	inst[454].AutomaticSize = Enum.AutomaticSize.Y
 	inst[454].LayoutOrder = 3
 	inst[454].Active = true
-	inst[454].Selectable = true
+	inst[454].Selectable = false
 	inst[454].ZIndex = 1
 	inst[454].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[454].Text = ''
@@ -6583,7 +6583,7 @@ local function buildUI()
 	inst[470].AutomaticSize = Enum.AutomaticSize.Y
 	inst[470].LayoutOrder = 3
 	inst[470].Active = true
-	inst[470].Selectable = true
+	inst[470].Selectable = false
 	inst[470].ZIndex = 1
 	inst[470].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[470].Text = ''
@@ -6659,7 +6659,7 @@ local function buildUI()
 	inst[476].AutomaticSize = Enum.AutomaticSize.None
 	inst[476].LayoutOrder = 0
 	inst[476].Active = true
-	inst[476].Selectable = true
+	inst[476].Selectable = false
 	inst[476].ZIndex = 1
 	inst[476].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[476].Image = ''
@@ -6737,7 +6737,7 @@ local function buildUI()
 	inst[481].AutomaticSize = Enum.AutomaticSize.Y
 	inst[481].LayoutOrder = 3
 	inst[481].Active = true
-	inst[481].Selectable = true
+	inst[481].Selectable = false
 	inst[481].ZIndex = 1
 	inst[481].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[481].Image = ''
@@ -6788,7 +6788,7 @@ local function buildUI()
 	inst[483].Rotation = 0
 	inst[483].AutomaticSize = Enum.AutomaticSize.None
 	inst[483].LayoutOrder = 0
-	inst[483].Selectable = true
+	inst[483].Selectable = false
 	inst[483].ZIndex = 1
 	inst[483].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[483].Image = 'rbxassetid://112897748776756'
@@ -6817,7 +6817,7 @@ local function buildUI()
 	inst[485].Rotation = 0
 	inst[485].AutomaticSize = Enum.AutomaticSize.None
 	inst[485].LayoutOrder = 0
-	inst[485].Selectable = true
+	inst[485].Selectable = false
 	inst[485].ZIndex = 1
 	inst[485].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[485].Image = 'rbxassetid://138426819549450'
@@ -6912,7 +6912,7 @@ local function buildUI()
 	inst[491].AutomaticSize = Enum.AutomaticSize.Y
 	inst[491].LayoutOrder = 1
 	inst[491].Active = true
-	inst[491].Selectable = true
+	inst[491].Selectable = false
 	inst[491].ZIndex = 1
 	inst[491].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[491].Image = ''
@@ -6963,7 +6963,7 @@ local function buildUI()
 	inst[493].Rotation = 0
 	inst[493].AutomaticSize = Enum.AutomaticSize.None
 	inst[493].LayoutOrder = 0
-	inst[493].Selectable = true
+	inst[493].Selectable = false
 	inst[493].ZIndex = 1
 	inst[493].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[493].Image = 'rbxassetid://112897748776756'
@@ -6992,7 +6992,7 @@ local function buildUI()
 	inst[495].Rotation = 0
 	inst[495].AutomaticSize = Enum.AutomaticSize.None
 	inst[495].LayoutOrder = 0
-	inst[495].Selectable = true
+	inst[495].Selectable = false
 	inst[495].ZIndex = 1
 	inst[495].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[495].Image = 'rbxassetid://138426819549450'
@@ -7080,7 +7080,7 @@ local function buildUI()
 	inst[500].AutomaticSize = Enum.AutomaticSize.Y
 	inst[500].LayoutOrder = 2
 	inst[500].Active = true
-	inst[500].Selectable = true
+	inst[500].Selectable = false
 	inst[500].ZIndex = 1
 	inst[500].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[500].Image = ''
@@ -7131,7 +7131,7 @@ local function buildUI()
 	inst[502].Rotation = 0
 	inst[502].AutomaticSize = Enum.AutomaticSize.None
 	inst[502].LayoutOrder = 0
-	inst[502].Selectable = true
+	inst[502].Selectable = false
 	inst[502].ZIndex = 1
 	inst[502].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[502].Image = 'rbxassetid://112897748776756'
@@ -7160,7 +7160,7 @@ local function buildUI()
 	inst[504].Rotation = 0
 	inst[504].AutomaticSize = Enum.AutomaticSize.None
 	inst[504].LayoutOrder = 0
-	inst[504].Selectable = true
+	inst[504].Selectable = false
 	inst[504].ZIndex = 1
 	inst[504].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[504].Image = 'rbxassetid://138426819549450'
@@ -7224,7 +7224,7 @@ local function buildUI()
 	inst[508].AutomaticSize = Enum.AutomaticSize.None
 	inst[508].LayoutOrder = 0
 	inst[508].Active = true
-	inst[508].Selectable = true
+	inst[508].Selectable = false
 	inst[508].ZIndex = 1
 	inst[508].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[508].Image = ''
@@ -7469,7 +7469,7 @@ local function buildUI()
 	inst[527].Rotation = 0
 	inst[527].AutomaticSize = Enum.AutomaticSize.None
 	inst[527].LayoutOrder = 0
-	inst[527].Selectable = true
+	inst[527].Selectable = false
 	inst[527].ZIndex = 1
 	inst[527].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[527].Image = 'rbxassetid://125088425775676'
@@ -7586,7 +7586,7 @@ local function buildUI()
 	inst[535].AutomaticSize = Enum.AutomaticSize.None
 	inst[535].LayoutOrder = 2
 	inst[535].Active = true
-	inst[535].Selectable = true
+	inst[535].Selectable = false
 	inst[535].ZIndex = 5
 	inst[535].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[535].Image = 'rbxassetid://125088425775676'
@@ -7632,7 +7632,7 @@ local function buildUI()
 	inst[538].Parent = inst[537]
 	inst[539] = Instance.new('ImageButton')
 	inst[539].Name = 'pin'
-	inst[539].Visible = true
+	inst[539].Visible = false
 	inst[539].Size = UDim2.new(0, 24, 0, 24)
 	inst[539].Position = UDim2.new(0, 0, 0, 0)
 	inst[539].AnchorPoint = Vector2.new(0, 0)
@@ -7644,7 +7644,7 @@ local function buildUI()
 	inst[539].AutomaticSize = Enum.AutomaticSize.None
 	inst[539].LayoutOrder = 1
 	inst[539].Active = true
-	inst[539].Selectable = true
+	inst[539].Selectable = false
 	inst[539].ZIndex = 5
 	inst[539].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[539].Image = 'rbxassetid://125088425775676'
@@ -7662,7 +7662,7 @@ local function buildUI()
 	inst[540].Parent = inst[539]
 	inst[541] = Instance.new('ImageLabel')
 	inst[541].Name = 'pin'
-	inst[541].Visible = true
+	inst[541].Visible = false
 	inst[541].Size = UDim2.new(0, 15, 0, 15)
 	inst[541].Position = UDim2.new(0.5, 0, 0.5, 0)
 	inst[541].AnchorPoint = Vector2.new(0.5, 0.5)
@@ -7736,7 +7736,7 @@ local function buildUI()
 	inst[546].AutomaticSize = Enum.AutomaticSize.None
 	inst[546].LayoutOrder = 0
 	inst[546].Active = true
-	inst[546].Selectable = true
+	inst[546].Selectable = false
 	inst[546].ZIndex = 1
 	inst[546].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[546].Image = 'rbxassetid://72548733587158'
@@ -7762,7 +7762,7 @@ local function buildUI()
 	inst[547].AutomaticSize = Enum.AutomaticSize.None
 	inst[547].LayoutOrder = 0
 	inst[547].Active = true
-	inst[547].Selectable = true
+	inst[547].Selectable = false
 	inst[547].ZIndex = 1
 	inst[547].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[547].Image = 'rbxassetid://125088425775676'
@@ -7833,7 +7833,7 @@ local function buildUI()
 	inst[552].AutomaticSize = Enum.AutomaticSize.None
 	inst[552].LayoutOrder = 0
 	inst[552].Active = true
-	inst[552].Selectable = true
+	inst[552].Selectable = false
 	inst[552].ZIndex = 1
 	inst[552].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[552].ScrollBarThickness = 0
@@ -7863,7 +7863,7 @@ local function buildUI()
 	inst[554].AutomaticSize = Enum.AutomaticSize.None
 	inst[554].LayoutOrder = 0
 	inst[554].Active = true
-	inst[554].Selectable = true
+	inst[554].Selectable = false
 	inst[554].ZIndex = 1
 	inst[554].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[554].Image = 'rbxassetid://125088425775676'
@@ -7961,7 +7961,7 @@ local function buildUI()
 	inst[561].AutomaticSize = Enum.AutomaticSize.None
 	inst[561].LayoutOrder = 2
 	inst[561].Active = true
-	inst[561].Selectable = true
+	inst[561].Selectable = false
 	inst[561].ZIndex = 5
 	inst[561].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[561].Image = 'rbxassetid://138426819549450'
@@ -8052,7 +8052,7 @@ local function buildUI()
 	inst[567].AutomaticSize = Enum.AutomaticSize.None
 	inst[567].LayoutOrder = 0
 	inst[567].Active = true
-	inst[567].Selectable = true
+	inst[567].Selectable = false
 	inst[567].ZIndex = 1
 	inst[567].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[567].Image = ''
@@ -8158,7 +8158,7 @@ local function buildUI()
 	inst[574].AutomaticSize = Enum.AutomaticSize.None
 	inst[574].LayoutOrder = 0
 	inst[574].Active = true
-	inst[574].Selectable = true
+	inst[574].Selectable = false
 	inst[574].ZIndex = 1
 	inst[574].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[574].ScrollBarThickness = 0
@@ -8284,7 +8284,7 @@ local function buildUI()
 	inst[584].AutomaticSize = Enum.AutomaticSize.Y
 	inst[584].LayoutOrder = 3
 	inst[584].Active = true
-	inst[584].Selectable = true
+	inst[584].Selectable = false
 	inst[584].ZIndex = 1
 	inst[584].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[584].Text = ''
@@ -8364,7 +8364,7 @@ local function buildUI()
 	inst[590].AutomaticSize = Enum.AutomaticSize.None
 	inst[590].LayoutOrder = 0
 	inst[590].Active = true
-	inst[590].Selectable = true
+	inst[590].Selectable = false
 	inst[590].ZIndex = 1
 	inst[590].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[590].Image = ''
@@ -8449,7 +8449,7 @@ local function buildUI()
 	inst[596].AutomaticSize = Enum.AutomaticSize.Y
 	inst[596].LayoutOrder = 2
 	inst[596].Active = true
-	inst[596].Selectable = true
+	inst[596].Selectable = false
 	inst[596].ZIndex = 1
 	inst[596].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[596].Image = ''
@@ -8500,7 +8500,7 @@ local function buildUI()
 	inst[598].Rotation = 0
 	inst[598].AutomaticSize = Enum.AutomaticSize.None
 	inst[598].LayoutOrder = 0
-	inst[598].Selectable = true
+	inst[598].Selectable = false
 	inst[598].ZIndex = 1
 	inst[598].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[598].Image = 'rbxassetid://112897748776756'
@@ -8529,7 +8529,7 @@ local function buildUI()
 	inst[600].Rotation = 0
 	inst[600].AutomaticSize = Enum.AutomaticSize.None
 	inst[600].LayoutOrder = 0
-	inst[600].Selectable = true
+	inst[600].Selectable = false
 	inst[600].ZIndex = 1
 	inst[600].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[600].Image = 'rbxassetid://138426819549450'
@@ -8617,7 +8617,7 @@ local function buildUI()
 	inst[605].AutomaticSize = Enum.AutomaticSize.None
 	inst[605].LayoutOrder = 0
 	inst[605].Active = true
-	inst[605].Selectable = true
+	inst[605].Selectable = false
 	inst[605].ZIndex = 1
 	inst[605].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[605].Image = ''
@@ -8862,7 +8862,7 @@ local function buildUI()
 	inst[624].Rotation = 0
 	inst[624].AutomaticSize = Enum.AutomaticSize.None
 	inst[624].LayoutOrder = 0
-	inst[624].Selectable = true
+	inst[624].Selectable = false
 	inst[624].ZIndex = 1
 	inst[624].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[624].Image = 'rbxassetid://125088425775676'
@@ -8979,7 +8979,7 @@ local function buildUI()
 	inst[632].AutomaticSize = Enum.AutomaticSize.None
 	inst[632].LayoutOrder = 2
 	inst[632].Active = true
-	inst[632].Selectable = true
+	inst[632].Selectable = false
 	inst[632].ZIndex = 5
 	inst[632].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[632].Image = 'rbxassetid://125088425775676'
@@ -9025,7 +9025,7 @@ local function buildUI()
 	inst[635].Parent = inst[634]
 	inst[636] = Instance.new('ImageButton')
 	inst[636].Name = 'pin'
-	inst[636].Visible = true
+	inst[636].Visible = false
 	inst[636].Size = UDim2.new(0, 24, 0, 24)
 	inst[636].Position = UDim2.new(0, 0, 0, 0)
 	inst[636].AnchorPoint = Vector2.new(0, 0)
@@ -9037,7 +9037,7 @@ local function buildUI()
 	inst[636].AutomaticSize = Enum.AutomaticSize.None
 	inst[636].LayoutOrder = 1
 	inst[636].Active = true
-	inst[636].Selectable = true
+	inst[636].Selectable = false
 	inst[636].ZIndex = 5
 	inst[636].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[636].Image = 'rbxassetid://125088425775676'
@@ -9055,7 +9055,7 @@ local function buildUI()
 	inst[637].Parent = inst[636]
 	inst[638] = Instance.new('ImageLabel')
 	inst[638].Name = 'pin'
-	inst[638].Visible = true
+	inst[638].Visible = false
 	inst[638].Size = UDim2.new(0, 15, 0, 15)
 	inst[638].Position = UDim2.new(0.5, 0, 0.5, 0)
 	inst[638].AnchorPoint = Vector2.new(0.5, 0.5)
@@ -9129,7 +9129,7 @@ local function buildUI()
 	inst[643].AutomaticSize = Enum.AutomaticSize.None
 	inst[643].LayoutOrder = 0
 	inst[643].Active = true
-	inst[643].Selectable = true
+	inst[643].Selectable = false
 	inst[643].ZIndex = 2
 	inst[643].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[643].Image = 'rbxassetid://72548733587158'
@@ -9155,7 +9155,7 @@ local function buildUI()
 	inst[644].AutomaticSize = Enum.AutomaticSize.None
 	inst[644].LayoutOrder = 0
 	inst[644].Active = true
-	inst[644].Selectable = true
+	inst[644].Selectable = false
 	inst[644].ZIndex = 1
 	inst[644].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[644].Image = 'rbxassetid://125088425775676'
@@ -9209,7 +9209,7 @@ local function buildUI()
 	inst[648].AutomaticSize = Enum.AutomaticSize.None
 	inst[648].LayoutOrder = 0
 	inst[648].Active = true
-	inst[648].Selectable = true
+	inst[648].Selectable = false
 	inst[648].ZIndex = 1
 	inst[648].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[648].ScrollBarThickness = 0
@@ -9270,7 +9270,7 @@ local function buildUI()
 	inst[653].AutomaticSize = Enum.AutomaticSize.None
 	inst[653].LayoutOrder = 2
 	inst[653].Active = true
-	inst[653].Selectable = true
+	inst[653].Selectable = false
 	inst[653].ZIndex = 1
 	inst[653].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[653].Image = 'rbxassetid://125088425775676'
@@ -9414,7 +9414,7 @@ local function buildUI()
 	inst[661].AutomaticSize = Enum.AutomaticSize.None
 	inst[661].LayoutOrder = 3
 	inst[661].Active = true
-	inst[661].Selectable = true
+	inst[661].Selectable = false
 	inst[661].ZIndex = 1
 	inst[661].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[661].Image = 'rbxassetid://125088425775676'
@@ -9558,7 +9558,7 @@ local function buildUI()
 	inst[669].AutomaticSize = Enum.AutomaticSize.None
 	inst[669].LayoutOrder = 3
 	inst[669].Active = true
-	inst[669].Selectable = true
+	inst[669].Selectable = false
 	inst[669].ZIndex = 1
 	inst[669].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[669].Image = 'rbxassetid://125088425775676'
@@ -9789,7 +9789,7 @@ local function buildUI()
 	inst[684].AutomaticSize = Enum.AutomaticSize.None
 	inst[684].LayoutOrder = 4
 	inst[684].Active = true
-	inst[684].Selectable = true
+	inst[684].Selectable = false
 	inst[684].ZIndex = 1
 	inst[684].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[684].Image = 'rbxassetid://125088425775676'
@@ -9914,7 +9914,7 @@ local function buildUI()
 	inst[692].AutomaticSize = Enum.AutomaticSize.None
 	inst[692].LayoutOrder = 1
 	inst[692].Active = true
-	inst[692].Selectable = true
+	inst[692].Selectable = false
 	inst[692].ZIndex = 1
 	inst[692].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[692].Image = 'rbxassetid://125088425775676'
@@ -10077,7 +10077,7 @@ local function buildUI()
 	inst[702].Parent = inst[701]
 	inst[703] = Instance.new('ImageLabel')
 	inst[703].Name = 'pin'
-	inst[703].Visible = true
+	inst[703].Visible = false
 	inst[703].Size = UDim2.new(0, 11, 0, 11)
 	inst[703].Position = UDim2.new(0.5, 0, 0, 15)
 	inst[703].AnchorPoint = Vector2.new(0.5, 0)
@@ -10524,7 +10524,7 @@ local function buildUI()
 	inst[733].AutomaticSize = Enum.AutomaticSize.None
 	inst[733].LayoutOrder = 0
 	inst[733].Active = true
-	inst[733].Selectable = true
+	inst[733].Selectable = false
 	inst[733].ZIndex = 1
 	inst[733].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[733].Image = ''
@@ -10603,7 +10603,7 @@ local function buildUI()
 	inst[738].Rotation = 0
 	inst[738].AutomaticSize = Enum.AutomaticSize.None
 	inst[738].LayoutOrder = 0
-	inst[738].Selectable = true
+	inst[738].Selectable = false
 	inst[738].ZIndex = 1
 	inst[738].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[738].Image = 'rbxassetid://125088425775676'
@@ -10792,7 +10792,7 @@ local function buildUI()
 	inst[751].AutomaticSize = Enum.AutomaticSize.None
 	inst[751].LayoutOrder = 5
 	inst[751].Active = true
-	inst[751].Selectable = true
+	inst[751].Selectable = false
 	inst[751].ZIndex = 5
 	inst[751].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[751].Image = 'rbxassetid://125088425775676'
@@ -10883,7 +10883,7 @@ local function buildUI()
 	inst[758].AutomaticSize = Enum.AutomaticSize.None
 	inst[758].LayoutOrder = 0
 	inst[758].Active = true
-	inst[758].Selectable = true
+	inst[758].Selectable = false
 	inst[758].ZIndex = 1
 	inst[758].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[758].Image = 'rbxassetid://72548733587158'
@@ -10909,7 +10909,7 @@ local function buildUI()
 	inst[759].AutomaticSize = Enum.AutomaticSize.None
 	inst[759].LayoutOrder = 0
 	inst[759].Active = true
-	inst[759].Selectable = true
+	inst[759].Selectable = false
 	inst[759].ZIndex = 1
 	inst[759].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[759].Image = 'rbxassetid://125088425775676'
@@ -10964,7 +10964,7 @@ local function buildUI()
 	inst[763].AutomaticSize = Enum.AutomaticSize.None
 	inst[763].LayoutOrder = 0
 	inst[763].Active = true
-	inst[763].Selectable = true
+	inst[763].Selectable = false
 	inst[763].ZIndex = 1
 	inst[763].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[763].ScrollBarThickness = 0
@@ -11090,7 +11090,7 @@ local function buildUI()
 	inst[773].AutomaticSize = Enum.AutomaticSize.None
 	inst[773].LayoutOrder = 3
 	inst[773].Active = true
-	inst[773].Selectable = true
+	inst[773].Selectable = false
 	inst[773].ZIndex = 1
 	inst[773].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[773].Text = ''
@@ -11157,7 +11157,7 @@ local function buildUI()
 	inst[779].AutomaticSize = Enum.AutomaticSize.None
 	inst[779].LayoutOrder = 2
 	inst[779].Active = true
-	inst[779].Selectable = true
+	inst[779].Selectable = false
 	inst[779].ZIndex = 1
 	inst[779].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[779].Text = 'Player'
@@ -11197,7 +11197,7 @@ local function buildUI()
 	inst[782].AutomaticSize = Enum.AutomaticSize.None
 	inst[782].LayoutOrder = 1
 	inst[782].Active = true
-	inst[782].Selectable = true
+	inst[782].Selectable = false
 	inst[782].ZIndex = 1
 	inst[782].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[782].Text = 'Job ID'
@@ -11318,7 +11318,7 @@ local function buildUI()
 	inst[792].AutomaticSize = Enum.AutomaticSize.None
 	inst[792].LayoutOrder = 0
 	inst[792].Active = true
-	inst[792].Selectable = true
+	inst[792].Selectable = false
 	inst[792].ZIndex = 1
 	inst[792].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[792].Image = ''
@@ -11397,7 +11397,7 @@ local function buildUI()
 	inst[797].Rotation = 0
 	inst[797].AutomaticSize = Enum.AutomaticSize.None
 	inst[797].LayoutOrder = 0
-	inst[797].Selectable = true
+	inst[797].Selectable = false
 	inst[797].ZIndex = 1
 	inst[797].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[797].Image = 'rbxassetid://125088425775676'
@@ -11459,7 +11459,7 @@ local function buildUI()
 	inst[802].AutomaticSize = Enum.AutomaticSize.None
 	inst[802].LayoutOrder = 2
 	inst[802].Active = true
-	inst[802].Selectable = true
+	inst[802].Selectable = false
 	inst[802].ZIndex = 5
 	inst[802].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[802].Image = 'rbxassetid://125088425775676'
@@ -11580,7 +11580,7 @@ local function buildUI()
 	inst[811].AutomaticSize = Enum.AutomaticSize.None
 	inst[811].LayoutOrder = 0
 	inst[811].Active = true
-	inst[811].Selectable = true
+	inst[811].Selectable = false
 	inst[811].ZIndex = 1
 	inst[811].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[811].Image = 'rbxassetid://72548733587158'
@@ -11606,7 +11606,7 @@ local function buildUI()
 	inst[812].AutomaticSize = Enum.AutomaticSize.None
 	inst[812].LayoutOrder = 0
 	inst[812].Active = true
-	inst[812].Selectable = true
+	inst[812].Selectable = false
 	inst[812].ZIndex = 1
 	inst[812].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[812].Image = 'rbxassetid://125088425775676'
@@ -11716,7 +11716,7 @@ local function buildUI()
 	inst[819].AutomaticSize = Enum.AutomaticSize.None
 	inst[819].LayoutOrder = 0
 	inst[819].Active = true
-	inst[819].Selectable = true
+	inst[819].Selectable = false
 	inst[819].ZIndex = 1
 	inst[819].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[819].Image = 'rbxassetid://72548733587158'
@@ -11743,7 +11743,7 @@ local function buildUI()
 	inst[820].AutomaticSize = Enum.AutomaticSize.None
 	inst[820].LayoutOrder = 0
 	inst[820].Active = true
-	inst[820].Selectable = true
+	inst[820].Selectable = false
 	inst[820].ZIndex = 1
 	inst[820].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[820].Image = 'rbxassetid://125088425775676'
@@ -11904,7 +11904,7 @@ local function buildUI()
 	inst[833].AutomaticSize = Enum.AutomaticSize.None
 	inst[833].LayoutOrder = 2
 	inst[833].Active = true
-	inst[833].Selectable = true
+	inst[833].Selectable = false
 	inst[833].ZIndex = 5
 	inst[833].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[833].Image = 'rbxassetid://125088425775676'
@@ -11950,7 +11950,7 @@ local function buildUI()
 	inst[836].Parent = inst[835]
 	inst[837] = Instance.new('ImageButton')
 	inst[837].Name = 'pin'
-	inst[837].Visible = true
+	inst[837].Visible = false
 	inst[837].Size = UDim2.new(0, 24, 0, 24)
 	inst[837].Position = UDim2.new(0, 0, 0, 0)
 	inst[837].AnchorPoint = Vector2.new(0, 0)
@@ -11962,7 +11962,7 @@ local function buildUI()
 	inst[837].AutomaticSize = Enum.AutomaticSize.None
 	inst[837].LayoutOrder = 1
 	inst[837].Active = true
-	inst[837].Selectable = true
+	inst[837].Selectable = false
 	inst[837].ZIndex = 5
 	inst[837].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[837].Image = 'rbxassetid://125088425775676'
@@ -11980,7 +11980,7 @@ local function buildUI()
 	inst[838].Parent = inst[837]
 	inst[839] = Instance.new('ImageLabel')
 	inst[839].Name = 'pin'
-	inst[839].Visible = true
+	inst[839].Visible = false
 	inst[839].Size = UDim2.new(0, 15, 0, 15)
 	inst[839].Position = UDim2.new(0.5, 0, 0.5, 0)
 	inst[839].AnchorPoint = Vector2.new(0.5, 0.5)
@@ -12054,7 +12054,7 @@ local function buildUI()
 	inst[844].AutomaticSize = Enum.AutomaticSize.None
 	inst[844].LayoutOrder = 0
 	inst[844].Active = true
-	inst[844].Selectable = true
+	inst[844].Selectable = false
 	inst[844].ZIndex = 1
 	inst[844].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[844].Image = 'rbxassetid://72548733587158'
@@ -12080,7 +12080,7 @@ local function buildUI()
 	inst[845].AutomaticSize = Enum.AutomaticSize.None
 	inst[845].LayoutOrder = 0
 	inst[845].Active = true
-	inst[845].Selectable = true
+	inst[845].Selectable = false
 	inst[845].ZIndex = 1
 	inst[845].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[845].Image = 'rbxassetid://125088425775676'
@@ -12134,7 +12134,7 @@ local function buildUI()
 	inst[849].AutomaticSize = Enum.AutomaticSize.None
 	inst[849].LayoutOrder = 0
 	inst[849].Active = true
-	inst[849].Selectable = true
+	inst[849].Selectable = false
 	inst[849].ZIndex = 1
 	inst[849].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[849].Image = ''
@@ -12176,7 +12176,7 @@ local function buildUI()
 	inst[851].AutomaticSize = Enum.AutomaticSize.X
 	inst[851].LayoutOrder = 0
 	inst[851].Active = true
-	inst[851].Selectable = true
+	inst[851].Selectable = false
 	inst[851].ZIndex = 1
 	inst[851].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[851].Image = ''
@@ -12248,7 +12248,7 @@ local function buildUI()
 	inst[856].AutomaticSize = Enum.AutomaticSize.None
 	inst[856].LayoutOrder = 0
 	inst[856].Active = true
-	inst[856].Selectable = true
+	inst[856].Selectable = false
 	inst[856].ZIndex = 1
 	inst[856].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[856].ScrollBarThickness = 0
@@ -12374,7 +12374,7 @@ local function buildUI()
 	inst[866].AutomaticSize = Enum.AutomaticSize.Y
 	inst[866].LayoutOrder = 3
 	inst[866].Active = true
-	inst[866].Selectable = true
+	inst[866].Selectable = false
 	inst[866].ZIndex = 1
 	inst[866].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[866].Text = ''
@@ -12482,7 +12482,7 @@ local function buildUI()
 	inst[874].AutomaticSize = Enum.AutomaticSize.Y
 	inst[874].LayoutOrder = 2
 	inst[874].Active = true
-	inst[874].Selectable = true
+	inst[874].Selectable = false
 	inst[874].ZIndex = 1
 	inst[874].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[874].Image = ''
@@ -12533,7 +12533,7 @@ local function buildUI()
 	inst[876].Rotation = 0
 	inst[876].AutomaticSize = Enum.AutomaticSize.None
 	inst[876].LayoutOrder = 0
-	inst[876].Selectable = true
+	inst[876].Selectable = false
 	inst[876].ZIndex = 1
 	inst[876].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[876].Image = 'rbxassetid://112897748776756'
@@ -12562,7 +12562,7 @@ local function buildUI()
 	inst[878].Rotation = 0
 	inst[878].AutomaticSize = Enum.AutomaticSize.None
 	inst[878].LayoutOrder = 0
-	inst[878].Selectable = true
+	inst[878].Selectable = false
 	inst[878].ZIndex = 1
 	inst[878].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[878].Image = 'rbxassetid://138426819549450'
@@ -12626,7 +12626,7 @@ local function buildUI()
 	inst[882].AutomaticSize = Enum.AutomaticSize.Y
 	inst[882].LayoutOrder = 2
 	inst[882].Active = true
-	inst[882].Selectable = true
+	inst[882].Selectable = false
 	inst[882].ZIndex = 1
 	inst[882].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[882].Image = ''
@@ -12678,7 +12678,7 @@ local function buildUI()
 	inst[884].AutomaticSize = Enum.AutomaticSize.X
 	inst[884].LayoutOrder = 0
 	inst[884].Active = true
-	inst[884].Selectable = true
+	inst[884].Selectable = false
 	inst[884].ZIndex = 1
 	inst[884].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[884].Text = 'Everyone'
@@ -12848,7 +12848,7 @@ local function buildUI()
 	inst[898].AutomaticSize = Enum.AutomaticSize.None
 	inst[898].LayoutOrder = 0
 	inst[898].Active = true
-	inst[898].Selectable = true
+	inst[898].Selectable = false
 	inst[898].ZIndex = 1
 	inst[898].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[898].Image = ''
@@ -12915,7 +12915,7 @@ local function buildUI()
 	inst[903].AutomaticSize = Enum.AutomaticSize.None
 	inst[903].LayoutOrder = 0
 	inst[903].Active = true
-	inst[903].Selectable = true
+	inst[903].Selectable = false
 	inst[903].ZIndex = 1
 	inst[903].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[903].Image = ''
@@ -12982,7 +12982,7 @@ local function buildUI()
 	inst[908].AutomaticSize = Enum.AutomaticSize.None
 	inst[908].LayoutOrder = 0
 	inst[908].Active = true
-	inst[908].Selectable = true
+	inst[908].Selectable = false
 	inst[908].ZIndex = 1
 	inst[908].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[908].Image = ''
@@ -13049,7 +13049,7 @@ local function buildUI()
 	inst[913].AutomaticSize = Enum.AutomaticSize.None
 	inst[913].LayoutOrder = 0
 	inst[913].Active = true
-	inst[913].Selectable = true
+	inst[913].Selectable = false
 	inst[913].ZIndex = 1
 	inst[913].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[913].Image = ''
@@ -13116,7 +13116,7 @@ local function buildUI()
 	inst[918].AutomaticSize = Enum.AutomaticSize.None
 	inst[918].LayoutOrder = 0
 	inst[918].Active = true
-	inst[918].Selectable = true
+	inst[918].Selectable = false
 	inst[918].ZIndex = 1
 	inst[918].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[918].Image = ''
@@ -13183,7 +13183,7 @@ local function buildUI()
 	inst[923].AutomaticSize = Enum.AutomaticSize.None
 	inst[923].LayoutOrder = 0
 	inst[923].Active = true
-	inst[923].Selectable = true
+	inst[923].Selectable = false
 	inst[923].ZIndex = 1
 	inst[923].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[923].Image = ''
@@ -13250,7 +13250,7 @@ local function buildUI()
 	inst[928].AutomaticSize = Enum.AutomaticSize.None
 	inst[928].LayoutOrder = 0
 	inst[928].Active = true
-	inst[928].Selectable = true
+	inst[928].Selectable = false
 	inst[928].ZIndex = 1
 	inst[928].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[928].Image = ''
@@ -13317,7 +13317,7 @@ local function buildUI()
 	inst[933].AutomaticSize = Enum.AutomaticSize.None
 	inst[933].LayoutOrder = 0
 	inst[933].Active = true
-	inst[933].Selectable = true
+	inst[933].Selectable = false
 	inst[933].ZIndex = 1
 	inst[933].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[933].Image = ''
@@ -13384,7 +13384,7 @@ local function buildUI()
 	inst[938].AutomaticSize = Enum.AutomaticSize.None
 	inst[938].LayoutOrder = 0
 	inst[938].Active = true
-	inst[938].Selectable = true
+	inst[938].Selectable = false
 	inst[938].ZIndex = 1
 	inst[938].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[938].Image = ''
@@ -13451,7 +13451,7 @@ local function buildUI()
 	inst[943].AutomaticSize = Enum.AutomaticSize.None
 	inst[943].LayoutOrder = 0
 	inst[943].Active = true
-	inst[943].Selectable = true
+	inst[943].Selectable = false
 	inst[943].ZIndex = 1
 	inst[943].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[943].Image = ''
@@ -13518,7 +13518,7 @@ local function buildUI()
 	inst[948].AutomaticSize = Enum.AutomaticSize.None
 	inst[948].LayoutOrder = 0
 	inst[948].Active = true
-	inst[948].Selectable = true
+	inst[948].Selectable = false
 	inst[948].ZIndex = 1
 	inst[948].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[948].Image = ''
@@ -13585,7 +13585,7 @@ local function buildUI()
 	inst[953].AutomaticSize = Enum.AutomaticSize.None
 	inst[953].LayoutOrder = 0
 	inst[953].Active = true
-	inst[953].Selectable = true
+	inst[953].Selectable = false
 	inst[953].ZIndex = 1
 	inst[953].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[953].Image = ''
@@ -13652,7 +13652,7 @@ local function buildUI()
 	inst[958].AutomaticSize = Enum.AutomaticSize.None
 	inst[958].LayoutOrder = 0
 	inst[958].Active = true
-	inst[958].Selectable = true
+	inst[958].Selectable = false
 	inst[958].ZIndex = 1
 	inst[958].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[958].Image = ''
@@ -13719,7 +13719,7 @@ local function buildUI()
 	inst[963].AutomaticSize = Enum.AutomaticSize.None
 	inst[963].LayoutOrder = 0
 	inst[963].Active = true
-	inst[963].Selectable = true
+	inst[963].Selectable = false
 	inst[963].ZIndex = 1
 	inst[963].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[963].Image = ''
@@ -13786,7 +13786,7 @@ local function buildUI()
 	inst[968].AutomaticSize = Enum.AutomaticSize.None
 	inst[968].LayoutOrder = 0
 	inst[968].Active = true
-	inst[968].Selectable = true
+	inst[968].Selectable = false
 	inst[968].ZIndex = 1
 	inst[968].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[968].Image = ''
@@ -13853,7 +13853,7 @@ local function buildUI()
 	inst[973].AutomaticSize = Enum.AutomaticSize.None
 	inst[973].LayoutOrder = 0
 	inst[973].Active = true
-	inst[973].Selectable = true
+	inst[973].Selectable = false
 	inst[973].ZIndex = 1
 	inst[973].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[973].Image = ''
@@ -13920,7 +13920,7 @@ local function buildUI()
 	inst[978].AutomaticSize = Enum.AutomaticSize.None
 	inst[978].LayoutOrder = 0
 	inst[978].Active = true
-	inst[978].Selectable = true
+	inst[978].Selectable = false
 	inst[978].ZIndex = 1
 	inst[978].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[978].Image = ''
@@ -13987,7 +13987,7 @@ local function buildUI()
 	inst[983].AutomaticSize = Enum.AutomaticSize.None
 	inst[983].LayoutOrder = 0
 	inst[983].Active = true
-	inst[983].Selectable = true
+	inst[983].Selectable = false
 	inst[983].ZIndex = 1
 	inst[983].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[983].Image = ''
@@ -14054,7 +14054,7 @@ local function buildUI()
 	inst[988].AutomaticSize = Enum.AutomaticSize.None
 	inst[988].LayoutOrder = 0
 	inst[988].Active = true
-	inst[988].Selectable = true
+	inst[988].Selectable = false
 	inst[988].ZIndex = 1
 	inst[988].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[988].Image = ''
@@ -14121,7 +14121,7 @@ local function buildUI()
 	inst[993].AutomaticSize = Enum.AutomaticSize.None
 	inst[993].LayoutOrder = 0
 	inst[993].Active = true
-	inst[993].Selectable = true
+	inst[993].Selectable = false
 	inst[993].ZIndex = 1
 	inst[993].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[993].Image = ''
@@ -14188,7 +14188,7 @@ local function buildUI()
 	inst[998].AutomaticSize = Enum.AutomaticSize.None
 	inst[998].LayoutOrder = 0
 	inst[998].Active = true
-	inst[998].Selectable = true
+	inst[998].Selectable = false
 	inst[998].ZIndex = 1
 	inst[998].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[998].Image = ''
@@ -14255,7 +14255,7 @@ local function buildUI()
 	inst[1003].AutomaticSize = Enum.AutomaticSize.None
 	inst[1003].LayoutOrder = 0
 	inst[1003].Active = true
-	inst[1003].Selectable = true
+	inst[1003].Selectable = false
 	inst[1003].ZIndex = 1
 	inst[1003].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1003].Image = ''
@@ -14322,7 +14322,7 @@ local function buildUI()
 	inst[1008].AutomaticSize = Enum.AutomaticSize.None
 	inst[1008].LayoutOrder = 0
 	inst[1008].Active = true
-	inst[1008].Selectable = true
+	inst[1008].Selectable = false
 	inst[1008].ZIndex = 1
 	inst[1008].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1008].Image = ''
@@ -14389,7 +14389,7 @@ local function buildUI()
 	inst[1013].AutomaticSize = Enum.AutomaticSize.None
 	inst[1013].LayoutOrder = 0
 	inst[1013].Active = true
-	inst[1013].Selectable = true
+	inst[1013].Selectable = false
 	inst[1013].ZIndex = 1
 	inst[1013].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1013].Image = ''
@@ -14456,7 +14456,7 @@ local function buildUI()
 	inst[1018].AutomaticSize = Enum.AutomaticSize.None
 	inst[1018].LayoutOrder = 0
 	inst[1018].Active = true
-	inst[1018].Selectable = true
+	inst[1018].Selectable = false
 	inst[1018].ZIndex = 1
 	inst[1018].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1018].Image = ''
@@ -14527,7 +14527,7 @@ local function buildUI()
 	inst[1023].AutomaticSize = Enum.AutomaticSize.None
 	inst[1023].LayoutOrder = 0
 	inst[1023].Active = true
-	inst[1023].Selectable = true
+	inst[1023].Selectable = false
 	inst[1023].ZIndex = 1
 	inst[1023].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1023].Image = ''
@@ -14594,7 +14594,7 @@ local function buildUI()
 	inst[1028].AutomaticSize = Enum.AutomaticSize.None
 	inst[1028].LayoutOrder = 0
 	inst[1028].Active = true
-	inst[1028].Selectable = true
+	inst[1028].Selectable = false
 	inst[1028].ZIndex = 1
 	inst[1028].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1028].Image = ''
@@ -14661,7 +14661,7 @@ local function buildUI()
 	inst[1033].AutomaticSize = Enum.AutomaticSize.None
 	inst[1033].LayoutOrder = 0
 	inst[1033].Active = true
-	inst[1033].Selectable = true
+	inst[1033].Selectable = false
 	inst[1033].ZIndex = 1
 	inst[1033].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1033].Image = ''
@@ -14728,7 +14728,7 @@ local function buildUI()
 	inst[1038].AutomaticSize = Enum.AutomaticSize.None
 	inst[1038].LayoutOrder = 0
 	inst[1038].Active = true
-	inst[1038].Selectable = true
+	inst[1038].Selectable = false
 	inst[1038].ZIndex = 1
 	inst[1038].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1038].Image = ''
@@ -14795,7 +14795,7 @@ local function buildUI()
 	inst[1043].AutomaticSize = Enum.AutomaticSize.None
 	inst[1043].LayoutOrder = 0
 	inst[1043].Active = true
-	inst[1043].Selectable = true
+	inst[1043].Selectable = false
 	inst[1043].ZIndex = 1
 	inst[1043].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1043].Image = ''
@@ -14862,7 +14862,7 @@ local function buildUI()
 	inst[1048].AutomaticSize = Enum.AutomaticSize.None
 	inst[1048].LayoutOrder = 0
 	inst[1048].Active = true
-	inst[1048].Selectable = true
+	inst[1048].Selectable = false
 	inst[1048].ZIndex = 1
 	inst[1048].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1048].Image = ''
@@ -14929,7 +14929,7 @@ local function buildUI()
 	inst[1053].AutomaticSize = Enum.AutomaticSize.None
 	inst[1053].LayoutOrder = 0
 	inst[1053].Active = true
-	inst[1053].Selectable = true
+	inst[1053].Selectable = false
 	inst[1053].ZIndex = 1
 	inst[1053].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1053].Image = ''
@@ -14996,7 +14996,7 @@ local function buildUI()
 	inst[1058].AutomaticSize = Enum.AutomaticSize.None
 	inst[1058].LayoutOrder = 0
 	inst[1058].Active = true
-	inst[1058].Selectable = true
+	inst[1058].Selectable = false
 	inst[1058].ZIndex = 1
 	inst[1058].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1058].Image = ''
@@ -15063,7 +15063,7 @@ local function buildUI()
 	inst[1063].AutomaticSize = Enum.AutomaticSize.None
 	inst[1063].LayoutOrder = 0
 	inst[1063].Active = true
-	inst[1063].Selectable = true
+	inst[1063].Selectable = false
 	inst[1063].ZIndex = 1
 	inst[1063].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1063].Image = ''
@@ -15130,7 +15130,7 @@ local function buildUI()
 	inst[1068].AutomaticSize = Enum.AutomaticSize.None
 	inst[1068].LayoutOrder = 0
 	inst[1068].Active = true
-	inst[1068].Selectable = true
+	inst[1068].Selectable = false
 	inst[1068].ZIndex = 1
 	inst[1068].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1068].Image = ''
@@ -15197,7 +15197,7 @@ local function buildUI()
 	inst[1073].AutomaticSize = Enum.AutomaticSize.None
 	inst[1073].LayoutOrder = 0
 	inst[1073].Active = true
-	inst[1073].Selectable = true
+	inst[1073].Selectable = false
 	inst[1073].ZIndex = 1
 	inst[1073].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1073].Image = ''
@@ -15264,7 +15264,7 @@ local function buildUI()
 	inst[1078].AutomaticSize = Enum.AutomaticSize.None
 	inst[1078].LayoutOrder = 0
 	inst[1078].Active = true
-	inst[1078].Selectable = true
+	inst[1078].Selectable = false
 	inst[1078].ZIndex = 1
 	inst[1078].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1078].Image = ''
@@ -15331,7 +15331,7 @@ local function buildUI()
 	inst[1083].AutomaticSize = Enum.AutomaticSize.None
 	inst[1083].LayoutOrder = 0
 	inst[1083].Active = true
-	inst[1083].Selectable = true
+	inst[1083].Selectable = false
 	inst[1083].ZIndex = 1
 	inst[1083].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1083].Image = ''
@@ -15398,7 +15398,7 @@ local function buildUI()
 	inst[1088].AutomaticSize = Enum.AutomaticSize.None
 	inst[1088].LayoutOrder = 0
 	inst[1088].Active = true
-	inst[1088].Selectable = true
+	inst[1088].Selectable = false
 	inst[1088].ZIndex = 1
 	inst[1088].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1088].Image = ''
@@ -15465,7 +15465,7 @@ local function buildUI()
 	inst[1093].AutomaticSize = Enum.AutomaticSize.None
 	inst[1093].LayoutOrder = 0
 	inst[1093].Active = true
-	inst[1093].Selectable = true
+	inst[1093].Selectable = false
 	inst[1093].ZIndex = 1
 	inst[1093].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1093].Image = ''
@@ -15532,7 +15532,7 @@ local function buildUI()
 	inst[1098].AutomaticSize = Enum.AutomaticSize.None
 	inst[1098].LayoutOrder = 0
 	inst[1098].Active = true
-	inst[1098].Selectable = true
+	inst[1098].Selectable = false
 	inst[1098].ZIndex = 1
 	inst[1098].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1098].Image = ''
@@ -15599,7 +15599,7 @@ local function buildUI()
 	inst[1103].AutomaticSize = Enum.AutomaticSize.None
 	inst[1103].LayoutOrder = 0
 	inst[1103].Active = true
-	inst[1103].Selectable = true
+	inst[1103].Selectable = false
 	inst[1103].ZIndex = 1
 	inst[1103].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1103].Image = ''
@@ -15845,7 +15845,7 @@ local function buildUI()
 	inst[1121].AutomaticSize = Enum.AutomaticSize.None
 	inst[1121].LayoutOrder = 4
 	inst[1121].Active = true
-	inst[1121].Selectable = true
+	inst[1121].Selectable = false
 	inst[1121].ZIndex = 1
 	inst[1121].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1121].Image = ''
@@ -15963,7 +15963,7 @@ local function buildUI()
 	inst[1131].AutomaticSize = Enum.AutomaticSize.None
 	inst[1131].LayoutOrder = 3
 	inst[1131].Active = true
-	inst[1131].Selectable = true
+	inst[1131].Selectable = false
 	inst[1131].ZIndex = 1
 	inst[1131].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1131].Image = ''
@@ -16081,7 +16081,7 @@ local function buildUI()
 	inst[1141].AutomaticSize = Enum.AutomaticSize.None
 	inst[1141].LayoutOrder = 5
 	inst[1141].Active = true
-	inst[1141].Selectable = true
+	inst[1141].Selectable = false
 	inst[1141].ZIndex = 1
 	inst[1141].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1141].Image = ''
@@ -16199,7 +16199,7 @@ local function buildUI()
 	inst[1151].AutomaticSize = Enum.AutomaticSize.None
 	inst[1151].LayoutOrder = 5
 	inst[1151].Active = true
-	inst[1151].Selectable = true
+	inst[1151].Selectable = false
 	inst[1151].ZIndex = 1
 	inst[1151].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1151].Image = ''
@@ -16404,7 +16404,7 @@ local function buildUI()
 	inst[1167].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1167].LayoutOrder = 3
 	inst[1167].Active = true
-	inst[1167].Selectable = true
+	inst[1167].Selectable = false
 	inst[1167].ZIndex = 1
 	inst[1167].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1167].Text = ''
@@ -16497,7 +16497,7 @@ local function buildUI()
 	inst[1174].Parent = inst[1172]
 	inst[1175] = Instance.new('ImageButton')
 	inst[1175].Name = 'pin'
-	inst[1175].Visible = true
+	inst[1175].Visible = false
 	inst[1175].Size = UDim2.new(0, 24, 0, 24)
 	inst[1175].Position = UDim2.new(0, 0, 0, 0)
 	inst[1175].AnchorPoint = Vector2.new(0, 0)
@@ -16509,7 +16509,7 @@ local function buildUI()
 	inst[1175].AutomaticSize = Enum.AutomaticSize.None
 	inst[1175].LayoutOrder = 1
 	inst[1175].Active = true
-	inst[1175].Selectable = true
+	inst[1175].Selectable = false
 	inst[1175].ZIndex = 5
 	inst[1175].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1175].Image = 'rbxassetid://125088425775676'
@@ -16527,7 +16527,7 @@ local function buildUI()
 	inst[1176].Parent = inst[1175]
 	inst[1177] = Instance.new('ImageLabel')
 	inst[1177].Name = 'pin'
-	inst[1177].Visible = true
+	inst[1177].Visible = false
 	inst[1177].Size = UDim2.new(0, 15, 0, 15)
 	inst[1177].Position = UDim2.new(0.5, 0, 0.5, 0)
 	inst[1177].AnchorPoint = Vector2.new(0.5, 0.5)
@@ -16571,7 +16571,7 @@ local function buildUI()
 	inst[1179].AutomaticSize = Enum.AutomaticSize.None
 	inst[1179].LayoutOrder = 2
 	inst[1179].Active = true
-	inst[1179].Selectable = true
+	inst[1179].Selectable = false
 	inst[1179].ZIndex = 5
 	inst[1179].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1179].Image = 'rbxassetid://125088425775676'
@@ -16663,7 +16663,7 @@ local function buildUI()
 	inst[1186].AutomaticSize = Enum.AutomaticSize.None
 	inst[1186].LayoutOrder = 0
 	inst[1186].Active = true
-	inst[1186].Selectable = true
+	inst[1186].Selectable = false
 	inst[1186].ZIndex = 1
 	inst[1186].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1186].Image = 'rbxassetid://72548733587158'
@@ -16689,7 +16689,7 @@ local function buildUI()
 	inst[1187].AutomaticSize = Enum.AutomaticSize.None
 	inst[1187].LayoutOrder = 0
 	inst[1187].Active = true
-	inst[1187].Selectable = true
+	inst[1187].Selectable = false
 	inst[1187].ZIndex = 1
 	inst[1187].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1187].Image = 'rbxassetid://125088425775676'
@@ -16743,7 +16743,7 @@ local function buildUI()
 	inst[1191].AutomaticSize = Enum.AutomaticSize.None
 	inst[1191].LayoutOrder = 0
 	inst[1191].Active = true
-	inst[1191].Selectable = true
+	inst[1191].Selectable = false
 	inst[1191].ZIndex = 1
 	inst[1191].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1191].Image = ''
@@ -16785,7 +16785,7 @@ local function buildUI()
 	inst[1193].AutomaticSize = Enum.AutomaticSize.X
 	inst[1193].LayoutOrder = 0
 	inst[1193].Active = true
-	inst[1193].Selectable = true
+	inst[1193].Selectable = false
 	inst[1193].ZIndex = 1
 	inst[1193].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1193].Image = ''
@@ -16857,7 +16857,7 @@ local function buildUI()
 	inst[1198].AutomaticSize = Enum.AutomaticSize.None
 	inst[1198].LayoutOrder = 0
 	inst[1198].Active = true
-	inst[1198].Selectable = true
+	inst[1198].Selectable = false
 	inst[1198].ZIndex = 1
 	inst[1198].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1198].ScrollBarThickness = 0
@@ -16983,7 +16983,7 @@ local function buildUI()
 	inst[1208].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1208].LayoutOrder = 3
 	inst[1208].Active = true
-	inst[1208].Selectable = true
+	inst[1208].Selectable = false
 	inst[1208].ZIndex = 1
 	inst[1208].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1208].Text = ''
@@ -17178,7 +17178,7 @@ local function buildUI()
 	inst[1223].AutomaticSize = Enum.AutomaticSize.None
 	inst[1223].LayoutOrder = 0
 	inst[1223].Active = true
-	inst[1223].Selectable = true
+	inst[1223].Selectable = false
 	inst[1223].ZIndex = 1
 	inst[1223].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1223].Image = ''
@@ -17245,7 +17245,7 @@ local function buildUI()
 	inst[1228].AutomaticSize = Enum.AutomaticSize.None
 	inst[1228].LayoutOrder = 0
 	inst[1228].Active = true
-	inst[1228].Selectable = true
+	inst[1228].Selectable = false
 	inst[1228].ZIndex = 1
 	inst[1228].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1228].Image = ''
@@ -17312,7 +17312,7 @@ local function buildUI()
 	inst[1233].AutomaticSize = Enum.AutomaticSize.None
 	inst[1233].LayoutOrder = 0
 	inst[1233].Active = true
-	inst[1233].Selectable = true
+	inst[1233].Selectable = false
 	inst[1233].ZIndex = 1
 	inst[1233].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1233].Image = ''
@@ -17379,7 +17379,7 @@ local function buildUI()
 	inst[1238].AutomaticSize = Enum.AutomaticSize.None
 	inst[1238].LayoutOrder = 0
 	inst[1238].Active = true
-	inst[1238].Selectable = true
+	inst[1238].Selectable = false
 	inst[1238].ZIndex = 1
 	inst[1238].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1238].Image = ''
@@ -17446,7 +17446,7 @@ local function buildUI()
 	inst[1243].AutomaticSize = Enum.AutomaticSize.None
 	inst[1243].LayoutOrder = 0
 	inst[1243].Active = true
-	inst[1243].Selectable = true
+	inst[1243].Selectable = false
 	inst[1243].ZIndex = 1
 	inst[1243].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1243].Image = ''
@@ -17513,7 +17513,7 @@ local function buildUI()
 	inst[1248].AutomaticSize = Enum.AutomaticSize.None
 	inst[1248].LayoutOrder = 0
 	inst[1248].Active = true
-	inst[1248].Selectable = true
+	inst[1248].Selectable = false
 	inst[1248].ZIndex = 1
 	inst[1248].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1248].Image = ''
@@ -17580,7 +17580,7 @@ local function buildUI()
 	inst[1253].AutomaticSize = Enum.AutomaticSize.None
 	inst[1253].LayoutOrder = 0
 	inst[1253].Active = true
-	inst[1253].Selectable = true
+	inst[1253].Selectable = false
 	inst[1253].ZIndex = 1
 	inst[1253].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1253].Image = ''
@@ -17647,7 +17647,7 @@ local function buildUI()
 	inst[1258].AutomaticSize = Enum.AutomaticSize.None
 	inst[1258].LayoutOrder = 0
 	inst[1258].Active = true
-	inst[1258].Selectable = true
+	inst[1258].Selectable = false
 	inst[1258].ZIndex = 1
 	inst[1258].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1258].Image = ''
@@ -17714,7 +17714,7 @@ local function buildUI()
 	inst[1263].AutomaticSize = Enum.AutomaticSize.None
 	inst[1263].LayoutOrder = 0
 	inst[1263].Active = true
-	inst[1263].Selectable = true
+	inst[1263].Selectable = false
 	inst[1263].ZIndex = 1
 	inst[1263].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1263].Image = ''
@@ -17781,7 +17781,7 @@ local function buildUI()
 	inst[1268].AutomaticSize = Enum.AutomaticSize.None
 	inst[1268].LayoutOrder = 0
 	inst[1268].Active = true
-	inst[1268].Selectable = true
+	inst[1268].Selectable = false
 	inst[1268].ZIndex = 1
 	inst[1268].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1268].Image = ''
@@ -17848,7 +17848,7 @@ local function buildUI()
 	inst[1273].AutomaticSize = Enum.AutomaticSize.None
 	inst[1273].LayoutOrder = 0
 	inst[1273].Active = true
-	inst[1273].Selectable = true
+	inst[1273].Selectable = false
 	inst[1273].ZIndex = 1
 	inst[1273].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1273].Image = ''
@@ -17915,7 +17915,7 @@ local function buildUI()
 	inst[1278].AutomaticSize = Enum.AutomaticSize.None
 	inst[1278].LayoutOrder = 0
 	inst[1278].Active = true
-	inst[1278].Selectable = true
+	inst[1278].Selectable = false
 	inst[1278].ZIndex = 1
 	inst[1278].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1278].Image = ''
@@ -17982,7 +17982,7 @@ local function buildUI()
 	inst[1283].AutomaticSize = Enum.AutomaticSize.None
 	inst[1283].LayoutOrder = 0
 	inst[1283].Active = true
-	inst[1283].Selectable = true
+	inst[1283].Selectable = false
 	inst[1283].ZIndex = 1
 	inst[1283].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1283].Image = ''
@@ -18049,7 +18049,7 @@ local function buildUI()
 	inst[1288].AutomaticSize = Enum.AutomaticSize.None
 	inst[1288].LayoutOrder = 0
 	inst[1288].Active = true
-	inst[1288].Selectable = true
+	inst[1288].Selectable = false
 	inst[1288].ZIndex = 1
 	inst[1288].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1288].Image = ''
@@ -18116,7 +18116,7 @@ local function buildUI()
 	inst[1293].AutomaticSize = Enum.AutomaticSize.None
 	inst[1293].LayoutOrder = 0
 	inst[1293].Active = true
-	inst[1293].Selectable = true
+	inst[1293].Selectable = false
 	inst[1293].ZIndex = 1
 	inst[1293].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1293].Image = ''
@@ -18183,7 +18183,7 @@ local function buildUI()
 	inst[1298].AutomaticSize = Enum.AutomaticSize.None
 	inst[1298].LayoutOrder = 0
 	inst[1298].Active = true
-	inst[1298].Selectable = true
+	inst[1298].Selectable = false
 	inst[1298].ZIndex = 1
 	inst[1298].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1298].Image = ''
@@ -18250,7 +18250,7 @@ local function buildUI()
 	inst[1303].AutomaticSize = Enum.AutomaticSize.None
 	inst[1303].LayoutOrder = 0
 	inst[1303].Active = true
-	inst[1303].Selectable = true
+	inst[1303].Selectable = false
 	inst[1303].ZIndex = 1
 	inst[1303].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1303].Image = ''
@@ -18317,7 +18317,7 @@ local function buildUI()
 	inst[1308].AutomaticSize = Enum.AutomaticSize.None
 	inst[1308].LayoutOrder = 0
 	inst[1308].Active = true
-	inst[1308].Selectable = true
+	inst[1308].Selectable = false
 	inst[1308].ZIndex = 1
 	inst[1308].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1308].Image = ''
@@ -18384,7 +18384,7 @@ local function buildUI()
 	inst[1313].AutomaticSize = Enum.AutomaticSize.None
 	inst[1313].LayoutOrder = 0
 	inst[1313].Active = true
-	inst[1313].Selectable = true
+	inst[1313].Selectable = false
 	inst[1313].ZIndex = 1
 	inst[1313].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1313].Image = ''
@@ -18451,7 +18451,7 @@ local function buildUI()
 	inst[1318].AutomaticSize = Enum.AutomaticSize.None
 	inst[1318].LayoutOrder = 0
 	inst[1318].Active = true
-	inst[1318].Selectable = true
+	inst[1318].Selectable = false
 	inst[1318].ZIndex = 1
 	inst[1318].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1318].Image = ''
@@ -18518,7 +18518,7 @@ local function buildUI()
 	inst[1323].AutomaticSize = Enum.AutomaticSize.None
 	inst[1323].LayoutOrder = 0
 	inst[1323].Active = true
-	inst[1323].Selectable = true
+	inst[1323].Selectable = false
 	inst[1323].ZIndex = 1
 	inst[1323].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1323].Image = ''
@@ -18585,7 +18585,7 @@ local function buildUI()
 	inst[1328].AutomaticSize = Enum.AutomaticSize.None
 	inst[1328].LayoutOrder = 0
 	inst[1328].Active = true
-	inst[1328].Selectable = true
+	inst[1328].Selectable = false
 	inst[1328].ZIndex = 1
 	inst[1328].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1328].Image = ''
@@ -18656,7 +18656,7 @@ local function buildUI()
 	inst[1333].AutomaticSize = Enum.AutomaticSize.None
 	inst[1333].LayoutOrder = 0
 	inst[1333].Active = true
-	inst[1333].Selectable = true
+	inst[1333].Selectable = false
 	inst[1333].ZIndex = 1
 	inst[1333].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1333].Image = ''
@@ -18723,7 +18723,7 @@ local function buildUI()
 	inst[1338].AutomaticSize = Enum.AutomaticSize.None
 	inst[1338].LayoutOrder = 0
 	inst[1338].Active = true
-	inst[1338].Selectable = true
+	inst[1338].Selectable = false
 	inst[1338].ZIndex = 1
 	inst[1338].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1338].Image = ''
@@ -18790,7 +18790,7 @@ local function buildUI()
 	inst[1343].AutomaticSize = Enum.AutomaticSize.None
 	inst[1343].LayoutOrder = 0
 	inst[1343].Active = true
-	inst[1343].Selectable = true
+	inst[1343].Selectable = false
 	inst[1343].ZIndex = 1
 	inst[1343].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1343].Image = ''
@@ -18857,7 +18857,7 @@ local function buildUI()
 	inst[1348].AutomaticSize = Enum.AutomaticSize.None
 	inst[1348].LayoutOrder = 0
 	inst[1348].Active = true
-	inst[1348].Selectable = true
+	inst[1348].Selectable = false
 	inst[1348].ZIndex = 1
 	inst[1348].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1348].Image = ''
@@ -18924,7 +18924,7 @@ local function buildUI()
 	inst[1353].AutomaticSize = Enum.AutomaticSize.None
 	inst[1353].LayoutOrder = 0
 	inst[1353].Active = true
-	inst[1353].Selectable = true
+	inst[1353].Selectable = false
 	inst[1353].ZIndex = 1
 	inst[1353].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1353].Image = ''
@@ -18991,7 +18991,7 @@ local function buildUI()
 	inst[1358].AutomaticSize = Enum.AutomaticSize.None
 	inst[1358].LayoutOrder = 0
 	inst[1358].Active = true
-	inst[1358].Selectable = true
+	inst[1358].Selectable = false
 	inst[1358].ZIndex = 1
 	inst[1358].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1358].Image = ''
@@ -19058,7 +19058,7 @@ local function buildUI()
 	inst[1363].AutomaticSize = Enum.AutomaticSize.None
 	inst[1363].LayoutOrder = 0
 	inst[1363].Active = true
-	inst[1363].Selectable = true
+	inst[1363].Selectable = false
 	inst[1363].ZIndex = 1
 	inst[1363].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1363].Image = ''
@@ -19125,7 +19125,7 @@ local function buildUI()
 	inst[1368].AutomaticSize = Enum.AutomaticSize.None
 	inst[1368].LayoutOrder = 0
 	inst[1368].Active = true
-	inst[1368].Selectable = true
+	inst[1368].Selectable = false
 	inst[1368].ZIndex = 1
 	inst[1368].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1368].Image = ''
@@ -19192,7 +19192,7 @@ local function buildUI()
 	inst[1373].AutomaticSize = Enum.AutomaticSize.None
 	inst[1373].LayoutOrder = 0
 	inst[1373].Active = true
-	inst[1373].Selectable = true
+	inst[1373].Selectable = false
 	inst[1373].ZIndex = 1
 	inst[1373].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1373].Image = ''
@@ -19259,7 +19259,7 @@ local function buildUI()
 	inst[1378].AutomaticSize = Enum.AutomaticSize.None
 	inst[1378].LayoutOrder = 0
 	inst[1378].Active = true
-	inst[1378].Selectable = true
+	inst[1378].Selectable = false
 	inst[1378].ZIndex = 1
 	inst[1378].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1378].Image = ''
@@ -19326,7 +19326,7 @@ local function buildUI()
 	inst[1383].AutomaticSize = Enum.AutomaticSize.None
 	inst[1383].LayoutOrder = 0
 	inst[1383].Active = true
-	inst[1383].Selectable = true
+	inst[1383].Selectable = false
 	inst[1383].ZIndex = 1
 	inst[1383].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1383].Image = ''
@@ -19393,7 +19393,7 @@ local function buildUI()
 	inst[1388].AutomaticSize = Enum.AutomaticSize.None
 	inst[1388].LayoutOrder = 0
 	inst[1388].Active = true
-	inst[1388].Selectable = true
+	inst[1388].Selectable = false
 	inst[1388].ZIndex = 1
 	inst[1388].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1388].Image = ''
@@ -19460,7 +19460,7 @@ local function buildUI()
 	inst[1393].AutomaticSize = Enum.AutomaticSize.None
 	inst[1393].LayoutOrder = 0
 	inst[1393].Active = true
-	inst[1393].Selectable = true
+	inst[1393].Selectable = false
 	inst[1393].ZIndex = 1
 	inst[1393].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1393].Image = ''
@@ -19527,7 +19527,7 @@ local function buildUI()
 	inst[1398].AutomaticSize = Enum.AutomaticSize.None
 	inst[1398].LayoutOrder = 0
 	inst[1398].Active = true
-	inst[1398].Selectable = true
+	inst[1398].Selectable = false
 	inst[1398].ZIndex = 1
 	inst[1398].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1398].Image = ''
@@ -19594,7 +19594,7 @@ local function buildUI()
 	inst[1403].AutomaticSize = Enum.AutomaticSize.None
 	inst[1403].LayoutOrder = 0
 	inst[1403].Active = true
-	inst[1403].Selectable = true
+	inst[1403].Selectable = false
 	inst[1403].ZIndex = 1
 	inst[1403].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1403].Image = ''
@@ -19661,7 +19661,7 @@ local function buildUI()
 	inst[1408].AutomaticSize = Enum.AutomaticSize.None
 	inst[1408].LayoutOrder = 0
 	inst[1408].Active = true
-	inst[1408].Selectable = true
+	inst[1408].Selectable = false
 	inst[1408].ZIndex = 1
 	inst[1408].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1408].Image = ''
@@ -19728,7 +19728,7 @@ local function buildUI()
 	inst[1413].AutomaticSize = Enum.AutomaticSize.None
 	inst[1413].LayoutOrder = 0
 	inst[1413].Active = true
-	inst[1413].Selectable = true
+	inst[1413].Selectable = false
 	inst[1413].ZIndex = 1
 	inst[1413].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1413].Image = ''
@@ -19795,7 +19795,7 @@ local function buildUI()
 	inst[1418].AutomaticSize = Enum.AutomaticSize.None
 	inst[1418].LayoutOrder = 0
 	inst[1418].Active = true
-	inst[1418].Selectable = true
+	inst[1418].Selectable = false
 	inst[1418].ZIndex = 1
 	inst[1418].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1418].Image = ''
@@ -19862,7 +19862,7 @@ local function buildUI()
 	inst[1423].AutomaticSize = Enum.AutomaticSize.None
 	inst[1423].LayoutOrder = 0
 	inst[1423].Active = true
-	inst[1423].Selectable = true
+	inst[1423].Selectable = false
 	inst[1423].ZIndex = 1
 	inst[1423].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1423].Image = ''
@@ -19929,7 +19929,7 @@ local function buildUI()
 	inst[1428].AutomaticSize = Enum.AutomaticSize.None
 	inst[1428].LayoutOrder = 0
 	inst[1428].Active = true
-	inst[1428].Selectable = true
+	inst[1428].Selectable = false
 	inst[1428].ZIndex = 1
 	inst[1428].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1428].Image = ''
@@ -20175,7 +20175,7 @@ local function buildUI()
 	inst[1446].AutomaticSize = Enum.AutomaticSize.None
 	inst[1446].LayoutOrder = 4
 	inst[1446].Active = true
-	inst[1446].Selectable = true
+	inst[1446].Selectable = false
 	inst[1446].ZIndex = 1
 	inst[1446].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1446].Image = ''
@@ -20293,7 +20293,7 @@ local function buildUI()
 	inst[1456].AutomaticSize = Enum.AutomaticSize.None
 	inst[1456].LayoutOrder = 3
 	inst[1456].Active = true
-	inst[1456].Selectable = true
+	inst[1456].Selectable = false
 	inst[1456].ZIndex = 1
 	inst[1456].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1456].Image = ''
@@ -20411,7 +20411,7 @@ local function buildUI()
 	inst[1466].AutomaticSize = Enum.AutomaticSize.None
 	inst[1466].LayoutOrder = 5
 	inst[1466].Active = true
-	inst[1466].Selectable = true
+	inst[1466].Selectable = false
 	inst[1466].ZIndex = 1
 	inst[1466].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1466].Image = ''
@@ -20529,7 +20529,7 @@ local function buildUI()
 	inst[1476].AutomaticSize = Enum.AutomaticSize.None
 	inst[1476].LayoutOrder = 5
 	inst[1476].Active = true
-	inst[1476].Selectable = true
+	inst[1476].Selectable = false
 	inst[1476].ZIndex = 1
 	inst[1476].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1476].Image = ''
@@ -20739,7 +20739,7 @@ local function buildUI()
 	inst[1492].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1492].LayoutOrder = 3
 	inst[1492].Active = true
-	inst[1492].Selectable = true
+	inst[1492].Selectable = false
 	inst[1492].ZIndex = 1
 	inst[1492].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1492].Text = ''
@@ -20844,7 +20844,7 @@ local function buildUI()
 	inst[1500].AutomaticSize = Enum.AutomaticSize.None
 	inst[1500].LayoutOrder = 2
 	inst[1500].Active = true
-	inst[1500].Selectable = true
+	inst[1500].Selectable = false
 	inst[1500].ZIndex = 5
 	inst[1500].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1500].Image = 'rbxassetid://125088425775676'
@@ -20890,7 +20890,7 @@ local function buildUI()
 	inst[1503].Parent = inst[1502]
 	inst[1504] = Instance.new('ImageButton')
 	inst[1504].Name = 'pin'
-	inst[1504].Visible = true
+	inst[1504].Visible = false
 	inst[1504].Size = UDim2.new(0, 24, 0, 24)
 	inst[1504].Position = UDim2.new(0, 0, 0, 0)
 	inst[1504].AnchorPoint = Vector2.new(0, 0)
@@ -20902,7 +20902,7 @@ local function buildUI()
 	inst[1504].AutomaticSize = Enum.AutomaticSize.None
 	inst[1504].LayoutOrder = 1
 	inst[1504].Active = true
-	inst[1504].Selectable = true
+	inst[1504].Selectable = false
 	inst[1504].ZIndex = 5
 	inst[1504].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1504].Image = 'rbxassetid://125088425775676'
@@ -20920,7 +20920,7 @@ local function buildUI()
 	inst[1505].Parent = inst[1504]
 	inst[1506] = Instance.new('ImageLabel')
 	inst[1506].Name = 'pin'
-	inst[1506].Visible = true
+	inst[1506].Visible = false
 	inst[1506].Size = UDim2.new(0, 15, 0, 15)
 	inst[1506].Position = UDim2.new(0.5, 0, 0.5, 0)
 	inst[1506].AnchorPoint = Vector2.new(0.5, 0.5)
@@ -20994,7 +20994,7 @@ local function buildUI()
 	inst[1511].AutomaticSize = Enum.AutomaticSize.None
 	inst[1511].LayoutOrder = 0
 	inst[1511].Active = true
-	inst[1511].Selectable = true
+	inst[1511].Selectable = false
 	inst[1511].ZIndex = 2
 	inst[1511].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1511].Image = 'rbxassetid://72548733587158'
@@ -21020,7 +21020,7 @@ local function buildUI()
 	inst[1512].AutomaticSize = Enum.AutomaticSize.None
 	inst[1512].LayoutOrder = 0
 	inst[1512].Active = true
-	inst[1512].Selectable = true
+	inst[1512].Selectable = false
 	inst[1512].ZIndex = 1
 	inst[1512].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1512].Image = 'rbxassetid://125088425775676'
@@ -21074,7 +21074,7 @@ local function buildUI()
 	inst[1516].AutomaticSize = Enum.AutomaticSize.None
 	inst[1516].LayoutOrder = 0
 	inst[1516].Active = true
-	inst[1516].Selectable = true
+	inst[1516].Selectable = false
 	inst[1516].ZIndex = 1
 	inst[1516].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1516].ScrollBarThickness = 0
@@ -21105,7 +21105,7 @@ local function buildUI()
 	inst[1518].AutomaticSize = Enum.AutomaticSize.None
 	inst[1518].LayoutOrder = 0
 	inst[1518].Active = true
-	inst[1518].Selectable = true
+	inst[1518].Selectable = false
 	inst[1518].ZIndex = 1
 	inst[1518].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1518].Image = 'rbxassetid://125088425775676'
@@ -21239,7 +21239,7 @@ local function buildUI()
 	inst[1528].Rotation = 0
 	inst[1528].AutomaticSize = Enum.AutomaticSize.None
 	inst[1528].LayoutOrder = 0
-	inst[1528].Selectable = true
+	inst[1528].Selectable = false
 	inst[1528].ZIndex = 1
 	inst[1528].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1528].Image = 'rbxassetid://125088425775676'
@@ -21336,7 +21336,7 @@ local function buildUI()
 	inst[1535].AutomaticSize = Enum.AutomaticSize.None
 	inst[1535].LayoutOrder = 2
 	inst[1535].Active = true
-	inst[1535].Selectable = true
+	inst[1535].Selectable = false
 	inst[1535].ZIndex = 1
 	inst[1535].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1535].Image = 'rbxassetid://125088425775676'
@@ -21362,7 +21362,7 @@ local function buildUI()
 	inst[1536].AutomaticSize = Enum.AutomaticSize.None
 	inst[1536].LayoutOrder = 1
 	inst[1536].Active = true
-	inst[1536].Selectable = true
+	inst[1536].Selectable = false
 	inst[1536].ZIndex = 1
 	inst[1536].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1536].Image = 'rbxassetid://125088425775676'
@@ -21431,7 +21431,7 @@ local function buildUI()
 	inst[1541].AutomaticSize = Enum.AutomaticSize.None
 	inst[1541].LayoutOrder = 2
 	inst[1541].Active = true
-	inst[1541].Selectable = true
+	inst[1541].Selectable = false
 	inst[1541].ZIndex = 1
 	inst[1541].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1541].Image = 'rbxassetid://125088425775676'
@@ -21485,7 +21485,7 @@ local function buildUI()
 	inst[1544].AutomaticSize = Enum.AutomaticSize.None
 	inst[1544].LayoutOrder = 3
 	inst[1544].Active = true
-	inst[1544].Selectable = true
+	inst[1544].Selectable = false
 	inst[1544].ZIndex = 1
 	inst[1544].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1544].Image = 'rbxassetid://125088425775676'
@@ -21555,7 +21555,7 @@ local function buildUI()
 	inst[1550].AutomaticSize = Enum.AutomaticSize.None
 	inst[1550].LayoutOrder = 1
 	inst[1550].Active = true
-	inst[1550].Selectable = true
+	inst[1550].Selectable = false
 	inst[1550].ZIndex = 1
 	inst[1550].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1550].Image = 'rbxassetid://125088425775676'
@@ -21581,7 +21581,7 @@ local function buildUI()
 	inst[1551].AutomaticSize = Enum.AutomaticSize.None
 	inst[1551].LayoutOrder = 1
 	inst[1551].Active = true
-	inst[1551].Selectable = true
+	inst[1551].Selectable = false
 	inst[1551].ZIndex = 1
 	inst[1551].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1551].Text = ''
@@ -21658,7 +21658,7 @@ local function buildUI()
 	inst[1558].AutomaticSize = Enum.AutomaticSize.None
 	inst[1558].LayoutOrder = 0
 	inst[1558].Active = true
-	inst[1558].Selectable = true
+	inst[1558].Selectable = false
 	inst[1558].ZIndex = 1
 	inst[1558].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1558].Image = ''
@@ -21877,7 +21877,7 @@ local function buildUI()
 	inst[1573].AutomaticSize = Enum.AutomaticSize.None
 	inst[1573].LayoutOrder = 5
 	inst[1573].Active = true
-	inst[1573].Selectable = true
+	inst[1573].Selectable = false
 	inst[1573].ZIndex = 5
 	inst[1573].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1573].Image = 'rbxassetid://125088425775676'
@@ -21973,7 +21973,7 @@ local function buildUI()
 	inst[1581].AutomaticSize = Enum.AutomaticSize.None
 	inst[1581].LayoutOrder = 0
 	inst[1581].Active = true
-	inst[1581].Selectable = true
+	inst[1581].Selectable = false
 	inst[1581].ZIndex = 2
 	inst[1581].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1581].Image = 'rbxassetid://72548733587158'
@@ -21999,7 +21999,7 @@ local function buildUI()
 	inst[1582].AutomaticSize = Enum.AutomaticSize.None
 	inst[1582].LayoutOrder = 0
 	inst[1582].Active = true
-	inst[1582].Selectable = true
+	inst[1582].Selectable = false
 	inst[1582].ZIndex = 1
 	inst[1582].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1582].Image = 'rbxassetid://125088425775676'
@@ -22053,7 +22053,7 @@ local function buildUI()
 	inst[1586].AutomaticSize = Enum.AutomaticSize.None
 	inst[1586].LayoutOrder = 0
 	inst[1586].Active = true
-	inst[1586].Selectable = true
+	inst[1586].Selectable = false
 	inst[1586].ZIndex = 1
 	inst[1586].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1586].ScrollBarThickness = 0
@@ -22084,7 +22084,7 @@ local function buildUI()
 	inst[1588].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1588].LayoutOrder = 0
 	inst[1588].Active = true
-	inst[1588].Selectable = true
+	inst[1588].Selectable = false
 	inst[1588].ZIndex = 1
 	inst[1588].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1588].Image = 'rbxassetid://125088425775676'
@@ -22157,7 +22157,7 @@ local function buildUI()
 	inst[1594].Rotation = 0
 	inst[1594].AutomaticSize = Enum.AutomaticSize.None
 	inst[1594].LayoutOrder = 0
-	inst[1594].Selectable = true
+	inst[1594].Selectable = false
 	inst[1594].ZIndex = 1
 	inst[1594].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1594].Image = 'rbxassetid://125088425775676'
@@ -22260,7 +22260,7 @@ local function buildUI()
 	inst[1601].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1601].LayoutOrder = 0
 	inst[1601].Active = true
-	inst[1601].Selectable = true
+	inst[1601].Selectable = false
 	inst[1601].ZIndex = 1
 	inst[1601].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1601].Image = 'rbxassetid://125088425775676'
@@ -22333,7 +22333,7 @@ local function buildUI()
 	inst[1607].Rotation = 0
 	inst[1607].AutomaticSize = Enum.AutomaticSize.None
 	inst[1607].LayoutOrder = 0
-	inst[1607].Selectable = true
+	inst[1607].Selectable = false
 	inst[1607].ZIndex = 1
 	inst[1607].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1607].Image = 'rbxassetid://125088425775676'
@@ -22460,7 +22460,7 @@ local function buildUI()
 	inst[1615].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1615].LayoutOrder = 0
 	inst[1615].Active = true
-	inst[1615].Selectable = true
+	inst[1615].Selectable = false
 	inst[1615].ZIndex = 1
 	inst[1615].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1615].Image = 'rbxassetid://125088425775676'
@@ -22533,7 +22533,7 @@ local function buildUI()
 	inst[1621].Rotation = 0
 	inst[1621].AutomaticSize = Enum.AutomaticSize.None
 	inst[1621].LayoutOrder = 0
-	inst[1621].Selectable = true
+	inst[1621].Selectable = false
 	inst[1621].ZIndex = 1
 	inst[1621].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1621].Image = 'rbxassetid://125088425775676'
@@ -22660,7 +22660,7 @@ local function buildUI()
 	inst[1629].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1629].LayoutOrder = 0
 	inst[1629].Active = true
-	inst[1629].Selectable = true
+	inst[1629].Selectable = false
 	inst[1629].ZIndex = 1
 	inst[1629].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1629].Image = 'rbxassetid://125088425775676'
@@ -22737,7 +22737,7 @@ local function buildUI()
 	inst[1635].Rotation = 0
 	inst[1635].AutomaticSize = Enum.AutomaticSize.None
 	inst[1635].LayoutOrder = 0
-	inst[1635].Selectable = true
+	inst[1635].Selectable = false
 	inst[1635].ZIndex = 1
 	inst[1635].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1635].Image = 'rbxassetid://125088425775676'
@@ -22864,7 +22864,7 @@ local function buildUI()
 	inst[1643].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1643].LayoutOrder = 0
 	inst[1643].Active = true
-	inst[1643].Selectable = true
+	inst[1643].Selectable = false
 	inst[1643].ZIndex = 1
 	inst[1643].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1643].Image = 'rbxassetid://125088425775676'
@@ -22937,7 +22937,7 @@ local function buildUI()
 	inst[1649].Rotation = 0
 	inst[1649].AutomaticSize = Enum.AutomaticSize.None
 	inst[1649].LayoutOrder = 0
-	inst[1649].Selectable = true
+	inst[1649].Selectable = false
 	inst[1649].ZIndex = 1
 	inst[1649].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1649].Image = 'rbxassetid://125088425775676'
@@ -23064,7 +23064,7 @@ local function buildUI()
 	inst[1657].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1657].LayoutOrder = 0
 	inst[1657].Active = true
-	inst[1657].Selectable = true
+	inst[1657].Selectable = false
 	inst[1657].ZIndex = 1
 	inst[1657].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1657].Image = 'rbxassetid://125088425775676'
@@ -23137,7 +23137,7 @@ local function buildUI()
 	inst[1663].Rotation = 0
 	inst[1663].AutomaticSize = Enum.AutomaticSize.None
 	inst[1663].LayoutOrder = 0
-	inst[1663].Selectable = true
+	inst[1663].Selectable = false
 	inst[1663].ZIndex = 1
 	inst[1663].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1663].Image = 'rbxassetid://125088425775676'
@@ -23264,7 +23264,7 @@ local function buildUI()
 	inst[1671].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1671].LayoutOrder = 0
 	inst[1671].Active = true
-	inst[1671].Selectable = true
+	inst[1671].Selectable = false
 	inst[1671].ZIndex = 1
 	inst[1671].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1671].Image = 'rbxassetid://125088425775676'
@@ -23337,7 +23337,7 @@ local function buildUI()
 	inst[1677].Rotation = 0
 	inst[1677].AutomaticSize = Enum.AutomaticSize.None
 	inst[1677].LayoutOrder = 0
-	inst[1677].Selectable = true
+	inst[1677].Selectable = false
 	inst[1677].ZIndex = 1
 	inst[1677].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1677].Image = 'rbxassetid://125088425775676'
@@ -23464,7 +23464,7 @@ local function buildUI()
 	inst[1685].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1685].LayoutOrder = 0
 	inst[1685].Active = true
-	inst[1685].Selectable = true
+	inst[1685].Selectable = false
 	inst[1685].ZIndex = 1
 	inst[1685].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1685].Image = 'rbxassetid://125088425775676'
@@ -23537,7 +23537,7 @@ local function buildUI()
 	inst[1691].Rotation = 0
 	inst[1691].AutomaticSize = Enum.AutomaticSize.None
 	inst[1691].LayoutOrder = 0
-	inst[1691].Selectable = true
+	inst[1691].Selectable = false
 	inst[1691].ZIndex = 1
 	inst[1691].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1691].Image = 'rbxassetid://125088425775676'
@@ -23686,7 +23686,7 @@ local function buildUI()
 	inst[1700].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1700].LayoutOrder = 0
 	inst[1700].Active = true
-	inst[1700].Selectable = true
+	inst[1700].Selectable = false
 	inst[1700].ZIndex = 1
 	inst[1700].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1700].Image = 'rbxassetid://125088425775676'
@@ -23759,7 +23759,7 @@ local function buildUI()
 	inst[1706].Rotation = 0
 	inst[1706].AutomaticSize = Enum.AutomaticSize.None
 	inst[1706].LayoutOrder = 0
-	inst[1706].Selectable = true
+	inst[1706].Selectable = false
 	inst[1706].ZIndex = 1
 	inst[1706].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1706].Image = 'rbxassetid://125088425775676'
@@ -23886,7 +23886,7 @@ local function buildUI()
 	inst[1714].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1714].LayoutOrder = 0
 	inst[1714].Active = true
-	inst[1714].Selectable = true
+	inst[1714].Selectable = false
 	inst[1714].ZIndex = 1
 	inst[1714].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1714].Image = 'rbxassetid://125088425775676'
@@ -23959,7 +23959,7 @@ local function buildUI()
 	inst[1720].Rotation = 0
 	inst[1720].AutomaticSize = Enum.AutomaticSize.None
 	inst[1720].LayoutOrder = 0
-	inst[1720].Selectable = true
+	inst[1720].Selectable = false
 	inst[1720].ZIndex = 1
 	inst[1720].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1720].Image = 'rbxassetid://125088425775676'
@@ -24086,7 +24086,7 @@ local function buildUI()
 	inst[1728].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1728].LayoutOrder = 0
 	inst[1728].Active = true
-	inst[1728].Selectable = true
+	inst[1728].Selectable = false
 	inst[1728].ZIndex = 1
 	inst[1728].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1728].Image = 'rbxassetid://125088425775676'
@@ -24159,7 +24159,7 @@ local function buildUI()
 	inst[1734].Rotation = 0
 	inst[1734].AutomaticSize = Enum.AutomaticSize.None
 	inst[1734].LayoutOrder = 0
-	inst[1734].Selectable = true
+	inst[1734].Selectable = false
 	inst[1734].ZIndex = 1
 	inst[1734].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1734].Image = 'rbxassetid://125088425775676'
@@ -24286,7 +24286,7 @@ local function buildUI()
 	inst[1742].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1742].LayoutOrder = 0
 	inst[1742].Active = true
-	inst[1742].Selectable = true
+	inst[1742].Selectable = false
 	inst[1742].ZIndex = 1
 	inst[1742].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1742].Image = 'rbxassetid://125088425775676'
@@ -24359,7 +24359,7 @@ local function buildUI()
 	inst[1748].Rotation = 0
 	inst[1748].AutomaticSize = Enum.AutomaticSize.None
 	inst[1748].LayoutOrder = 0
-	inst[1748].Selectable = true
+	inst[1748].Selectable = false
 	inst[1748].ZIndex = 1
 	inst[1748].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1748].Image = 'rbxassetid://125088425775676'
@@ -24486,7 +24486,7 @@ local function buildUI()
 	inst[1756].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1756].LayoutOrder = 0
 	inst[1756].Active = true
-	inst[1756].Selectable = true
+	inst[1756].Selectable = false
 	inst[1756].ZIndex = 1
 	inst[1756].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1756].Image = 'rbxassetid://125088425775676'
@@ -24559,7 +24559,7 @@ local function buildUI()
 	inst[1762].Rotation = 0
 	inst[1762].AutomaticSize = Enum.AutomaticSize.None
 	inst[1762].LayoutOrder = 0
-	inst[1762].Selectable = true
+	inst[1762].Selectable = false
 	inst[1762].ZIndex = 1
 	inst[1762].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1762].Image = 'rbxassetid://125088425775676'
@@ -24693,7 +24693,7 @@ local function buildUI()
 	inst[1772].AutomaticSize = Enum.AutomaticSize.None
 	inst[1772].LayoutOrder = 1
 	inst[1772].Active = true
-	inst[1772].Selectable = true
+	inst[1772].Selectable = false
 	inst[1772].ZIndex = 1
 	inst[1772].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1772].Image = 'rbxassetid://125088425775676'
@@ -24719,7 +24719,7 @@ local function buildUI()
 	inst[1773].AutomaticSize = Enum.AutomaticSize.None
 	inst[1773].LayoutOrder = 1
 	inst[1773].Active = true
-	inst[1773].Selectable = true
+	inst[1773].Selectable = false
 	inst[1773].ZIndex = 1
 	inst[1773].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1773].Text = ''
@@ -24800,7 +24800,7 @@ local function buildUI()
 	inst[1780].AutomaticSize = Enum.AutomaticSize.None
 	inst[1780].LayoutOrder = 0
 	inst[1780].Active = true
-	inst[1780].Selectable = true
+	inst[1780].Selectable = false
 	inst[1780].ZIndex = 1
 	inst[1780].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1780].Image = ''
@@ -25026,7 +25026,7 @@ local function buildUI()
 	inst[1796].AutomaticSize = Enum.AutomaticSize.None
 	inst[1796].LayoutOrder = 5
 	inst[1796].Active = true
-	inst[1796].Selectable = true
+	inst[1796].Selectable = false
 	inst[1796].ZIndex = 5
 	inst[1796].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1796].Image = 'rbxassetid://125088425775676'
@@ -25117,7 +25117,7 @@ local function buildUI()
 	inst[1803].AutomaticSize = Enum.AutomaticSize.None
 	inst[1803].LayoutOrder = 0
 	inst[1803].Active = true
-	inst[1803].Selectable = true
+	inst[1803].Selectable = false
 	inst[1803].ZIndex = 1
 	inst[1803].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1803].Image = 'rbxassetid://72548733587158'
@@ -25143,7 +25143,7 @@ local function buildUI()
 	inst[1804].AutomaticSize = Enum.AutomaticSize.None
 	inst[1804].LayoutOrder = 0
 	inst[1804].Active = true
-	inst[1804].Selectable = true
+	inst[1804].Selectable = false
 	inst[1804].ZIndex = 1
 	inst[1804].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1804].Image = 'rbxassetid://125088425775676'
@@ -25198,7 +25198,7 @@ local function buildUI()
 	inst[1808].AutomaticSize = Enum.AutomaticSize.None
 	inst[1808].LayoutOrder = 0
 	inst[1808].Active = true
-	inst[1808].Selectable = true
+	inst[1808].Selectable = false
 	inst[1808].ZIndex = 1
 	inst[1808].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1808].ScrollBarThickness = 0
@@ -25251,7 +25251,7 @@ local function buildUI()
 	inst[1812].AutomaticSize = Enum.AutomaticSize.None
 	inst[1812].LayoutOrder = 3
 	inst[1812].Active = true
-	inst[1812].Selectable = true
+	inst[1812].Selectable = false
 	inst[1812].ZIndex = 1
 	inst[1812].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1812].Image = ''
@@ -25277,7 +25277,7 @@ local function buildUI()
 	inst[1813].AutomaticSize = Enum.AutomaticSize.None
 	inst[1813].LayoutOrder = 0
 	inst[1813].Active = true
-	inst[1813].Selectable = true
+	inst[1813].Selectable = false
 	inst[1813].ZIndex = 1
 	inst[1813].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1813].Image = 'rbxassetid://138426819549450'
@@ -25339,7 +25339,7 @@ local function buildUI()
 	inst[1818].AutomaticSize = Enum.AutomaticSize.None
 	inst[1818].LayoutOrder = 0
 	inst[1818].Active = true
-	inst[1818].Selectable = true
+	inst[1818].Selectable = false
 	inst[1818].ZIndex = 1
 	inst[1818].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1818].Image = 'rbxassetid://138426819549450'
@@ -25401,7 +25401,7 @@ local function buildUI()
 	inst[1823].AutomaticSize = Enum.AutomaticSize.None
 	inst[1823].LayoutOrder = 0
 	inst[1823].Active = true
-	inst[1823].Selectable = true
+	inst[1823].Selectable = false
 	inst[1823].ZIndex = 1
 	inst[1823].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1823].Image = 'rbxassetid://138426819549450'
@@ -25581,7 +25581,7 @@ local function buildUI()
 	inst[1838].AutomaticSize = Enum.AutomaticSize.None
 	inst[1838].LayoutOrder = 3
 	inst[1838].Active = true
-	inst[1838].Selectable = true
+	inst[1838].Selectable = false
 	inst[1838].ZIndex = 1
 	inst[1838].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1838].Parent = inst[1811]
@@ -25815,7 +25815,7 @@ local function buildUI()
 	inst[1853].AutomaticSize = Enum.AutomaticSize.None
 	inst[1853].LayoutOrder = 3
 	inst[1853].Active = true
-	inst[1853].Selectable = true
+	inst[1853].Selectable = false
 	inst[1853].ZIndex = 1
 	inst[1853].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1853].Image = 'rbxassetid://125088425775676'
@@ -25840,7 +25840,7 @@ local function buildUI()
 	inst[1854].Rotation = 0
 	inst[1854].AutomaticSize = Enum.AutomaticSize.None
 	inst[1854].LayoutOrder = 0
-	inst[1854].Selectable = true
+	inst[1854].Selectable = false
 	inst[1854].ZIndex = 1
 	inst[1854].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1854].Text = 'Shut Down'
@@ -25867,7 +25867,7 @@ local function buildUI()
 	inst[1855].Rotation = 0
 	inst[1855].AutomaticSize = Enum.AutomaticSize.None
 	inst[1855].LayoutOrder = 0
-	inst[1855].Selectable = true
+	inst[1855].Selectable = false
 	inst[1855].ZIndex = 1
 	inst[1855].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1855].Image = 'rbxassetid://125088425775676'
@@ -25929,7 +25929,7 @@ local function buildUI()
 	inst[1860].AutomaticSize = Enum.AutomaticSize.None
 	inst[1860].LayoutOrder = 2
 	inst[1860].Active = true
-	inst[1860].Selectable = true
+	inst[1860].Selectable = false
 	inst[1860].ZIndex = 5
 	inst[1860].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1860].Image = 'rbxassetid://125088425775676'
@@ -26024,7 +26024,7 @@ local function buildUI()
 	inst[1868].AutomaticSize = Enum.AutomaticSize.None
 	inst[1868].LayoutOrder = 0
 	inst[1868].Active = true
-	inst[1868].Selectable = true
+	inst[1868].Selectable = false
 	inst[1868].ZIndex = 1
 	inst[1868].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1868].Image = 'rbxassetid://72548733587158'
@@ -26050,7 +26050,7 @@ local function buildUI()
 	inst[1869].AutomaticSize = Enum.AutomaticSize.None
 	inst[1869].LayoutOrder = 0
 	inst[1869].Active = true
-	inst[1869].Selectable = true
+	inst[1869].Selectable = false
 	inst[1869].ZIndex = 1
 	inst[1869].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1869].Image = 'rbxassetid://125088425775676'
@@ -26121,7 +26121,7 @@ local function buildUI()
 	inst[1874].AutomaticSize = Enum.AutomaticSize.None
 	inst[1874].LayoutOrder = 0
 	inst[1874].Active = true
-	inst[1874].Selectable = true
+	inst[1874].Selectable = false
 	inst[1874].ZIndex = 1
 	inst[1874].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1874].ScrollBarThickness = 0
@@ -26151,7 +26151,7 @@ local function buildUI()
 	inst[1876].AutomaticSize = Enum.AutomaticSize.None
 	inst[1876].LayoutOrder = 0
 	inst[1876].Active = true
-	inst[1876].Selectable = true
+	inst[1876].Selectable = false
 	inst[1876].ZIndex = 1
 	inst[1876].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1876].Image = 'rbxassetid://125088425775676'
@@ -26249,7 +26249,7 @@ local function buildUI()
 	inst[1883].AutomaticSize = Enum.AutomaticSize.None
 	inst[1883].LayoutOrder = 2
 	inst[1883].Active = true
-	inst[1883].Selectable = true
+	inst[1883].Selectable = false
 	inst[1883].ZIndex = 5
 	inst[1883].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1883].Image = 'rbxassetid://138426819549450'
@@ -26340,7 +26340,7 @@ local function buildUI()
 	inst[1889].AutomaticSize = Enum.AutomaticSize.None
 	inst[1889].LayoutOrder = 0
 	inst[1889].Active = true
-	inst[1889].Selectable = true
+	inst[1889].Selectable = false
 	inst[1889].ZIndex = 1
 	inst[1889].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1889].Image = ''
@@ -26446,7 +26446,7 @@ local function buildUI()
 	inst[1896].AutomaticSize = Enum.AutomaticSize.None
 	inst[1896].LayoutOrder = 0
 	inst[1896].Active = true
-	inst[1896].Selectable = true
+	inst[1896].Selectable = false
 	inst[1896].ZIndex = 1
 	inst[1896].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1896].ScrollBarThickness = 0
@@ -26572,7 +26572,7 @@ local function buildUI()
 	inst[1906].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1906].LayoutOrder = 3
 	inst[1906].Active = true
-	inst[1906].Selectable = true
+	inst[1906].Selectable = false
 	inst[1906].ZIndex = 1
 	inst[1906].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1906].Text = ''
@@ -26648,7 +26648,7 @@ local function buildUI()
 	inst[1912].AutomaticSize = Enum.AutomaticSize.None
 	inst[1912].LayoutOrder = 0
 	inst[1912].Active = true
-	inst[1912].Selectable = true
+	inst[1912].Selectable = false
 	inst[1912].ZIndex = 1
 	inst[1912].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1912].Image = ''
@@ -26768,7 +26768,7 @@ local function buildUI()
 	inst[1920].AutomaticSize = Enum.AutomaticSize.None
 	inst[1920].LayoutOrder = 0
 	inst[1920].Active = true
-	inst[1920].Selectable = true
+	inst[1920].Selectable = false
 	inst[1920].ZIndex = 1
 	inst[1920].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1920].Image = ''
@@ -27017,7 +27017,7 @@ local function buildUI()
 	inst[1939].Rotation = 0
 	inst[1939].AutomaticSize = Enum.AutomaticSize.None
 	inst[1939].LayoutOrder = 0
-	inst[1939].Selectable = true
+	inst[1939].Selectable = false
 	inst[1939].ZIndex = 1
 	inst[1939].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1939].Image = 'rbxassetid://125088425775676'
@@ -27134,7 +27134,7 @@ local function buildUI()
 	inst[1947].AutomaticSize = Enum.AutomaticSize.None
 	inst[1947].LayoutOrder = 2
 	inst[1947].Active = true
-	inst[1947].Selectable = true
+	inst[1947].Selectable = false
 	inst[1947].ZIndex = 5
 	inst[1947].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1947].Image = 'rbxassetid://125088425775676'
@@ -27180,7 +27180,7 @@ local function buildUI()
 	inst[1950].Parent = inst[1949]
 	inst[1951] = Instance.new('ImageButton')
 	inst[1951].Name = 'pin'
-	inst[1951].Visible = true
+	inst[1951].Visible = false
 	inst[1951].Size = UDim2.new(0, 24, 0, 24)
 	inst[1951].Position = UDim2.new(0, 0, 0, 0)
 	inst[1951].AnchorPoint = Vector2.new(0, 0)
@@ -27192,7 +27192,7 @@ local function buildUI()
 	inst[1951].AutomaticSize = Enum.AutomaticSize.None
 	inst[1951].LayoutOrder = 1
 	inst[1951].Active = true
-	inst[1951].Selectable = true
+	inst[1951].Selectable = false
 	inst[1951].ZIndex = 5
 	inst[1951].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1951].Image = 'rbxassetid://125088425775676'
@@ -27210,7 +27210,7 @@ local function buildUI()
 	inst[1952].Parent = inst[1951]
 	inst[1953] = Instance.new('ImageLabel')
 	inst[1953].Name = 'pin'
-	inst[1953].Visible = true
+	inst[1953].Visible = false
 	inst[1953].Size = UDim2.new(0, 15, 0, 15)
 	inst[1953].Position = UDim2.new(0.5, 0, 0.5, 0)
 	inst[1953].AnchorPoint = Vector2.new(0.5, 0.5)
@@ -27284,7 +27284,7 @@ local function buildUI()
 	inst[1958].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1958].LayoutOrder = 0
 	inst[1958].Active = true
-	inst[1958].Selectable = true
+	inst[1958].Selectable = false
 	inst[1958].ZIndex = 1
 	inst[1958].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1958].Image = 'rbxassetid://72548733587158'
@@ -27310,7 +27310,7 @@ local function buildUI()
 	inst[1959].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1959].LayoutOrder = 0
 	inst[1959].Active = true
-	inst[1959].Selectable = true
+	inst[1959].Selectable = false
 	inst[1959].ZIndex = 1
 	inst[1959].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1959].Image = 'rbxassetid://125088425775676'
@@ -27375,7 +27375,7 @@ local function buildUI()
 	inst[1964].AutomaticSize = Enum.AutomaticSize.None
 	inst[1964].LayoutOrder = 2
 	inst[1964].Active = true
-	inst[1964].Selectable = true
+	inst[1964].Selectable = false
 	inst[1964].ZIndex = 1
 	inst[1964].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1964].Text = 'Cancel'
@@ -27407,7 +27407,7 @@ local function buildUI()
 	inst[1966].AutomaticSize = Enum.AutomaticSize.None
 	inst[1966].LayoutOrder = 1
 	inst[1966].Active = true
-	inst[1966].Selectable = true
+	inst[1966].Selectable = false
 	inst[1966].ZIndex = 1
 	inst[1966].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1966].Image = 'rbxassetid://125088425775676'
@@ -27432,7 +27432,7 @@ local function buildUI()
 	inst[1967].Rotation = 0
 	inst[1967].AutomaticSize = Enum.AutomaticSize.None
 	inst[1967].LayoutOrder = 0
-	inst[1967].Selectable = true
+	inst[1967].Selectable = false
 	inst[1967].ZIndex = 1
 	inst[1967].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1967].Text = 'Continue'
@@ -27461,7 +27461,7 @@ local function buildUI()
 	inst[1968].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1968].LayoutOrder = 1
 	inst[1968].Active = true
-	inst[1968].Selectable = true
+	inst[1968].Selectable = false
 	inst[1968].ZIndex = 1
 	inst[1968].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1968].Parent = inst[1959]
@@ -27551,7 +27551,7 @@ local function buildUI()
 	inst[1974].AutomaticSize = Enum.AutomaticSize.None
 	inst[1974].LayoutOrder = 0
 	inst[1974].Active = true
-	inst[1974].Selectable = true
+	inst[1974].Selectable = false
 	inst[1974].ZIndex = 2
 	inst[1974].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1974].Image = 'rbxassetid://72548733587158'
@@ -27577,7 +27577,7 @@ local function buildUI()
 	inst[1975].AutomaticSize = Enum.AutomaticSize.None
 	inst[1975].LayoutOrder = 0
 	inst[1975].Active = true
-	inst[1975].Selectable = true
+	inst[1975].Selectable = false
 	inst[1975].ZIndex = 1
 	inst[1975].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1975].Image = 'rbxassetid://125088425775676'
@@ -27631,7 +27631,7 @@ local function buildUI()
 	inst[1979].AutomaticSize = Enum.AutomaticSize.None
 	inst[1979].LayoutOrder = 0
 	inst[1979].Active = true
-	inst[1979].Selectable = true
+	inst[1979].Selectable = false
 	inst[1979].ZIndex = 1
 	inst[1979].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1979].ScrollBarThickness = 0
@@ -27661,7 +27661,7 @@ local function buildUI()
 	inst[1981].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1981].LayoutOrder = 0
 	inst[1981].Active = true
-	inst[1981].Selectable = true
+	inst[1981].Selectable = false
 	inst[1981].ZIndex = 1
 	inst[1981].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1981].Image = ''
@@ -27786,7 +27786,7 @@ local function buildUI()
 	inst[1990].Rotation = 0
 	inst[1990].AutomaticSize = Enum.AutomaticSize.Y
 	inst[1990].LayoutOrder = -999999999
-	inst[1990].Selectable = true
+	inst[1990].Selectable = false
 	inst[1990].ZIndex = 1
 	inst[1990].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[1990].Parent = inst[1981]
@@ -27985,7 +27985,7 @@ local function buildUI()
 	inst[2003].AutomaticSize = Enum.AutomaticSize.None
 	inst[2003].LayoutOrder = 5
 	inst[2003].Active = true
-	inst[2003].Selectable = true
+	inst[2003].Selectable = false
 	inst[2003].ZIndex = 5
 	inst[2003].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2003].Image = 'rbxassetid://125088425775676'
@@ -28133,7 +28133,7 @@ local function buildUI()
 	inst[2014].AutomaticSize = Enum.AutomaticSize.None
 	inst[2014].LayoutOrder = 0
 	inst[2014].Active = true
-	inst[2014].Selectable = true
+	inst[2014].Selectable = false
 	inst[2014].ZIndex = 2
 	inst[2014].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2014].Image = 'rbxassetid://72548733587158'
@@ -28159,7 +28159,7 @@ local function buildUI()
 	inst[2015].AutomaticSize = Enum.AutomaticSize.None
 	inst[2015].LayoutOrder = 0
 	inst[2015].Active = true
-	inst[2015].Selectable = true
+	inst[2015].Selectable = false
 	inst[2015].ZIndex = 1
 	inst[2015].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2015].Image = 'rbxassetid://125088425775676'
@@ -28214,7 +28214,7 @@ local function buildUI()
 	inst[2019].AutomaticSize = Enum.AutomaticSize.None
 	inst[2019].LayoutOrder = 0
 	inst[2019].Active = true
-	inst[2019].Selectable = true
+	inst[2019].Selectable = false
 	inst[2019].ZIndex = 1
 	inst[2019].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2019].ScrollBarThickness = 0
@@ -28276,7 +28276,7 @@ local function buildUI()
 	inst[2024].AutomaticSize = Enum.AutomaticSize.None
 	inst[2024].LayoutOrder = 1
 	inst[2024].Active = true
-	inst[2024].Selectable = true
+	inst[2024].Selectable = false
 	inst[2024].ZIndex = 1
 	inst[2024].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2024].Image = 'rbxassetid://125088425775676'
@@ -28302,7 +28302,7 @@ local function buildUI()
 	inst[2025].AutomaticSize = Enum.AutomaticSize.None
 	inst[2025].LayoutOrder = 1
 	inst[2025].Active = true
-	inst[2025].Selectable = true
+	inst[2025].Selectable = false
 	inst[2025].ZIndex = 1
 	inst[2025].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2025].Text = ''
@@ -28502,7 +28502,7 @@ local function buildUI()
 	inst[2042].AutomaticSize = Enum.AutomaticSize.None
 	inst[2042].LayoutOrder = 0
 	inst[2042].Active = true
-	inst[2042].Selectable = true
+	inst[2042].Selectable = false
 	inst[2042].ZIndex = 1
 	inst[2042].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2042].Image = ''
@@ -28658,7 +28658,7 @@ local function buildUI()
 	inst[2054].AutomaticSize = Enum.AutomaticSize.None
 	inst[2054].LayoutOrder = 0
 	inst[2054].Active = true
-	inst[2054].Selectable = true
+	inst[2054].Selectable = false
 	inst[2054].ZIndex = 1
 	inst[2054].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2054].Image = 'rbxassetid://125088425775676'
@@ -28725,7 +28725,7 @@ local function buildUI()
 	inst[2057].AutomaticSize = Enum.AutomaticSize.None
 	inst[2057].LayoutOrder = 0
 	inst[2057].Active = true
-	inst[2057].Selectable = true
+	inst[2057].Selectable = false
 	inst[2057].ZIndex = 1
 	inst[2057].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2057].Image = ''
@@ -28935,7 +28935,7 @@ local function buildUI()
 	inst[2071].AutomaticSize = Enum.AutomaticSize.None
 	inst[2071].LayoutOrder = 0
 	inst[2071].Active = true
-	inst[2071].Selectable = true
+	inst[2071].Selectable = false
 	inst[2071].ZIndex = 1
 	inst[2071].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2071].Image = 'rbxassetid://125088425775676'
@@ -29001,7 +29001,7 @@ local function buildUI()
 	inst[2074].AutomaticSize = Enum.AutomaticSize.None
 	inst[2074].LayoutOrder = 0
 	inst[2074].Active = true
-	inst[2074].Selectable = true
+	inst[2074].Selectable = false
 	inst[2074].ZIndex = 1
 	inst[2074].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2074].Image = ''
@@ -29190,7 +29190,7 @@ local function buildUI()
 	inst[2087].AutomaticSize = Enum.AutomaticSize.None
 	inst[2087].LayoutOrder = 5
 	inst[2087].Active = true
-	inst[2087].Selectable = true
+	inst[2087].Selectable = false
 	inst[2087].ZIndex = 5
 	inst[2087].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2087].Image = 'rbxassetid://125088425775676'
@@ -29310,7 +29310,7 @@ local function buildUI()
 	inst[2096].AutomaticSize = Enum.AutomaticSize.None
 	inst[2096].LayoutOrder = 0
 	inst[2096].Active = true
-	inst[2096].Selectable = true
+	inst[2096].Selectable = false
 	inst[2096].ZIndex = 2
 	inst[2096].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2096].Image = 'rbxassetid://72548733587158'
@@ -29336,7 +29336,7 @@ local function buildUI()
 	inst[2097].AutomaticSize = Enum.AutomaticSize.None
 	inst[2097].LayoutOrder = 0
 	inst[2097].Active = true
-	inst[2097].Selectable = true
+	inst[2097].Selectable = false
 	inst[2097].ZIndex = 1
 	inst[2097].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2097].Image = 'rbxassetid://125088425775676'
@@ -29390,7 +29390,7 @@ local function buildUI()
 	inst[2101].AutomaticSize = Enum.AutomaticSize.None
 	inst[2101].LayoutOrder = 0
 	inst[2101].Active = true
-	inst[2101].Selectable = true
+	inst[2101].Selectable = false
 	inst[2101].ZIndex = 1
 	inst[2101].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2101].ScrollBarThickness = 0
@@ -29477,7 +29477,7 @@ local function buildUI()
 	inst[2107].AutomaticSize = Enum.AutomaticSize.Y
 	inst[2107].LayoutOrder = 1
 	inst[2107].Active = true
-	inst[2107].Selectable = true
+	inst[2107].Selectable = false
 	inst[2107].ZIndex = 1
 	inst[2107].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2107].Image = 'rbxassetid://125088425775676'
@@ -29624,7 +29624,7 @@ local function buildUI()
 	inst[2116].AutomaticSize = Enum.AutomaticSize.None
 	inst[2116].LayoutOrder = 1
 	inst[2116].Active = true
-	inst[2116].Selectable = true
+	inst[2116].Selectable = false
 	inst[2116].ZIndex = 1
 	inst[2116].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2116].Image = 'rbxassetid://125088425775676'
@@ -29746,7 +29746,7 @@ local function buildUI()
 	inst[2123].AutomaticSize = Enum.AutomaticSize.None
 	inst[2123].LayoutOrder = 1
 	inst[2123].Active = true
-	inst[2123].Selectable = true
+	inst[2123].Selectable = false
 	inst[2123].ZIndex = 1
 	inst[2123].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2123].Image = 'rbxassetid://125088425775676'
@@ -29844,7 +29844,7 @@ local function buildUI()
 	inst[2130].AutomaticSize = Enum.AutomaticSize.None
 	inst[2130].LayoutOrder = 1
 	inst[2130].Active = true
-	inst[2130].Selectable = true
+	inst[2130].Selectable = false
 	inst[2130].ZIndex = 1
 	inst[2130].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2130].Image = 'rbxassetid://125088425775676'
@@ -29938,7 +29938,7 @@ local function buildUI()
 	inst[2136].AutomaticSize = Enum.AutomaticSize.None
 	inst[2136].LayoutOrder = 1
 	inst[2136].Active = true
-	inst[2136].Selectable = true
+	inst[2136].Selectable = false
 	inst[2136].ZIndex = 1
 	inst[2136].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2136].Image = 'rbxassetid://125088425775676'
@@ -30032,7 +30032,7 @@ local function buildUI()
 	inst[2142].AutomaticSize = Enum.AutomaticSize.None
 	inst[2142].LayoutOrder = 1
 	inst[2142].Active = true
-	inst[2142].Selectable = true
+	inst[2142].Selectable = false
 	inst[2142].ZIndex = 1
 	inst[2142].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2142].Image = 'rbxassetid://125088425775676'
@@ -30176,7 +30176,7 @@ local function buildUI()
 	inst[2151].AutomaticSize = Enum.AutomaticSize.Y
 	inst[2151].LayoutOrder = 1
 	inst[2151].Active = true
-	inst[2151].Selectable = true
+	inst[2151].Selectable = false
 	inst[2151].ZIndex = 1
 	inst[2151].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2151].Image = 'rbxassetid://125088425775676'
@@ -30349,7 +30349,7 @@ local function buildUI()
 	inst[2161].AutomaticSize = Enum.AutomaticSize.Y
 	inst[2161].LayoutOrder = 1
 	inst[2161].Active = true
-	inst[2161].Selectable = true
+	inst[2161].Selectable = false
 	inst[2161].ZIndex = 1
 	inst[2161].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2161].Image = 'rbxassetid://125088425775676'
@@ -30503,7 +30503,7 @@ local function buildUI()
 	inst[2171].AutomaticSize = Enum.AutomaticSize.None
 	inst[2171].LayoutOrder = 5
 	inst[2171].Active = true
-	inst[2171].Selectable = true
+	inst[2171].Selectable = false
 	inst[2171].ZIndex = 5
 	inst[2171].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2171].Image = 'rbxassetid://125088425775676'
@@ -30578,7 +30578,7 @@ local function buildUI()
 	inst[2176].Parent = inst[2175]
 	inst[2177] = Instance.new('ImageButton')
 	inst[2177].Name = 'pin'
-	inst[2177].Visible = true
+	inst[2177].Visible = false
 	inst[2177].Size = UDim2.new(0, 24, 0, 24)
 	inst[2177].Position = UDim2.new(0, 0, 0, 0)
 	inst[2177].AnchorPoint = Vector2.new(0, 0)
@@ -30590,7 +30590,7 @@ local function buildUI()
 	inst[2177].AutomaticSize = Enum.AutomaticSize.None
 	inst[2177].LayoutOrder = 1
 	inst[2177].Active = true
-	inst[2177].Selectable = true
+	inst[2177].Selectable = false
 	inst[2177].ZIndex = 5
 	inst[2177].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2177].Image = 'rbxassetid://125088425775676'
@@ -30608,7 +30608,7 @@ local function buildUI()
 	inst[2178].Parent = inst[2177]
 	inst[2179] = Instance.new('ImageLabel')
 	inst[2179].Name = 'pin'
-	inst[2179].Visible = true
+	inst[2179].Visible = false
 	inst[2179].Size = UDim2.new(0, 15, 0, 15)
 	inst[2179].Position = UDim2.new(0.5, 0, 0.5, 0)
 	inst[2179].AnchorPoint = Vector2.new(0.5, 0.5)
@@ -30681,7 +30681,7 @@ local function buildUI()
 	inst[2184].AutomaticSize = Enum.AutomaticSize.None
 	inst[2184].LayoutOrder = 0
 	inst[2184].Active = true
-	inst[2184].Selectable = true
+	inst[2184].Selectable = false
 	inst[2184].ZIndex = 2
 	inst[2184].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2184].Image = 'rbxassetid://72548733587158'
@@ -30707,7 +30707,7 @@ local function buildUI()
 	inst[2185].AutomaticSize = Enum.AutomaticSize.None
 	inst[2185].LayoutOrder = 0
 	inst[2185].Active = true
-	inst[2185].Selectable = true
+	inst[2185].Selectable = false
 	inst[2185].ZIndex = 1
 	inst[2185].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2185].Image = 'rbxassetid://125088425775676'
@@ -30761,7 +30761,7 @@ local function buildUI()
 	inst[2189].AutomaticSize = Enum.AutomaticSize.None
 	inst[2189].LayoutOrder = 0
 	inst[2189].Active = true
-	inst[2189].Selectable = true
+	inst[2189].Selectable = false
 	inst[2189].ZIndex = 1
 	inst[2189].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2189].ScrollBarThickness = 0
@@ -31301,7 +31301,7 @@ local function buildUI()
 	inst[2226].AutomaticSize = Enum.AutomaticSize.None
 	inst[2226].LayoutOrder = 5
 	inst[2226].Active = true
-	inst[2226].Selectable = true
+	inst[2226].Selectable = false
 	inst[2226].ZIndex = 5
 	inst[2226].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2226].Image = 'rbxassetid://125088425775676'
@@ -31539,7 +31539,7 @@ local function buildUI()
 	inst[2249].AutomaticSize = Enum.AutomaticSize.None
 	inst[2249].LayoutOrder = 0
 	inst[2249].Active = true
-	inst[2249].Selectable = true
+	inst[2249].Selectable = false
 	inst[2249].ZIndex = 1
 	inst[2249].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2249].Image = 'rbxassetid://125088425775676'
@@ -31631,7 +31631,7 @@ local function buildUI()
 	inst[2255].AutomaticSize = Enum.AutomaticSize.None
 	inst[2255].LayoutOrder = 0
 	inst[2255].Active = true
-	inst[2255].Selectable = true
+	inst[2255].Selectable = false
 	inst[2255].ZIndex = 1
 	inst[2255].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2255].Image = ''
@@ -31680,7 +31680,7 @@ local function buildUI()
 	inst[2258].AutomaticSize = Enum.AutomaticSize.None
 	inst[2258].LayoutOrder = 2
 	inst[2258].Active = true
-	inst[2258].Selectable = true
+	inst[2258].Selectable = false
 	inst[2258].ZIndex = 1
 	inst[2258].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2258].Image = 'rbxassetid://125088425775676'
@@ -31854,7 +31854,7 @@ local function buildUI()
 	inst[2272].AutomaticSize = Enum.AutomaticSize.None
 	inst[2272].LayoutOrder = 1
 	inst[2272].Active = true
-	inst[2272].Selectable = true
+	inst[2272].Selectable = false
 	inst[2272].ZIndex = 1
 	inst[2272].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2272].Image = 'rbxassetid://125088425775676'
@@ -31955,7 +31955,7 @@ local function buildUI()
 	inst[2279].AutomaticSize = Enum.AutomaticSize.None
 	inst[2279].LayoutOrder = 2
 	inst[2279].Active = true
-	inst[2279].Selectable = true
+	inst[2279].Selectable = false
 	inst[2279].ZIndex = 1
 	inst[2279].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2279].Image = 'rbxassetid://125088425775676'
@@ -32072,7 +32072,7 @@ local function buildUI()
 	inst[2286].AutomaticSize = Enum.AutomaticSize.None
 	inst[2286].LayoutOrder = 3
 	inst[2286].Active = true
-	inst[2286].Selectable = true
+	inst[2286].Selectable = false
 	inst[2286].ZIndex = 1
 	inst[2286].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2286].ScrollBarThickness = 0
@@ -32125,7 +32125,7 @@ local function buildUI()
 	inst[2290].AutomaticSize = Enum.AutomaticSize.None
 	inst[2290].LayoutOrder = 1
 	inst[2290].Active = true
-	inst[2290].Selectable = true
+	inst[2290].Selectable = false
 	inst[2290].ZIndex = 1
 	inst[2290].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2290].Image = 'rbxassetid://125088425775676'
@@ -32238,7 +32238,7 @@ local function buildUI()
 	inst[2298].AutomaticSize = Enum.AutomaticSize.None
 	inst[2298].LayoutOrder = 3
 	inst[2298].Active = true
-	inst[2298].Selectable = true
+	inst[2298].Selectable = false
 	inst[2298].ZIndex = 1
 	inst[2298].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2298].Image = 'rbxassetid://125088425775676'
@@ -32396,7 +32396,7 @@ local function buildUI()
 	inst[2309].AutomaticSize = Enum.AutomaticSize.None
 	inst[2309].LayoutOrder = 6
 	inst[2309].Active = true
-	inst[2309].Selectable = true
+	inst[2309].Selectable = false
 	inst[2309].ZIndex = 1
 	inst[2309].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2309].Image = 'rbxassetid://125088425775676'
@@ -32558,7 +32558,7 @@ local function buildUI()
 	inst[2320].AutomaticSize = Enum.AutomaticSize.None
 	inst[2320].LayoutOrder = 4
 	inst[2320].Active = true
-	inst[2320].Selectable = true
+	inst[2320].Selectable = false
 	inst[2320].ZIndex = 1
 	inst[2320].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2320].Image = 'rbxassetid://125088425775676'
@@ -32712,7 +32712,7 @@ local function buildUI()
 	inst[2330].AutomaticSize = Enum.AutomaticSize.None
 	inst[2330].LayoutOrder = 2
 	inst[2330].Active = true
-	inst[2330].Selectable = true
+	inst[2330].Selectable = false
 	inst[2330].ZIndex = 1
 	inst[2330].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2330].Image = 'rbxassetid://125088425775676'
@@ -32825,7 +32825,7 @@ local function buildUI()
 	inst[2338].AutomaticSize = Enum.AutomaticSize.None
 	inst[2338].LayoutOrder = 5
 	inst[2338].Active = true
-	inst[2338].Selectable = true
+	inst[2338].Selectable = false
 	inst[2338].ZIndex = 1
 	inst[2338].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2338].Image = 'rbxassetid://125088425775676'
@@ -33009,7 +33009,7 @@ local function buildUI()
 	inst[2352].AutomaticSize = Enum.AutomaticSize.None
 	inst[2352].LayoutOrder = 5
 	inst[2352].Active = true
-	inst[2352].Selectable = true
+	inst[2352].Selectable = false
 	inst[2352].ZIndex = 1
 	inst[2352].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2352].Image = 'rbxassetid://125088425775676'
@@ -33241,7 +33241,7 @@ local function buildUI()
 	inst[2371].AutomaticSize = Enum.AutomaticSize.None
 	inst[2371].LayoutOrder = 0
 	inst[2371].Active = true
-	inst[2371].Selectable = true
+	inst[2371].Selectable = false
 	inst[2371].ZIndex = 1
 	inst[2371].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2371].ScrollBarThickness = 0
@@ -33392,7 +33392,7 @@ local function buildUI()
 	inst[2383].AutomaticSize = Enum.AutomaticSize.None
 	inst[2383].LayoutOrder = 0
 	inst[2383].Active = true
-	inst[2383].Selectable = true
+	inst[2383].Selectable = false
 	inst[2383].ZIndex = 1
 	inst[2383].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2383].Image = 'rbxassetid://125088425775676'
@@ -33527,7 +33527,7 @@ local function buildUI()
 	inst[2393].AutomaticSize = Enum.AutomaticSize.None
 	inst[2393].LayoutOrder = 0
 	inst[2393].Active = true
-	inst[2393].Selectable = true
+	inst[2393].Selectable = false
 	inst[2393].ZIndex = 1
 	inst[2393].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2393].Image = 'rbxassetid://125088425775676'
@@ -33754,7 +33754,7 @@ local function buildUI()
 	inst[2406].AutomaticSize = Enum.AutomaticSize.None
 	inst[2406].LayoutOrder = 0
 	inst[2406].Active = true
-	inst[2406].Selectable = true
+	inst[2406].Selectable = false
 	inst[2406].ZIndex = 1
 	inst[2406].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2406].Image = 'rbxassetid://125088425775676'
@@ -33789,7 +33789,7 @@ local function buildUI()
 	inst[2409].Rotation = 0
 	inst[2409].AutomaticSize = Enum.AutomaticSize.None
 	inst[2409].LayoutOrder = 0
-	inst[2409].Selectable = true
+	inst[2409].Selectable = false
 	inst[2409].ZIndex = 1
 	inst[2409].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2409].ScrollBarThickness = 4
@@ -33826,7 +33826,7 @@ local function buildUI()
 	inst[2412].AutomaticSize = Enum.AutomaticSize.None
 	inst[2412].LayoutOrder = -21
 	inst[2412].Active = true
-	inst[2412].Selectable = true
+	inst[2412].Selectable = false
 	inst[2412].ZIndex = 1
 	inst[2412].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2412].Image = 'rbxassetid://125088425775676'
@@ -33961,7 +33961,7 @@ local function buildUI()
 	inst[2422].Rotation = 0
 	inst[2422].AutomaticSize = Enum.AutomaticSize.None
 	inst[2422].LayoutOrder = 0
-	inst[2422].Selectable = true
+	inst[2422].Selectable = false
 	inst[2422].ZIndex = 1
 	inst[2422].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2422].Image = 'rbxassetid://125088425775676'
@@ -34050,7 +34050,7 @@ local function buildUI()
 	inst[2428].AutomaticSize = Enum.AutomaticSize.None
 	inst[2428].LayoutOrder = 0
 	inst[2428].Active = true
-	inst[2428].Selectable = true
+	inst[2428].Selectable = false
 	inst[2428].ZIndex = 1
 	inst[2428].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2428].Image = 'rbxassetid://125088425775676'
@@ -34085,7 +34085,7 @@ local function buildUI()
 	inst[2431].Rotation = 0
 	inst[2431].AutomaticSize = Enum.AutomaticSize.None
 	inst[2431].LayoutOrder = 0
-	inst[2431].Selectable = true
+	inst[2431].Selectable = false
 	inst[2431].ZIndex = 1
 	inst[2431].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2431].ScrollBarThickness = 4
@@ -34122,7 +34122,7 @@ local function buildUI()
 	inst[2434].Rotation = 0
 	inst[2434].AutomaticSize = Enum.AutomaticSize.None
 	inst[2434].LayoutOrder = 0
-	inst[2434].Selectable = true
+	inst[2434].Selectable = false
 	inst[2434].ZIndex = 1
 	inst[2434].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2434].Image = 'rbxassetid://125088425775676'
@@ -34324,7 +34324,7 @@ local function buildUI()
 	inst[2449].AutomaticSize = Enum.AutomaticSize.None
 	inst[2449].LayoutOrder = 0
 	inst[2449].Active = true
-	inst[2449].Selectable = true
+	inst[2449].Selectable = false
 	inst[2449].ZIndex = 1
 	inst[2449].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2449].Image = 'rbxassetid://125088425775676'
@@ -34789,7 +34789,7 @@ local function buildUI()
 	inst[2482].AutomaticSize = Enum.AutomaticSize.None
 	inst[2482].LayoutOrder = 0
 	inst[2482].Active = true
-	inst[2482].Selectable = true
+	inst[2482].Selectable = false
 	inst[2482].ZIndex = 1
 	inst[2482].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2482].Image = 'rbxassetid://125088425775676'
@@ -34850,7 +34850,7 @@ local function buildUI()
 	inst[2486].Rotation = 0
 	inst[2486].AutomaticSize = Enum.AutomaticSize.None
 	inst[2486].LayoutOrder = 0
-	inst[2486].Selectable = true
+	inst[2486].Selectable = false
 	inst[2486].ZIndex = 1
 	inst[2486].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2486].Parent = inst[2482]
@@ -34875,7 +34875,7 @@ local function buildUI()
 	inst[2488].Rotation = 0
 	inst[2488].AutomaticSize = Enum.AutomaticSize.None
 	inst[2488].LayoutOrder = 0
-	inst[2488].Selectable = true
+	inst[2488].Selectable = false
 	inst[2488].ZIndex = 1
 	inst[2488].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2488].Text = 'error log'
@@ -34929,7 +34929,7 @@ local function buildUI()
 	inst[2493].Rotation = 0
 	inst[2493].AutomaticSize = Enum.AutomaticSize.None
 	inst[2493].LayoutOrder = 0
-	inst[2493].Selectable = true
+	inst[2493].Selectable = false
 	inst[2493].ZIndex = 1
 	inst[2493].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2493].Image = 'rbxassetid://125088425775676'
@@ -34988,7 +34988,7 @@ local function buildUI()
 	inst[2497].AutomaticSize = Enum.AutomaticSize.None
 	inst[2497].LayoutOrder = 0
 	inst[2497].Active = true
-	inst[2497].Selectable = true
+	inst[2497].Selectable = false
 	inst[2497].ZIndex = 1
 	inst[2497].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2497].Image = 'rbxassetid://125088425775676'
@@ -35188,7 +35188,7 @@ local function buildUI()
 	inst[2510].AutomaticSize = Enum.AutomaticSize.None
 	inst[2510].LayoutOrder = 0
 	inst[2510].Active = true
-	inst[2510].Selectable = true
+	inst[2510].Selectable = false
 	inst[2510].ZIndex = 1
 	inst[2510].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2510].Image = 'rbxassetid://125088425775676'
@@ -35357,7 +35357,7 @@ local function buildUI()
 	inst[2522].Rotation = 0
 	inst[2522].AutomaticSize = Enum.AutomaticSize.Y
 	inst[2522].LayoutOrder = 0
-	inst[2522].Selectable = true
+	inst[2522].Selectable = false
 	inst[2522].ZIndex = 1
 	inst[2522].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2522].Parent = inst[2519]
@@ -35633,7 +35633,7 @@ local function buildUI()
 	inst[2544].AutomaticSize = Enum.AutomaticSize.Y
 	inst[2544].LayoutOrder = 0
 	inst[2544].Active = true
-	inst[2544].Selectable = true
+	inst[2544].Selectable = false
 	inst[2544].ZIndex = 1
 	inst[2544].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2544].Parent = inst[2530]
@@ -36091,7 +36091,7 @@ local function buildUI()
 	inst[2578].AutomaticSize = Enum.AutomaticSize.None
 	inst[2578].LayoutOrder = 1
 	inst[2578].Active = true
-	inst[2578].Selectable = true
+	inst[2578].Selectable = false
 	inst[2578].ZIndex = 1
 	inst[2578].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2578].Image = 'rbxassetid://125088425775676'
@@ -36262,7 +36262,7 @@ local function buildUI()
 	inst[2590].AutomaticSize = Enum.AutomaticSize.None
 	inst[2590].LayoutOrder = 3
 	inst[2590].Active = true
-	inst[2590].Selectable = true
+	inst[2590].Selectable = false
 	inst[2590].ZIndex = 1
 	inst[2590].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2590].Image = 'rbxassetid://125088425775676'
@@ -36433,7 +36433,7 @@ local function buildUI()
 	inst[2602].AutomaticSize = Enum.AutomaticSize.None
 	inst[2602].LayoutOrder = 1
 	inst[2602].Active = true
-	inst[2602].Selectable = true
+	inst[2602].Selectable = false
 	inst[2602].ZIndex = 1
 	inst[2602].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2602].Image = 'rbxassetid://125088425775676'
@@ -36604,7 +36604,7 @@ local function buildUI()
 	inst[2614].AutomaticSize = Enum.AutomaticSize.None
 	inst[2614].LayoutOrder = 1
 	inst[2614].Active = true
-	inst[2614].Selectable = true
+	inst[2614].Selectable = false
 	inst[2614].ZIndex = 1
 	inst[2614].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2614].Image = 'rbxassetid://125088425775676'
@@ -36775,7 +36775,7 @@ local function buildUI()
 	inst[2626].AutomaticSize = Enum.AutomaticSize.None
 	inst[2626].LayoutOrder = 0
 	inst[2626].Active = true
-	inst[2626].Selectable = true
+	inst[2626].Selectable = false
 	inst[2626].ZIndex = 1
 	inst[2626].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2626].Image = 'rbxassetid://125088425775676'
@@ -36946,7 +36946,7 @@ local function buildUI()
 	inst[2638].AutomaticSize = Enum.AutomaticSize.None
 	inst[2638].LayoutOrder = 1
 	inst[2638].Active = true
-	inst[2638].Selectable = true
+	inst[2638].Selectable = false
 	inst[2638].ZIndex = 1
 	inst[2638].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2638].Image = 'rbxassetid://125088425775676'
@@ -37117,7 +37117,7 @@ local function buildUI()
 	inst[2650].AutomaticSize = Enum.AutomaticSize.None
 	inst[2650].LayoutOrder = 1
 	inst[2650].Active = true
-	inst[2650].Selectable = true
+	inst[2650].Selectable = false
 	inst[2650].ZIndex = 1
 	inst[2650].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2650].Image = 'rbxassetid://125088425775676'
@@ -37292,7 +37292,7 @@ local function buildUI()
 	inst[2662].AutomaticSize = Enum.AutomaticSize.None
 	inst[2662].LayoutOrder = 2
 	inst[2662].Active = true
-	inst[2662].Selectable = true
+	inst[2662].Selectable = false
 	inst[2662].ZIndex = 1
 	inst[2662].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2662].Image = 'rbxassetid://125088425775676'
@@ -37464,7 +37464,7 @@ local function buildUI()
 	inst[2674].AutomaticSize = Enum.AutomaticSize.None
 	inst[2674].LayoutOrder = 9999
 	inst[2674].Active = true
-	inst[2674].Selectable = true
+	inst[2674].Selectable = false
 	inst[2674].ZIndex = 1
 	inst[2674].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2674].Image = ''
@@ -37595,7 +37595,7 @@ local function buildUI()
 	inst[2685].AutomaticSize = Enum.AutomaticSize.None
 	inst[2685].LayoutOrder = 3
 	inst[2685].Active = true
-	inst[2685].Selectable = true
+	inst[2685].Selectable = false
 	inst[2685].ZIndex = 1
 	inst[2685].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2685].Image = 'rbxassetid://125088425775676'
@@ -37766,7 +37766,7 @@ local function buildUI()
 	inst[2697].AutomaticSize = Enum.AutomaticSize.None
 	inst[2697].LayoutOrder = 3
 	inst[2697].Active = true
-	inst[2697].Selectable = true
+	inst[2697].Selectable = false
 	inst[2697].ZIndex = 1
 	inst[2697].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2697].Image = 'rbxassetid://125088425775676'
@@ -37963,7 +37963,7 @@ local function buildUI()
 	inst[2710].AutomaticSize = Enum.AutomaticSize.None
 	inst[2710].LayoutOrder = 0
 	inst[2710].Active = true
-	inst[2710].Selectable = true
+	inst[2710].Selectable = false
 	inst[2710].ZIndex = 1
 	inst[2710].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2710].ScrollBarThickness = 0
@@ -38024,7 +38024,7 @@ local function buildUI()
 	inst[2715].AutomaticSize = Enum.AutomaticSize.None
 	inst[2715].LayoutOrder = 0
 	inst[2715].Active = true
-	inst[2715].Selectable = true
+	inst[2715].Selectable = false
 	inst[2715].ZIndex = 1
 	inst[2715].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2715].Image = 'rbxassetid://125088425775676'
@@ -38115,7 +38115,7 @@ local function buildUI()
 	inst[2720].AutomaticSize = Enum.AutomaticSize.None
 	inst[2720].LayoutOrder = 0
 	inst[2720].Active = true
-	inst[2720].Selectable = true
+	inst[2720].Selectable = false
 	inst[2720].ZIndex = 1
 	inst[2720].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2720].Image = 'rbxassetid://125088425775676'
@@ -38206,7 +38206,7 @@ local function buildUI()
 	inst[2725].AutomaticSize = Enum.AutomaticSize.None
 	inst[2725].LayoutOrder = 0
 	inst[2725].Active = true
-	inst[2725].Selectable = true
+	inst[2725].Selectable = false
 	inst[2725].ZIndex = 1
 	inst[2725].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2725].Image = 'rbxassetid://125088425775676'
@@ -38297,7 +38297,7 @@ local function buildUI()
 	inst[2730].AutomaticSize = Enum.AutomaticSize.None
 	inst[2730].LayoutOrder = 0
 	inst[2730].Active = true
-	inst[2730].Selectable = true
+	inst[2730].Selectable = false
 	inst[2730].ZIndex = 1
 	inst[2730].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2730].Image = 'rbxassetid://125088425775676'
@@ -38405,7 +38405,7 @@ local function buildUI()
 	inst[2736].AutomaticSize = Enum.AutomaticSize.None
 	inst[2736].LayoutOrder = 2
 	inst[2736].Active = true
-	inst[2736].Selectable = true
+	inst[2736].Selectable = false
 	inst[2736].ZIndex = 1
 	inst[2736].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2736].ScrollBarThickness = 4
@@ -38435,7 +38435,7 @@ local function buildUI()
 	inst[2738].AutomaticSize = Enum.AutomaticSize.None
 	inst[2738].LayoutOrder = 0
 	inst[2738].Active = true
-	inst[2738].Selectable = true
+	inst[2738].Selectable = false
 	inst[2738].ZIndex = 1
 	inst[2738].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2738].Image = ''
@@ -38640,7 +38640,7 @@ local function buildUI()
 	inst[2753].AutomaticSize = Enum.AutomaticSize.None
 	inst[2753].LayoutOrder = 0
 	inst[2753].Active = true
-	inst[2753].Selectable = true
+	inst[2753].Selectable = false
 	inst[2753].ZIndex = 1
 	inst[2753].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2753].Image = ''
@@ -38669,7 +38669,7 @@ local function buildUI()
 	inst[2755].Rotation = 0
 	inst[2755].AutomaticSize = Enum.AutomaticSize.None
 	inst[2755].LayoutOrder = 0
-	inst[2755].Selectable = true
+	inst[2755].Selectable = false
 	inst[2755].ZIndex = 1
 	inst[2755].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2755].Image = 'rbxassetid://138426819549450'
@@ -38709,7 +38709,7 @@ local function buildUI()
 	inst[2759].Rotation = 0
 	inst[2759].AutomaticSize = Enum.AutomaticSize.None
 	inst[2759].LayoutOrder = 0
-	inst[2759].Selectable = true
+	inst[2759].Selectable = false
 	inst[2759].ZIndex = 1
 	inst[2759].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2759].Image = 'rbxassetid://138426819549450'
@@ -38742,7 +38742,7 @@ local function buildUI()
 	inst[2762].Rotation = 0
 	inst[2762].AutomaticSize = Enum.AutomaticSize.None
 	inst[2762].LayoutOrder = 0
-	inst[2762].Selectable = true
+	inst[2762].Selectable = false
 	inst[2762].ZIndex = 1
 	inst[2762].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2762].Image = 'rbxassetid://10709790644'
@@ -38810,7 +38810,7 @@ local function buildUI()
 	inst[2768].AutomaticSize = Enum.AutomaticSize.None
 	inst[2768].LayoutOrder = -21
 	inst[2768].Active = true
-	inst[2768].Selectable = true
+	inst[2768].Selectable = false
 	inst[2768].ZIndex = 1
 	inst[2768].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2768].Image = ''
@@ -39015,7 +39015,7 @@ local function buildUI()
 	inst[2783].AutomaticSize = Enum.AutomaticSize.None
 	inst[2783].LayoutOrder = 0
 	inst[2783].Active = true
-	inst[2783].Selectable = true
+	inst[2783].Selectable = false
 	inst[2783].ZIndex = 1
 	inst[2783].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2783].Image = ''
@@ -39044,7 +39044,7 @@ local function buildUI()
 	inst[2785].Rotation = 0
 	inst[2785].AutomaticSize = Enum.AutomaticSize.None
 	inst[2785].LayoutOrder = 0
-	inst[2785].Selectable = true
+	inst[2785].Selectable = false
 	inst[2785].ZIndex = 1
 	inst[2785].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2785].Image = 'rbxassetid://138426819549450'
@@ -39084,7 +39084,7 @@ local function buildUI()
 	inst[2789].Rotation = 0
 	inst[2789].AutomaticSize = Enum.AutomaticSize.None
 	inst[2789].LayoutOrder = 0
-	inst[2789].Selectable = true
+	inst[2789].Selectable = false
 	inst[2789].ZIndex = 1
 	inst[2789].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2789].Image = 'rbxassetid://138426819549450'
@@ -39117,7 +39117,7 @@ local function buildUI()
 	inst[2792].Rotation = 0
 	inst[2792].AutomaticSize = Enum.AutomaticSize.None
 	inst[2792].LayoutOrder = 0
-	inst[2792].Selectable = true
+	inst[2792].Selectable = false
 	inst[2792].ZIndex = 1
 	inst[2792].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2792].Image = 'rbxassetid://10709790644'
@@ -39207,7 +39207,7 @@ local function buildUI()
 	inst[2799].AutomaticSize = Enum.AutomaticSize.None
 	inst[2799].LayoutOrder = 1
 	inst[2799].Active = true
-	inst[2799].Selectable = true
+	inst[2799].Selectable = false
 	inst[2799].ZIndex = 1
 	inst[2799].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2799].Image = ''
@@ -39236,7 +39236,7 @@ local function buildUI()
 	inst[2801].Rotation = 0
 	inst[2801].AutomaticSize = Enum.AutomaticSize.None
 	inst[2801].LayoutOrder = 0
-	inst[2801].Selectable = true
+	inst[2801].Selectable = false
 	inst[2801].ZIndex = 1
 	inst[2801].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2801].Image = 'rbxassetid://138426819549450'
@@ -39280,7 +39280,7 @@ local function buildUI()
 	inst[2805].Rotation = 0
 	inst[2805].AutomaticSize = Enum.AutomaticSize.None
 	inst[2805].LayoutOrder = 0
-	inst[2805].Selectable = true
+	inst[2805].Selectable = false
 	inst[2805].ZIndex = 1
 	inst[2805].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2805].Image = 'rbxassetid://138426819549450'
@@ -39313,7 +39313,7 @@ local function buildUI()
 	inst[2808].Rotation = 0
 	inst[2808].AutomaticSize = Enum.AutomaticSize.None
 	inst[2808].LayoutOrder = 0
-	inst[2808].Selectable = true
+	inst[2808].Selectable = false
 	inst[2808].ZIndex = 1
 	inst[2808].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2808].Image = 'rbxassetid://10709790644'
@@ -39343,7 +39343,7 @@ local function buildUI()
 	inst[2810].AutomaticSize = Enum.AutomaticSize.None
 	inst[2810].LayoutOrder = 2
 	inst[2810].Active = true
-	inst[2810].Selectable = true
+	inst[2810].Selectable = false
 	inst[2810].ZIndex = 1
 	inst[2810].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2810].Text = 'Name'
@@ -39378,7 +39378,7 @@ local function buildUI()
 	inst[2813].AutomaticSize = Enum.AutomaticSize.None
 	inst[2813].LayoutOrder = 3
 	inst[2813].Active = true
-	inst[2813].Selectable = true
+	inst[2813].Selectable = false
 	inst[2813].ZIndex = 1
 	inst[2813].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2813].Text = 'Role'
@@ -39465,7 +39465,7 @@ local function buildUI()
 	inst[2819].AutomaticSize = Enum.AutomaticSize.None
 	inst[2819].LayoutOrder = 2
 	inst[2819].Active = true
-	inst[2819].Selectable = true
+	inst[2819].Selectable = false
 	inst[2819].ZIndex = 1
 	inst[2819].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2819].Image = 'rbxassetid://125088425775676'
@@ -39491,7 +39491,7 @@ local function buildUI()
 	inst[2820].AutomaticSize = Enum.AutomaticSize.None
 	inst[2820].LayoutOrder = 1
 	inst[2820].Active = true
-	inst[2820].Selectable = true
+	inst[2820].Selectable = false
 	inst[2820].ZIndex = 1
 	inst[2820].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2820].Image = 'rbxassetid://125088425775676'
@@ -39560,7 +39560,7 @@ local function buildUI()
 	inst[2825].AutomaticSize = Enum.AutomaticSize.None
 	inst[2825].LayoutOrder = 2
 	inst[2825].Active = true
-	inst[2825].Selectable = true
+	inst[2825].Selectable = false
 	inst[2825].ZIndex = 1
 	inst[2825].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2825].Image = 'rbxassetid://125088425775676'
@@ -39614,7 +39614,7 @@ local function buildUI()
 	inst[2828].AutomaticSize = Enum.AutomaticSize.None
 	inst[2828].LayoutOrder = 3
 	inst[2828].Active = true
-	inst[2828].Selectable = true
+	inst[2828].Selectable = false
 	inst[2828].ZIndex = 1
 	inst[2828].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2828].Image = 'rbxassetid://125088425775676'
@@ -39680,7 +39680,7 @@ local function buildUI()
 	inst[2833].AutomaticSize = Enum.AutomaticSize.None
 	inst[2833].LayoutOrder = 1
 	inst[2833].Active = true
-	inst[2833].Selectable = true
+	inst[2833].Selectable = false
 	inst[2833].ZIndex = 1
 	inst[2833].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2833].Image = 'rbxassetid://125088425775676'
@@ -39709,7 +39709,7 @@ local function buildUI()
 	inst[2835].AutomaticSize = Enum.AutomaticSize.None
 	inst[2835].LayoutOrder = 1
 	inst[2835].Active = true
-	inst[2835].Selectable = true
+	inst[2835].Selectable = false
 	inst[2835].ZIndex = 1
 	inst[2835].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2835].Text = ''
@@ -39787,7 +39787,7 @@ local function buildUI()
 	inst[2842].AutomaticSize = Enum.AutomaticSize.None
 	inst[2842].LayoutOrder = 0
 	inst[2842].Active = true
-	inst[2842].Selectable = true
+	inst[2842].Selectable = false
 	inst[2842].ZIndex = 2
 	inst[2842].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2842].Image = 'rbxassetid://125088425775676'
@@ -39925,7 +39925,7 @@ local function buildUI()
 	inst[2850].Rotation = 0
 	inst[2850].AutomaticSize = Enum.AutomaticSize.None
 	inst[2850].LayoutOrder = 0
-	inst[2850].Selectable = true
+	inst[2850].Selectable = false
 	inst[2850].ZIndex = 1
 	inst[2850].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2850].Image = 'rbxassetid://72548733587158'
@@ -39970,7 +39970,7 @@ local function buildUI()
 	inst[2853].AutomaticSize = Enum.AutomaticSize.None
 	inst[2853].LayoutOrder = 3
 	inst[2853].Active = true
-	inst[2853].Selectable = true
+	inst[2853].Selectable = false
 	inst[2853].ZIndex = 1
 	inst[2853].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2853].Image = 'rbxassetid://125088425775676'
@@ -39995,7 +39995,7 @@ local function buildUI()
 	inst[2854].Rotation = 0
 	inst[2854].AutomaticSize = Enum.AutomaticSize.None
 	inst[2854].LayoutOrder = 0
-	inst[2854].Selectable = true
+	inst[2854].Selectable = false
 	inst[2854].ZIndex = 1
 	inst[2854].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2854].Image = 'rbxassetid://11293978505'
@@ -40123,7 +40123,7 @@ local function buildUI()
 	inst[2864].AutomaticSize = Enum.AutomaticSize.None
 	inst[2864].LayoutOrder = 0
 	inst[2864].Active = true
-	inst[2864].Selectable = true
+	inst[2864].Selectable = false
 	inst[2864].ZIndex = 1
 	inst[2864].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2864].Image = 'rbxassetid://125088425775676'
@@ -40157,7 +40157,7 @@ local function buildUI()
 	inst[2866].AutomaticSize = Enum.AutomaticSize.None
 	inst[2866].LayoutOrder = 0
 	inst[2866].Active = true
-	inst[2866].Selectable = true
+	inst[2866].Selectable = false
 	inst[2866].ZIndex = 1
 	inst[2866].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2866].ScrollBarThickness = 0
@@ -40194,7 +40194,7 @@ local function buildUI()
 	inst[2869].AutomaticSize = Enum.AutomaticSize.None
 	inst[2869].LayoutOrder = 2
 	inst[2869].Active = true
-	inst[2869].Selectable = true
+	inst[2869].Selectable = false
 	inst[2869].ZIndex = 1
 	inst[2869].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2869].Image = 'rbxassetid://125088425775676'
@@ -40248,7 +40248,7 @@ local function buildUI()
 	inst[2872].AutomaticSize = Enum.AutomaticSize.None
 	inst[2872].LayoutOrder = 3
 	inst[2872].Active = true
-	inst[2872].Selectable = true
+	inst[2872].Selectable = false
 	inst[2872].ZIndex = 1
 	inst[2872].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2872].Image = 'rbxassetid://125088425775676'
@@ -40302,7 +40302,7 @@ local function buildUI()
 	inst[2875].AutomaticSize = Enum.AutomaticSize.None
 	inst[2875].LayoutOrder = 4
 	inst[2875].Active = true
-	inst[2875].Selectable = true
+	inst[2875].Selectable = false
 	inst[2875].ZIndex = 1
 	inst[2875].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2875].Image = 'rbxassetid://125088425775676'
@@ -40356,7 +40356,7 @@ local function buildUI()
 	inst[2878].AutomaticSize = Enum.AutomaticSize.None
 	inst[2878].LayoutOrder = 5
 	inst[2878].Active = true
-	inst[2878].Selectable = true
+	inst[2878].Selectable = false
 	inst[2878].ZIndex = 1
 	inst[2878].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2878].Image = 'rbxassetid://125088425775676'
@@ -40410,7 +40410,7 @@ local function buildUI()
 	inst[2881].Rotation = 0
 	inst[2881].AutomaticSize = Enum.AutomaticSize.None
 	inst[2881].LayoutOrder = 0
-	inst[2881].Selectable = true
+	inst[2881].Selectable = false
 	inst[2881].ZIndex = 1
 	inst[2881].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2881].Image = 'rbxassetid://125088425775676'
@@ -40568,7 +40568,7 @@ local function buildUI()
 	inst[2891].AutomaticSize = Enum.AutomaticSize.None
 	inst[2891].LayoutOrder = 0
 	inst[2891].Active = true
-	inst[2891].Selectable = true
+	inst[2891].Selectable = false
 	inst[2891].ZIndex = 1
 	inst[2891].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2891].ScrollBarThickness = 0
@@ -40629,7 +40629,7 @@ local function buildUI()
 	inst[2896].AutomaticSize = Enum.AutomaticSize.None
 	inst[2896].LayoutOrder = 0
 	inst[2896].Active = true
-	inst[2896].Selectable = true
+	inst[2896].Selectable = false
 	inst[2896].ZIndex = 1
 	inst[2896].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2896].Image = 'rbxassetid://125088425775676'
@@ -40720,7 +40720,7 @@ local function buildUI()
 	inst[2901].AutomaticSize = Enum.AutomaticSize.None
 	inst[2901].LayoutOrder = 0
 	inst[2901].Active = true
-	inst[2901].Selectable = true
+	inst[2901].Selectable = false
 	inst[2901].ZIndex = 1
 	inst[2901].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2901].Image = 'rbxassetid://125088425775676'
@@ -40811,7 +40811,7 @@ local function buildUI()
 	inst[2906].AutomaticSize = Enum.AutomaticSize.None
 	inst[2906].LayoutOrder = 0
 	inst[2906].Active = true
-	inst[2906].Selectable = true
+	inst[2906].Selectable = false
 	inst[2906].ZIndex = 1
 	inst[2906].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2906].Image = 'rbxassetid://125088425775676'
@@ -40919,7 +40919,7 @@ local function buildUI()
 	inst[2912].AutomaticSize = Enum.AutomaticSize.None
 	inst[2912].LayoutOrder = 2
 	inst[2912].Active = true
-	inst[2912].Selectable = true
+	inst[2912].Selectable = false
 	inst[2912].ZIndex = 1
 	inst[2912].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2912].ScrollBarThickness = 4
@@ -40949,7 +40949,7 @@ local function buildUI()
 	inst[2914].AutomaticSize = Enum.AutomaticSize.None
 	inst[2914].LayoutOrder = 0
 	inst[2914].Active = true
-	inst[2914].Selectable = true
+	inst[2914].Selectable = false
 	inst[2914].ZIndex = 1
 	inst[2914].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2914].Image = ''
@@ -41053,7 +41053,7 @@ local function buildUI()
 	inst[2922].AutomaticSize = Enum.AutomaticSize.None
 	inst[2922].LayoutOrder = 1
 	inst[2922].Active = true
-	inst[2922].Selectable = true
+	inst[2922].Selectable = false
 	inst[2922].ZIndex = 1
 	inst[2922].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2922].Image = ''
@@ -41082,7 +41082,7 @@ local function buildUI()
 	inst[2924].Rotation = 0
 	inst[2924].AutomaticSize = Enum.AutomaticSize.None
 	inst[2924].LayoutOrder = 0
-	inst[2924].Selectable = true
+	inst[2924].Selectable = false
 	inst[2924].ZIndex = 1
 	inst[2924].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2924].Image = 'rbxassetid://138426819549450'
@@ -41122,7 +41122,7 @@ local function buildUI()
 	inst[2928].Rotation = 0
 	inst[2928].AutomaticSize = Enum.AutomaticSize.None
 	inst[2928].LayoutOrder = 0
-	inst[2928].Selectable = true
+	inst[2928].Selectable = false
 	inst[2928].ZIndex = 1
 	inst[2928].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2928].Image = 'rbxassetid://138426819549450'
@@ -41155,7 +41155,7 @@ local function buildUI()
 	inst[2931].Rotation = 0
 	inst[2931].AutomaticSize = Enum.AutomaticSize.None
 	inst[2931].LayoutOrder = 0
-	inst[2931].Selectable = true
+	inst[2931].Selectable = false
 	inst[2931].ZIndex = 1
 	inst[2931].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2931].Image = 'rbxassetid://10709790644'
@@ -41370,7 +41370,7 @@ local function buildUI()
 	inst[2948].AutomaticSize = Enum.AutomaticSize.None
 	inst[2948].LayoutOrder = 3
 	inst[2948].Active = true
-	inst[2948].Selectable = true
+	inst[2948].Selectable = false
 	inst[2948].ZIndex = 1
 	inst[2948].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2948].Image = ''
@@ -41395,7 +41395,7 @@ local function buildUI()
 	inst[2949].Rotation = 0
 	inst[2949].AutomaticSize = Enum.AutomaticSize.None
 	inst[2949].LayoutOrder = 0
-	inst[2949].Selectable = true
+	inst[2949].Selectable = false
 	inst[2949].ZIndex = 1
 	inst[2949].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2949].Image = 'rbxassetid://14187749511'
@@ -41632,7 +41632,7 @@ local function buildUI()
 	inst[2969].AutomaticSize = Enum.AutomaticSize.None
 	inst[2969].LayoutOrder = 1
 	inst[2969].Active = true
-	inst[2969].Selectable = true
+	inst[2969].Selectable = false
 	inst[2969].ZIndex = 1
 	inst[2969].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2969].Image = ''
@@ -41661,7 +41661,7 @@ local function buildUI()
 	inst[2971].Rotation = 0
 	inst[2971].AutomaticSize = Enum.AutomaticSize.None
 	inst[2971].LayoutOrder = 0
-	inst[2971].Selectable = true
+	inst[2971].Selectable = false
 	inst[2971].ZIndex = 1
 	inst[2971].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2971].Image = 'rbxassetid://138426819549450'
@@ -41701,7 +41701,7 @@ local function buildUI()
 	inst[2975].Rotation = 0
 	inst[2975].AutomaticSize = Enum.AutomaticSize.None
 	inst[2975].LayoutOrder = 0
-	inst[2975].Selectable = true
+	inst[2975].Selectable = false
 	inst[2975].ZIndex = 1
 	inst[2975].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2975].Image = 'rbxassetid://138426819549450'
@@ -41734,7 +41734,7 @@ local function buildUI()
 	inst[2978].Rotation = 0
 	inst[2978].AutomaticSize = Enum.AutomaticSize.None
 	inst[2978].LayoutOrder = 0
-	inst[2978].Selectable = true
+	inst[2978].Selectable = false
 	inst[2978].ZIndex = 1
 	inst[2978].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2978].Image = 'rbxassetid://10709790644'
@@ -41764,7 +41764,7 @@ local function buildUI()
 	inst[2980].AutomaticSize = Enum.AutomaticSize.None
 	inst[2980].LayoutOrder = 2
 	inst[2980].Active = true
-	inst[2980].Selectable = true
+	inst[2980].Selectable = false
 	inst[2980].ZIndex = 1
 	inst[2980].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2980].Text = 'Name'
@@ -41799,7 +41799,7 @@ local function buildUI()
 	inst[2983].AutomaticSize = Enum.AutomaticSize.None
 	inst[2983].LayoutOrder = 3
 	inst[2983].Active = true
-	inst[2983].Selectable = true
+	inst[2983].Selectable = false
 	inst[2983].ZIndex = 1
 	inst[2983].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2983].Text = 'Ban Type'
@@ -41831,7 +41831,7 @@ local function buildUI()
 	inst[2985].AutomaticSize = Enum.AutomaticSize.None
 	inst[2985].LayoutOrder = 3
 	inst[2985].Active = true
-	inst[2985].Selectable = true
+	inst[2985].Selectable = false
 	inst[2985].ZIndex = 1
 	inst[2985].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2985].Text = 'Action'
@@ -41926,7 +41926,7 @@ local function buildUI()
 	inst[2992].AutomaticSize = Enum.AutomaticSize.None
 	inst[2992].LayoutOrder = 1
 	inst[2992].Active = true
-	inst[2992].Selectable = true
+	inst[2992].Selectable = false
 	inst[2992].ZIndex = 1
 	inst[2992].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2992].Image = 'rbxassetid://125088425775676'
@@ -41955,7 +41955,7 @@ local function buildUI()
 	inst[2994].AutomaticSize = Enum.AutomaticSize.None
 	inst[2994].LayoutOrder = 1
 	inst[2994].Active = true
-	inst[2994].Selectable = true
+	inst[2994].Selectable = false
 	inst[2994].ZIndex = 1
 	inst[2994].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[2994].Text = ''
@@ -42029,7 +42029,7 @@ local function buildUI()
 	inst[3000].AutomaticSize = Enum.AutomaticSize.None
 	inst[3000].LayoutOrder = 3
 	inst[3000].Active = true
-	inst[3000].Selectable = true
+	inst[3000].Selectable = false
 	inst[3000].ZIndex = 1
 	inst[3000].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3000].Image = 'rbxassetid://125088425775676'
@@ -42054,7 +42054,7 @@ local function buildUI()
 	inst[3001].Rotation = 0
 	inst[3001].AutomaticSize = Enum.AutomaticSize.None
 	inst[3001].LayoutOrder = 0
-	inst[3001].Selectable = true
+	inst[3001].Selectable = false
 	inst[3001].ZIndex = 1
 	inst[3001].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3001].Image = 'rbxassetid://11293978505'
@@ -42204,7 +42204,7 @@ local function buildUI()
 	inst[3013].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3013].LayoutOrder = 5
 	inst[3013].Active = true
-	inst[3013].Selectable = true
+	inst[3013].Selectable = false
 	inst[3013].ZIndex = 1
 	inst[3013].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3013].Image = ''
@@ -42254,7 +42254,7 @@ local function buildUI()
 	inst[3016].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3016].LayoutOrder = 1
 	inst[3016].Active = true
-	inst[3016].Selectable = true
+	inst[3016].Selectable = false
 	inst[3016].ZIndex = 1
 	inst[3016].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3016].Image = ''
@@ -42300,7 +42300,7 @@ local function buildUI()
 	inst[3020].AutomaticSize = Enum.AutomaticSize.X
 	inst[3020].LayoutOrder = 0
 	inst[3020].Active = true
-	inst[3020].Selectable = true
+	inst[3020].Selectable = false
 	inst[3020].ZIndex = 1
 	inst[3020].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3020].Image = ''
@@ -42427,7 +42427,7 @@ local function buildUI()
 	inst[3030].AutomaticSize = Enum.AutomaticSize.None
 	inst[3030].LayoutOrder = 0
 	inst[3030].Active = true
-	inst[3030].Selectable = true
+	inst[3030].Selectable = false
 	inst[3030].ZIndex = 1
 	inst[3030].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3030].Image = ''
@@ -42481,7 +42481,7 @@ local function buildUI()
 	inst[3033].AutomaticSize = Enum.AutomaticSize.None
 	inst[3033].LayoutOrder = 0
 	inst[3033].Active = true
-	inst[3033].Selectable = true
+	inst[3033].Selectable = false
 	inst[3033].ZIndex = 1
 	inst[3033].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3033].Image = ''
@@ -42551,7 +42551,7 @@ local function buildUI()
 	inst[3038].AutomaticSize = Enum.AutomaticSize.None
 	inst[3038].LayoutOrder = 999999999
 	inst[3038].Active = true
-	inst[3038].Selectable = true
+	inst[3038].Selectable = false
 	inst[3038].ZIndex = 1
 	inst[3038].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3038].Text = ''
@@ -42654,7 +42654,7 @@ local function buildUI()
 	inst[3048].AutomaticSize = Enum.AutomaticSize.X
 	inst[3048].LayoutOrder = 1
 	inst[3048].Active = true
-	inst[3048].Selectable = true
+	inst[3048].Selectable = false
 	inst[3048].ZIndex = 1
 	inst[3048].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3048].Image = ''
@@ -42749,7 +42749,7 @@ local function buildUI()
 	inst[3054].AutomaticSize = Enum.AutomaticSize.X
 	inst[3054].LayoutOrder = 2
 	inst[3054].Active = true
-	inst[3054].Selectable = true
+	inst[3054].Selectable = false
 	inst[3054].ZIndex = 1
 	inst[3054].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3054].Image = ''
@@ -42844,7 +42844,7 @@ local function buildUI()
 	inst[3060].AutomaticSize = Enum.AutomaticSize.X
 	inst[3060].LayoutOrder = 3
 	inst[3060].Active = true
-	inst[3060].Selectable = true
+	inst[3060].Selectable = false
 	inst[3060].ZIndex = 2
 	inst[3060].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3060].Image = ''
@@ -43068,7 +43068,7 @@ local function buildUI()
 	inst[3075].AutomaticSize = Enum.AutomaticSize.None
 	inst[3075].LayoutOrder = 0
 	inst[3075].Active = true
-	inst[3075].Selectable = true
+	inst[3075].Selectable = false
 	inst[3075].ZIndex = 1
 	inst[3075].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3075].Image = 'rbxassetid://125088425775676'
@@ -43102,7 +43102,7 @@ local function buildUI()
 	inst[3077].AutomaticSize = Enum.AutomaticSize.None
 	inst[3077].LayoutOrder = 0
 	inst[3077].Active = true
-	inst[3077].Selectable = true
+	inst[3077].Selectable = false
 	inst[3077].ZIndex = 1
 	inst[3077].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3077].ScrollBarThickness = 0
@@ -43139,7 +43139,7 @@ local function buildUI()
 	inst[3080].AutomaticSize = Enum.AutomaticSize.None
 	inst[3080].LayoutOrder = 2
 	inst[3080].Active = true
-	inst[3080].Selectable = true
+	inst[3080].Selectable = false
 	inst[3080].ZIndex = 1
 	inst[3080].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3080].Image = 'rbxassetid://125088425775676'
@@ -43193,7 +43193,7 @@ local function buildUI()
 	inst[3083].Rotation = 0
 	inst[3083].AutomaticSize = Enum.AutomaticSize.None
 	inst[3083].LayoutOrder = 0
-	inst[3083].Selectable = true
+	inst[3083].Selectable = false
 	inst[3083].ZIndex = 1
 	inst[3083].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3083].Image = 'rbxassetid://125088425775676'
@@ -43351,7 +43351,7 @@ local function buildUI()
 	inst[3093].AutomaticSize = Enum.AutomaticSize.None
 	inst[3093].LayoutOrder = 0
 	inst[3093].Active = true
-	inst[3093].Selectable = true
+	inst[3093].Selectable = false
 	inst[3093].ZIndex = 1
 	inst[3093].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3093].ScrollBarThickness = 0
@@ -43388,7 +43388,7 @@ local function buildUI()
 	inst[3096].AutomaticSize = Enum.AutomaticSize.None
 	inst[3096].LayoutOrder = 2
 	inst[3096].Active = true
-	inst[3096].Selectable = true
+	inst[3096].Selectable = false
 	inst[3096].ZIndex = 1
 	inst[3096].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3096].Image = 'rbxassetid://125088425775676'
@@ -43516,7 +43516,7 @@ local function buildUI()
 	inst[3106].Rotation = 0
 	inst[3106].AutomaticSize = Enum.AutomaticSize.None
 	inst[3106].LayoutOrder = 1
-	inst[3106].Selectable = true
+	inst[3106].Selectable = false
 	inst[3106].ZIndex = 1
 	inst[3106].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3106].Image = 'rbxassetid://138426819549450'
@@ -43577,7 +43577,7 @@ local function buildUI()
 	inst[3110].Rotation = 0
 	inst[3110].AutomaticSize = Enum.AutomaticSize.None
 	inst[3110].LayoutOrder = 2
-	inst[3110].Selectable = true
+	inst[3110].Selectable = false
 	inst[3110].ZIndex = 1
 	inst[3110].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3110].Image = 'rbxassetid://138426819549450'
@@ -43638,7 +43638,7 @@ local function buildUI()
 	inst[3114].Rotation = 0
 	inst[3114].AutomaticSize = Enum.AutomaticSize.None
 	inst[3114].LayoutOrder = 3
-	inst[3114].Selectable = true
+	inst[3114].Selectable = false
 	inst[3114].ZIndex = 1
 	inst[3114].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3114].Image = 'rbxassetid://138426819549450'
@@ -43808,7 +43808,7 @@ local function buildUI()
 	inst[3128].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3128].LayoutOrder = 0
 	inst[3128].Active = true
-	inst[3128].Selectable = true
+	inst[3128].Selectable = false
 	inst[3128].ZIndex = 1
 	inst[3128].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3128].Image = ''
@@ -44049,7 +44049,7 @@ local function buildUI()
 	inst[3146].Rotation = 0
 	inst[3146].AutomaticSize = Enum.AutomaticSize.None
 	inst[3146].LayoutOrder = 1
-	inst[3146].Selectable = true
+	inst[3146].Selectable = false
 	inst[3146].ZIndex = 1
 	inst[3146].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3146].Image = ''
@@ -44312,7 +44312,7 @@ local function buildUI()
 	inst[3163].AutomaticSize = Enum.AutomaticSize.None
 	inst[3163].LayoutOrder = 0
 	inst[3163].Active = true
-	inst[3163].Selectable = true
+	inst[3163].Selectable = false
 	inst[3163].ZIndex = 1
 	inst[3163].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3163].ScrollBarThickness = 0
@@ -44442,7 +44442,7 @@ local function buildUI()
 	inst[3174].AutomaticSize = Enum.AutomaticSize.None
 	inst[3174].LayoutOrder = 1
 	inst[3174].Active = true
-	inst[3174].Selectable = true
+	inst[3174].Selectable = false
 	inst[3174].ZIndex = 1
 	inst[3174].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3174].Image = 'rbxassetid://125088425775676'
@@ -44471,7 +44471,7 @@ local function buildUI()
 	inst[3176].AutomaticSize = Enum.AutomaticSize.None
 	inst[3176].LayoutOrder = 1
 	inst[3176].Active = true
-	inst[3176].Selectable = true
+	inst[3176].Selectable = false
 	inst[3176].ZIndex = 1
 	inst[3176].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3176].Text = ''
@@ -44562,7 +44562,7 @@ local function buildUI()
 	inst[3183].AutomaticSize = Enum.AutomaticSize.None
 	inst[3183].LayoutOrder = 2
 	inst[3183].Active = true
-	inst[3183].Selectable = true
+	inst[3183].Selectable = false
 	inst[3183].ZIndex = 1
 	inst[3183].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3183].ScrollBarThickness = 4
@@ -44593,7 +44593,7 @@ local function buildUI()
 	inst[3185].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3185].LayoutOrder = 0
 	inst[3185].Active = true
-	inst[3185].Selectable = true
+	inst[3185].Selectable = false
 	inst[3185].ZIndex = 1
 	inst[3185].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3185].Image = ''
@@ -44663,7 +44663,7 @@ local function buildUI()
 	inst[3191].Rotation = 0
 	inst[3191].AutomaticSize = Enum.AutomaticSize.None
 	inst[3191].LayoutOrder = 3
-	inst[3191].Selectable = true
+	inst[3191].Selectable = false
 	inst[3191].ZIndex = 1
 	inst[3191].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3191].Image = 'rbxassetid://138426819549450'
@@ -44692,7 +44692,7 @@ local function buildUI()
 	inst[3193].Rotation = 0
 	inst[3193].AutomaticSize = Enum.AutomaticSize.None
 	inst[3193].LayoutOrder = 0
-	inst[3193].Selectable = true
+	inst[3193].Selectable = false
 	inst[3193].ZIndex = 1
 	inst[3193].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3193].Image = 'rbxassetid://11419703997'
@@ -44852,7 +44852,7 @@ local function buildUI()
 	inst[3205].AutomaticSize = Enum.AutomaticSize.None
 	inst[3205].LayoutOrder = 1
 	inst[3205].Active = true
-	inst[3205].Selectable = true
+	inst[3205].Selectable = false
 	inst[3205].ZIndex = 1
 	inst[3205].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3205].Image = 'rbxassetid://125088425775676'
@@ -44878,7 +44878,7 @@ local function buildUI()
 	inst[3206].AutomaticSize = Enum.AutomaticSize.None
 	inst[3206].LayoutOrder = 1
 	inst[3206].Active = true
-	inst[3206].Selectable = true
+	inst[3206].Selectable = false
 	inst[3206].ZIndex = 1
 	inst[3206].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3206].Text = ''
@@ -44924,7 +44924,7 @@ local function buildUI()
 	inst[3210].AutomaticSize = Enum.AutomaticSize.None
 	inst[3210].LayoutOrder = 1
 	inst[3210].Active = true
-	inst[3210].Selectable = true
+	inst[3210].Selectable = false
 	inst[3210].ZIndex = 1
 	inst[3210].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3210].Image = 'rbxassetid://125088425775676'
@@ -45054,7 +45054,7 @@ local function buildUI()
 	inst[3220].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3220].LayoutOrder = 1
 	inst[3220].Active = true
-	inst[3220].Selectable = true
+	inst[3220].Selectable = false
 	inst[3220].ZIndex = 1
 	inst[3220].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3220].Image = ''
@@ -45088,7 +45088,7 @@ local function buildUI()
 	inst[3222].AutomaticSize = Enum.AutomaticSize.None
 	inst[3222].LayoutOrder = 3
 	inst[3222].Active = true
-	inst[3222].Selectable = true
+	inst[3222].Selectable = false
 	inst[3222].ZIndex = 1
 	inst[3222].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3222].Parent = inst[3220]
@@ -45237,7 +45237,7 @@ local function buildUI()
 	inst[3232].AutomaticSize = Enum.AutomaticSize.None
 	inst[3232].LayoutOrder = 3
 	inst[3232].Active = true
-	inst[3232].Selectable = true
+	inst[3232].Selectable = false
 	inst[3232].ZIndex = 1
 	inst[3232].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3232].Parent = inst[3220]
@@ -45401,7 +45401,7 @@ local function buildUI()
 	inst[3246].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3246].LayoutOrder = 0
 	inst[3246].Active = true
-	inst[3246].Selectable = true
+	inst[3246].Selectable = false
 	inst[3246].ZIndex = 1
 	inst[3246].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3246].Image = ''
@@ -45535,7 +45535,7 @@ local function buildUI()
 	inst[3256].Rotation = 0
 	inst[3256].AutomaticSize = Enum.AutomaticSize.None
 	inst[3256].LayoutOrder = 99
-	inst[3256].Selectable = true
+	inst[3256].Selectable = false
 	inst[3256].ZIndex = 1
 	inst[3256].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3256].Parent = inst[3246]
@@ -45600,7 +45600,7 @@ local function buildUI()
 	inst[3262].Rotation = 0
 	inst[3262].AutomaticSize = Enum.AutomaticSize.None
 	inst[3262].LayoutOrder = 0
-	inst[3262].Selectable = true
+	inst[3262].Selectable = false
 	inst[3262].ZIndex = 1
 	inst[3262].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3262].Image = 'rbxassetid://125088425775676'
@@ -45726,7 +45726,7 @@ local function buildUI()
 	inst[3270].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3270].LayoutOrder = 0
 	inst[3270].Active = true
-	inst[3270].Selectable = true
+	inst[3270].Selectable = false
 	inst[3270].ZIndex = 1
 	inst[3270].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3270].Image = ''
@@ -45760,7 +45760,7 @@ local function buildUI()
 	inst[3272].AutomaticSize = Enum.AutomaticSize.None
 	inst[3272].LayoutOrder = 1
 	inst[3272].Active = true
-	inst[3272].Selectable = true
+	inst[3272].Selectable = false
 	inst[3272].ZIndex = 1
 	inst[3272].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3272].Parent = inst[3271]
@@ -45924,7 +45924,7 @@ local function buildUI()
 	inst[3287].Rotation = 0
 	inst[3287].AutomaticSize = Enum.AutomaticSize.None
 	inst[3287].LayoutOrder = 99
-	inst[3287].Selectable = true
+	inst[3287].Selectable = false
 	inst[3287].ZIndex = 1
 	inst[3287].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3287].Parent = inst[3270]
@@ -45989,7 +45989,7 @@ local function buildUI()
 	inst[3293].Rotation = 0
 	inst[3293].AutomaticSize = Enum.AutomaticSize.None
 	inst[3293].LayoutOrder = 0
-	inst[3293].Selectable = true
+	inst[3293].Selectable = false
 	inst[3293].ZIndex = 1
 	inst[3293].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3293].Image = 'rbxassetid://125088425775676'
@@ -46235,7 +46235,7 @@ local function buildUI()
 	inst[3311].AutomaticSize = Enum.AutomaticSize.X
 	inst[3311].LayoutOrder = 3
 	inst[3311].Active = true
-	inst[3311].Selectable = true
+	inst[3311].Selectable = false
 	inst[3311].ZIndex = 1
 	inst[3311].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3311].Image = ''
@@ -46592,7 +46592,7 @@ local function buildUI()
 	inst[3341].AutomaticSize = Enum.AutomaticSize.None
 	inst[3341].LayoutOrder = 0
 	inst[3341].Active = true
-	inst[3341].Selectable = true
+	inst[3341].Selectable = false
 	inst[3341].ZIndex = 1
 	inst[3341].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3341].ScrollBarThickness = 0
@@ -46653,7 +46653,7 @@ local function buildUI()
 	inst[3346].AutomaticSize = Enum.AutomaticSize.None
 	inst[3346].LayoutOrder = 1
 	inst[3346].Active = true
-	inst[3346].Selectable = true
+	inst[3346].Selectable = false
 	inst[3346].ZIndex = 1
 	inst[3346].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3346].Image = 'rbxassetid://125088425775676'
@@ -46682,7 +46682,7 @@ local function buildUI()
 	inst[3348].AutomaticSize = Enum.AutomaticSize.None
 	inst[3348].LayoutOrder = 1
 	inst[3348].Active = true
-	inst[3348].Selectable = true
+	inst[3348].Selectable = false
 	inst[3348].ZIndex = 1
 	inst[3348].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3348].Text = ''
@@ -46756,7 +46756,7 @@ local function buildUI()
 	inst[3354].AutomaticSize = Enum.AutomaticSize.None
 	inst[3354].LayoutOrder = 3
 	inst[3354].Active = true
-	inst[3354].Selectable = true
+	inst[3354].Selectable = false
 	inst[3354].ZIndex = 1
 	inst[3354].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3354].Image = 'rbxassetid://125088425775676'
@@ -46781,7 +46781,7 @@ local function buildUI()
 	inst[3355].Rotation = 0
 	inst[3355].AutomaticSize = Enum.AutomaticSize.None
 	inst[3355].LayoutOrder = 0
-	inst[3355].Selectable = true
+	inst[3355].Selectable = false
 	inst[3355].ZIndex = 1
 	inst[3355].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3355].Image = 'rbxassetid://11293978505'
@@ -46832,7 +46832,7 @@ local function buildUI()
 	inst[3359].AutomaticSize = Enum.AutomaticSize.None
 	inst[3359].LayoutOrder = 2
 	inst[3359].Active = true
-	inst[3359].Selectable = true
+	inst[3359].Selectable = false
 	inst[3359].ZIndex = 1
 	inst[3359].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3359].ScrollBarThickness = 4
@@ -46886,7 +46886,7 @@ local function buildUI()
 	inst[3363].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3363].LayoutOrder = 0
 	inst[3363].Active = true
-	inst[3363].Selectable = true
+	inst[3363].Selectable = false
 	inst[3363].ZIndex = 1
 	inst[3363].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3363].Image = ''
@@ -47016,7 +47016,7 @@ local function buildUI()
 	inst[3373].AutomaticSize = Enum.AutomaticSize.X
 	inst[3373].LayoutOrder = 0
 	inst[3373].Active = true
-	inst[3373].Selectable = true
+	inst[3373].Selectable = false
 	inst[3373].ZIndex = 1
 	inst[3373].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3373].Image = ''
@@ -47122,7 +47122,7 @@ local function buildUI()
 	inst[3382].AutomaticSize = Enum.AutomaticSize.None
 	inst[3382].LayoutOrder = 0
 	inst[3382].Active = true
-	inst[3382].Selectable = true
+	inst[3382].Selectable = false
 	inst[3382].ZIndex = 1
 	inst[3382].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3382].Image = ''
@@ -47147,7 +47147,7 @@ local function buildUI()
 	inst[3383].Rotation = 0
 	inst[3383].AutomaticSize = Enum.AutomaticSize.None
 	inst[3383].LayoutOrder = 0
-	inst[3383].Selectable = true
+	inst[3383].Selectable = false
 	inst[3383].ZIndex = 1
 	inst[3383].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3383].Image = 'rbxassetid://11421092947'
@@ -47548,7 +47548,7 @@ local function buildUI()
 	inst[3418].AutomaticSize = Enum.AutomaticSize.None
 	inst[3418].LayoutOrder = 0
 	inst[3418].Active = true
-	inst[3418].Selectable = true
+	inst[3418].Selectable = false
 	inst[3418].ZIndex = 1
 	inst[3418].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3418].Image = 'rbxassetid://125088425775676'
@@ -47737,7 +47737,7 @@ local function buildUI()
 	inst[3430].Rotation = 0
 	inst[3430].AutomaticSize = Enum.AutomaticSize.None
 	inst[3430].LayoutOrder = 0
-	inst[3430].Selectable = true
+	inst[3430].Selectable = false
 	inst[3430].ZIndex = 1
 	inst[3430].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3430].Parent = inst[3429]
@@ -47882,7 +47882,7 @@ local function buildUI()
 	inst[3440].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3440].LayoutOrder = 0
 	inst[3440].Active = true
-	inst[3440].Selectable = true
+	inst[3440].Selectable = false
 	inst[3440].ZIndex = 1
 	inst[3440].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3440].Image = ''
@@ -48408,7 +48408,7 @@ local function buildUI()
 	inst[3477].AutomaticSize = Enum.AutomaticSize.X
 	inst[3477].LayoutOrder = 0
 	inst[3477].Active = true
-	inst[3477].Selectable = true
+	inst[3477].Selectable = false
 	inst[3477].ZIndex = 1
 	inst[3477].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3477].Image = ''
@@ -48647,7 +48647,7 @@ local function buildUI()
 	inst[3496].AutomaticSize = Enum.AutomaticSize.X
 	inst[3496].LayoutOrder = 0
 	inst[3496].Active = true
-	inst[3496].Selectable = true
+	inst[3496].Selectable = false
 	inst[3496].ZIndex = 1
 	inst[3496].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3496].Image = ''
@@ -49050,7 +49050,7 @@ local function buildUI()
 	inst[3525].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3525].LayoutOrder = 2
 	inst[3525].Active = true
-	inst[3525].Selectable = true
+	inst[3525].Selectable = false
 	inst[3525].ZIndex = 1
 	inst[3525].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3525].Image = 'rbxassetid://72548733587158'
@@ -49103,7 +49103,7 @@ local function buildUI()
 	inst[3529].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3529].LayoutOrder = 2
 	inst[3529].Active = true
-	inst[3529].Selectable = true
+	inst[3529].Selectable = false
 	inst[3529].ZIndex = 1
 	inst[3529].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3529].Text = ''
@@ -49143,7 +49143,7 @@ local function buildUI()
 	inst[3532].AutomaticSize = Enum.AutomaticSize.None
 	inst[3532].LayoutOrder = 4
 	inst[3532].Active = true
-	inst[3532].Selectable = true
+	inst[3532].Selectable = false
 	inst[3532].ZIndex = 1
 	inst[3532].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3532].Image = ''
@@ -49204,7 +49204,7 @@ local function buildUI()
 	inst[3536].AutomaticSize = Enum.AutomaticSize.None
 	inst[3536].LayoutOrder = 1
 	inst[3536].Active = true
-	inst[3536].Selectable = true
+	inst[3536].Selectable = false
 	inst[3536].ZIndex = 1
 	inst[3536].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3536].Image = ''
@@ -49273,7 +49273,7 @@ local function buildUI()
 	inst[3540].AutomaticSize = Enum.AutomaticSize.None
 	inst[3540].LayoutOrder = 9999999
 	inst[3540].Active = true
-	inst[3540].Selectable = true
+	inst[3540].Selectable = false
 	inst[3540].ZIndex = 1
 	inst[3540].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3540].Image = ''
@@ -49325,7 +49325,7 @@ local function buildUI()
 	inst[3543].Rotation = 0
 	inst[3543].AutomaticSize = Enum.AutomaticSize.None
 	inst[3543].LayoutOrder = 9999999
-	inst[3543].Selectable = true
+	inst[3543].Selectable = false
 	inst[3543].ZIndex = 1
 	inst[3543].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3543].Image = ''
@@ -49403,7 +49403,7 @@ local function buildUI()
 	inst[3548].AutomaticSize = Enum.AutomaticSize.None
 	inst[3548].LayoutOrder = 0
 	inst[3548].Active = true
-	inst[3548].Selectable = true
+	inst[3548].Selectable = false
 	inst[3548].ZIndex = 1
 	inst[3548].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3548].Image = 'rbxassetid://72548733587158'
@@ -49471,7 +49471,7 @@ local function buildUI()
 	inst[3554].AutomaticSize = Enum.AutomaticSize.None
 	inst[3554].LayoutOrder = 0
 	inst[3554].Active = true
-	inst[3554].Selectable = true
+	inst[3554].Selectable = false
 	inst[3554].ZIndex = 1
 	inst[3554].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3554].Image = 'rbxassetid://125088425775676'
@@ -49521,7 +49521,7 @@ local function buildUI()
 	inst[3556].AutomaticSize = Enum.AutomaticSize.None
 	inst[3556].LayoutOrder = 0
 	inst[3556].Active = true
-	inst[3556].Selectable = true
+	inst[3556].Selectable = false
 	inst[3556].ZIndex = 1
 	inst[3556].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3556].Image = 'rbxassetid://72548733587158'
@@ -49659,7 +49659,7 @@ local function buildUI()
 	inst[3566].AutomaticSize = Enum.AutomaticSize.None
 	inst[3566].LayoutOrder = 0
 	inst[3566].Active = true
-	inst[3566].Selectable = true
+	inst[3566].Selectable = false
 	inst[3566].ZIndex = 1
 	inst[3566].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3566].Image = 'rbxassetid://125088425775676'
@@ -49742,7 +49742,7 @@ local function buildUI()
 	inst[3570].AutomaticSize = Enum.AutomaticSize.None
 	inst[3570].LayoutOrder = 0
 	inst[3570].Active = true
-	inst[3570].Selectable = true
+	inst[3570].Selectable = false
 	inst[3570].ZIndex = 1
 	inst[3570].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3570].ScrollBarThickness = 0
@@ -49879,7 +49879,7 @@ local function buildUI()
 	inst[3581].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3581].LayoutOrder = 10
 	inst[3581].Active = true
-	inst[3581].Selectable = true
+	inst[3581].Selectable = false
 	inst[3581].ZIndex = 1
 	inst[3581].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3581].Image = ''
@@ -49994,7 +49994,7 @@ local function buildUI()
 	inst[3588].AutomaticSize = Enum.AutomaticSize.X
 	inst[3588].LayoutOrder = 3
 	inst[3588].Active = true
-	inst[3588].Selectable = true
+	inst[3588].Selectable = false
 	inst[3588].ZIndex = 1
 	inst[3588].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3588].Image = ''
@@ -50019,7 +50019,7 @@ local function buildUI()
 	inst[3589].Rotation = 0
 	inst[3589].AutomaticSize = Enum.AutomaticSize.X
 	inst[3589].LayoutOrder = 0
-	inst[3589].Selectable = true
+	inst[3589].Selectable = false
 	inst[3589].ZIndex = 1
 	inst[3589].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3589].Text = 'Clear'
@@ -50058,7 +50058,7 @@ local function buildUI()
 	inst[3592].AutomaticSize = Enum.AutomaticSize.Y
 	inst[3592].LayoutOrder = 10
 	inst[3592].Active = true
-	inst[3592].Selectable = true
+	inst[3592].Selectable = false
 	inst[3592].ZIndex = 1
 	inst[3592].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3592].Image = ''
@@ -50173,7 +50173,7 @@ local function buildUI()
 	inst[3599].AutomaticSize = Enum.AutomaticSize.X
 	inst[3599].LayoutOrder = 3
 	inst[3599].Active = true
-	inst[3599].Selectable = true
+	inst[3599].Selectable = false
 	inst[3599].ZIndex = 1
 	inst[3599].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3599].Image = ''
@@ -50198,7 +50198,7 @@ local function buildUI()
 	inst[3600].Rotation = 0
 	inst[3600].AutomaticSize = Enum.AutomaticSize.X
 	inst[3600].LayoutOrder = 0
-	inst[3600].Selectable = true
+	inst[3600].Selectable = false
 	inst[3600].ZIndex = 1
 	inst[3600].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3600].Text = 'Clear'
@@ -50327,7 +50327,7 @@ local function buildUI()
 	inst[3612].AutomaticSize = Enum.AutomaticSize.None
 	inst[3612].LayoutOrder = 0
 	inst[3612].Active = true
-	inst[3612].Selectable = true
+	inst[3612].Selectable = false
 	inst[3612].ZIndex = 1
 	inst[3612].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3612].Image = ''
@@ -50416,7 +50416,7 @@ local function buildUI()
 	inst[3617].AutomaticSize = Enum.AutomaticSize.None
 	inst[3617].LayoutOrder = 0
 	inst[3617].Active = true
-	inst[3617].Selectable = true
+	inst[3617].Selectable = false
 	inst[3617].ZIndex = 1
 	inst[3617].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3617].Image = ''
@@ -50576,7 +50576,7 @@ local function buildUI()
 	inst[3628].AutomaticSize = Enum.AutomaticSize.None
 	inst[3628].LayoutOrder = 0
 	inst[3628].Active = true
-	inst[3628].Selectable = true
+	inst[3628].Selectable = false
 	inst[3628].ZIndex = 1
 	inst[3628].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3628].Image = ''
@@ -50665,7 +50665,7 @@ local function buildUI()
 	inst[3633].AutomaticSize = Enum.AutomaticSize.None
 	inst[3633].LayoutOrder = 0
 	inst[3633].Active = true
-	inst[3633].Selectable = true
+	inst[3633].Selectable = false
 	inst[3633].ZIndex = 1
 	inst[3633].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3633].Image = ''
@@ -50825,7 +50825,7 @@ local function buildUI()
 	inst[3644].AutomaticSize = Enum.AutomaticSize.None
 	inst[3644].LayoutOrder = 2
 	inst[3644].Active = true
-	inst[3644].Selectable = true
+	inst[3644].Selectable = false
 	inst[3644].ZIndex = 1
 	inst[3644].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3644].Image = ''
@@ -50914,7 +50914,7 @@ local function buildUI()
 	inst[3649].AutomaticSize = Enum.AutomaticSize.None
 	inst[3649].LayoutOrder = 1
 	inst[3649].Active = true
-	inst[3649].Selectable = true
+	inst[3649].Selectable = false
 	inst[3649].ZIndex = 1
 	inst[3649].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3649].Image = ''
@@ -51003,7 +51003,7 @@ local function buildUI()
 	inst[3654].AutomaticSize = Enum.AutomaticSize.None
 	inst[3654].LayoutOrder = 3
 	inst[3654].Active = true
-	inst[3654].Selectable = true
+	inst[3654].Selectable = false
 	inst[3654].ZIndex = 1
 	inst[3654].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3654].Image = ''
@@ -51126,7 +51126,7 @@ local function buildUI()
 	inst[3662].AutomaticSize = Enum.AutomaticSize.None
 	inst[3662].LayoutOrder = 1
 	inst[3662].Active = true
-	inst[3662].Selectable = true
+	inst[3662].Selectable = false
 	inst[3662].ZIndex = 1
 	inst[3662].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3662].Image = ''
@@ -51252,7 +51252,7 @@ local function buildUI()
 	inst[3670].AutomaticSize = Enum.AutomaticSize.None
 	inst[3670].LayoutOrder = 1
 	inst[3670].Active = true
-	inst[3670].Selectable = true
+	inst[3670].Selectable = false
 	inst[3670].ZIndex = 1
 	inst[3670].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3670].Image = ''
@@ -51386,7 +51386,7 @@ local function buildUI()
 	inst[3680].AutomaticSize = Enum.AutomaticSize.None
 	inst[3680].LayoutOrder = 0
 	inst[3680].Active = true
-	inst[3680].Selectable = true
+	inst[3680].Selectable = false
 	inst[3680].ZIndex = 1
 	inst[3680].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3680].Image = ''
@@ -51475,7 +51475,7 @@ local function buildUI()
 	inst[3685].AutomaticSize = Enum.AutomaticSize.None
 	inst[3685].LayoutOrder = 0
 	inst[3685].Active = true
-	inst[3685].Selectable = true
+	inst[3685].Selectable = false
 	inst[3685].ZIndex = 1
 	inst[3685].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3685].Image = ''
@@ -51573,7 +51573,7 @@ local function buildUI()
 	inst[3691].AutomaticSize = Enum.AutomaticSize.None
 	inst[3691].LayoutOrder = 0
 	inst[3691].Active = true
-	inst[3691].Selectable = true
+	inst[3691].Selectable = false
 	inst[3691].ZIndex = 1
 	inst[3691].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3691].Image = ''
@@ -51739,7 +51739,7 @@ local function buildUI()
 	inst[3701].AutomaticSize = Enum.AutomaticSize.None
 	inst[3701].LayoutOrder = 1
 	inst[3701].Active = true
-	inst[3701].Selectable = true
+	inst[3701].Selectable = false
 	inst[3701].ZIndex = 1
 	inst[3701].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3701].Image = ''
@@ -51829,7 +51829,7 @@ local function buildUI()
 	inst[3707].AutomaticSize = Enum.AutomaticSize.None
 	inst[3707].LayoutOrder = 2
 	inst[3707].Active = true
-	inst[3707].Selectable = true
+	inst[3707].Selectable = false
 	inst[3707].ZIndex = 1
 	inst[3707].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3707].Image = ''
@@ -51910,7 +51910,7 @@ local function buildUI()
 	inst[3712].AutomaticSize = Enum.AutomaticSize.None
 	inst[3712].LayoutOrder = 2
 	inst[3712].Active = true
-	inst[3712].Selectable = true
+	inst[3712].Selectable = false
 	inst[3712].ZIndex = 1
 	inst[3712].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3712].Image = ''
@@ -51992,7 +51992,7 @@ local function buildUI()
 	inst[3717].AutomaticSize = Enum.AutomaticSize.None
 	inst[3717].LayoutOrder = 3
 	inst[3717].Active = true
-	inst[3717].Selectable = true
+	inst[3717].Selectable = false
 	inst[3717].ZIndex = 1
 	inst[3717].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3717].Image = ''
@@ -52094,7 +52094,7 @@ local function buildUI()
 	inst[3724].AutomaticSize = Enum.AutomaticSize.None
 	inst[3724].LayoutOrder = 0
 	inst[3724].Active = true
-	inst[3724].Selectable = true
+	inst[3724].Selectable = false
 	inst[3724].ZIndex = 1
 	inst[3724].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3724].Image = ''
@@ -52120,7 +52120,7 @@ local function buildUI()
 	inst[3725].AutomaticSize = Enum.AutomaticSize.None
 	inst[3725].LayoutOrder = 0
 	inst[3725].Active = true
-	inst[3725].Selectable = true
+	inst[3725].Selectable = false
 	inst[3725].ZIndex = 10
 	inst[3725].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3725].Image = ''
@@ -52198,7 +52198,7 @@ local function buildUI()
 	inst[3730].AutomaticSize = Enum.AutomaticSize.None
 	inst[3730].LayoutOrder = 0
 	inst[3730].Active = true
-	inst[3730].Selectable = true
+	inst[3730].Selectable = false
 	inst[3730].ZIndex = 1
 	inst[3730].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3730].Image = ''
@@ -52286,7 +52286,7 @@ local function buildUI()
 	inst[3738].Rotation = 0
 	inst[3738].AutomaticSize = Enum.AutomaticSize.None
 	inst[3738].LayoutOrder = 0
-	inst[3738].Selectable = true
+	inst[3738].Selectable = false
 	inst[3738].ZIndex = 99
 	inst[3738].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3738].Visible = false
@@ -52305,7 +52305,7 @@ local function buildUI()
 	inst[3739].AutomaticSize = Enum.AutomaticSize.None
 	inst[3739].LayoutOrder = 0
 	inst[3739].Active = true
-	inst[3739].Selectable = true
+	inst[3739].Selectable = false
 	inst[3739].ZIndex = 99
 	inst[3739].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3739].Image = ''
@@ -52493,7 +52493,7 @@ local function buildUI()
 	inst[3754].Rotation = 0
 	inst[3754].AutomaticSize = Enum.AutomaticSize.None
 	inst[3754].LayoutOrder = 0
-	inst[3754].Selectable = true
+	inst[3754].Selectable = false
 	inst[3754].ZIndex = 100
 	inst[3754].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3754].Visible = false
@@ -52564,7 +52564,7 @@ local function buildUI()
 	inst[3759].AutomaticSize = Enum.AutomaticSize.X
 	inst[3759].LayoutOrder = 0
 	inst[3759].Active = true
-	inst[3759].Selectable = true
+	inst[3759].Selectable = false
 	inst[3759].ZIndex = 1
 	inst[3759].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3759].Image = ''
@@ -52666,7 +52666,7 @@ local function buildUI()
 	inst[3766].Rotation = 0
 	inst[3766].AutomaticSize = Enum.AutomaticSize.X
 	inst[3766].LayoutOrder = 0
-	inst[3766].Selectable = true
+	inst[3766].Selectable = false
 	inst[3766].ZIndex = 1
 	inst[3766].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3766].Parent = inst[3758]
@@ -52698,7 +52698,7 @@ local function buildUI()
 	inst[3769].Rotation = 0
 	inst[3769].AutomaticSize = Enum.AutomaticSize.X
 	inst[3769].LayoutOrder = -99
-	inst[3769].Selectable = true
+	inst[3769].Selectable = false
 	inst[3769].ZIndex = 1
 	inst[3769].SizeConstraint = Enum.SizeConstraint.RelativeXY
 	inst[3769].Parent = inst[3756]
