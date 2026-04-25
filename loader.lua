@@ -21,7 +21,6 @@ local function buildUI()
 	inst[1].Enabled = true
 	inst[1].ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 	inst[1].IgnoreGuiInset = true
-	inst[1].Parent = playerGui
 	inst[2] = Instance.new('UIScale')
 	inst[2].Name = 'scale'
 	inst[2].Scale = 1
@@ -52762,6 +52761,7 @@ local function buildUI()
 	end
 	_build26()
 
+	inst[1].Parent = playerGui
 end
 
 buildUI()
