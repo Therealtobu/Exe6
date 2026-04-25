@@ -32166,7 +32166,7 @@ local function buildUI()
 	inst[2292].Padding = UDim.new(0, 10)
 	inst[2292].FillDirection = Enum.FillDirection.Horizontal
 	inst[2292].HorizontalAlignment = Enum.HorizontalAlignment.Center
-	inst[2292].VerticalAlignment = Enum.VerticalAlignment.Top
+	inst[2292].VerticalAlignment = Enum.VerticalAlignment.Center
 	inst[2292].SortOrder = Enum.SortOrder.LayoutOrder
 	inst[2292].Parent = inst[2290]
 	inst[2293] = Instance.new('UIPadding')
@@ -32255,7 +32255,7 @@ local function buildUI()
 	inst[2299].Padding = UDim.new(0, 10)
 	inst[2299].FillDirection = Enum.FillDirection.Horizontal
 	inst[2299].HorizontalAlignment = Enum.HorizontalAlignment.Center
-	inst[2299].VerticalAlignment = Enum.VerticalAlignment.Top
+	inst[2299].VerticalAlignment = Enum.VerticalAlignment.Center
 	inst[2299].SortOrder = Enum.SortOrder.LayoutOrder
 	inst[2299].Parent = inst[2298]
 	inst[2300] = Instance.new('TextLabel')
@@ -32308,7 +32308,7 @@ local function buildUI()
 	inst[2303].Parent = inst[2301]
 	inst[2304] = Instance.new('CanvasGroup')
 	inst[2304].Name = 'badge_container'
-	inst[2304].Visible = true
+	inst[2304].Visible = false
 	inst[2304].Size = UDim2.new(0, 20, 0, 20)
 	inst[2304].Position = UDim2.new(1, 0, 0.5, 0)
 	inst[2304].AnchorPoint = Vector2.new(1, 0.5)
@@ -32413,7 +32413,7 @@ local function buildUI()
 	inst[2310].Padding = UDim.new(0, 10)
 	inst[2310].FillDirection = Enum.FillDirection.Horizontal
 	inst[2310].HorizontalAlignment = Enum.HorizontalAlignment.Center
-	inst[2310].VerticalAlignment = Enum.VerticalAlignment.Top
+	inst[2310].VerticalAlignment = Enum.VerticalAlignment.Center
 	inst[2310].SortOrder = Enum.SortOrder.LayoutOrder
 	inst[2310].Parent = inst[2309]
 	inst[2311] = Instance.new('TextLabel')
@@ -32466,7 +32466,7 @@ local function buildUI()
 	inst[2314].Parent = inst[2312]
 	inst[2315] = Instance.new('CanvasGroup')
 	inst[2315].Name = 'badge_container'
-	inst[2315].Visible = true
+	inst[2315].Visible = false
 	inst[2315].Size = UDim2.new(0, 20, 0, 20)
 	inst[2315].Position = UDim2.new(1, 0, 0.5, 0)
 	inst[2315].AnchorPoint = Vector2.new(1, 0.5)
@@ -32575,7 +32575,7 @@ local function buildUI()
 	inst[2321].Padding = UDim.new(0, 10)
 	inst[2321].FillDirection = Enum.FillDirection.Horizontal
 	inst[2321].HorizontalAlignment = Enum.HorizontalAlignment.Center
-	inst[2321].VerticalAlignment = Enum.VerticalAlignment.Top
+	inst[2321].VerticalAlignment = Enum.VerticalAlignment.Center
 	inst[2321].SortOrder = Enum.SortOrder.LayoutOrder
 	inst[2321].Parent = inst[2320]
 	inst[2322] = Instance.new('UIPadding')
@@ -32635,7 +32635,7 @@ local function buildUI()
 	inst[2326].Parent = inst[2324]
 	inst[2327] = Instance.new('CanvasGroup')
 	inst[2327].Name = 'badge_container'
-	inst[2327].Visible = true
+	inst[2327].Visible = false
 	inst[2327].Size = UDim2.new(0, 20, 0, 20)
 	inst[2327].Position = UDim2.new(1, 0, 0.5, 0)
 	inst[2327].AnchorPoint = Vector2.new(1, 0.5)
@@ -32729,7 +32729,7 @@ local function buildUI()
 	inst[2331].Padding = UDim.new(0, 10)
 	inst[2331].FillDirection = Enum.FillDirection.Horizontal
 	inst[2331].HorizontalAlignment = Enum.HorizontalAlignment.Center
-	inst[2331].VerticalAlignment = Enum.VerticalAlignment.Top
+	inst[2331].VerticalAlignment = Enum.VerticalAlignment.Center
 	inst[2331].SortOrder = Enum.SortOrder.LayoutOrder
 	inst[2331].Parent = inst[2330]
 	inst[2332] = Instance.new('UIPadding')
@@ -32842,7 +32842,7 @@ local function buildUI()
 	inst[2339].Padding = UDim.new(0, 10)
 	inst[2339].FillDirection = Enum.FillDirection.Horizontal
 	inst[2339].HorizontalAlignment = Enum.HorizontalAlignment.Center
-	inst[2339].VerticalAlignment = Enum.VerticalAlignment.Top
+	inst[2339].VerticalAlignment = Enum.VerticalAlignment.Center
 	inst[2339].SortOrder = Enum.SortOrder.LayoutOrder
 	inst[2339].Parent = inst[2338]
 	inst[2340] = Instance.new('UIPadding')
@@ -32902,7 +32902,7 @@ local function buildUI()
 	inst[2344].Parent = inst[2342]
 	inst[2345] = Instance.new('CanvasGroup')
 	inst[2345].Name = 'badge_container'
-	inst[2345].Visible = true
+	inst[2345].Visible = false
 	inst[2345].Size = UDim2.new(0, 20, 0, 20)
 	inst[2345].Position = UDim2.new(1, 0, 0.5, 0)
 	inst[2345].AnchorPoint = Vector2.new(1, 0.5)
@@ -33026,7 +33026,7 @@ local function buildUI()
 	inst[2353].Padding = UDim.new(0, 10)
 	inst[2353].FillDirection = Enum.FillDirection.Horizontal
 	inst[2353].HorizontalAlignment = Enum.HorizontalAlignment.Center
-	inst[2353].VerticalAlignment = Enum.VerticalAlignment.Top
+	inst[2353].VerticalAlignment = Enum.VerticalAlignment.Center
 	inst[2353].SortOrder = Enum.SortOrder.LayoutOrder
 	inst[2353].Parent = inst[2352]
 	inst[2354] = Instance.new('UIPadding')
@@ -33090,7 +33090,7 @@ local function buildUI()
 	inst[2358].Parent = inst[2356]
 	inst[2359] = Instance.new('CanvasGroup')
 	inst[2359].Name = 'badge_container'
-	inst[2359].Visible = true
+	inst[2359].Visible = false
 	inst[2359].Size = UDim2.new(0, 20, 0, 20)
 	inst[2359].Position = UDim2.new(1, 0, 0.5, 0)
 	inst[2359].AnchorPoint = Vector2.new(1, 0.5)
