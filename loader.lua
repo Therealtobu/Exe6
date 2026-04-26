@@ -52765,23 +52765,51 @@ local function buildUI()
 	end
 	_build26()
 
-	-- Fix: Add UISizeConstraint to main_frame (missing from loader generation)
-	local _sc = Instance.new('UISizeConstraint')
-	_sc.Name = 'size_constraint'
-	_sc.MinSize = Vector2.new(600, 400)
-	_sc.MaxSize = Vector2.new(math.huge, math.huge)
-	_sc.Parent = inst[2249]
+	-- Platform detection
+	local UserInputService = game:GetService('UserInputService')
+	local isMobile = UserInputService.TouchEnabled and not UserInputService.KeyboardEnabled
 
-	-- Fix: Auto-scale UI to fit smaller screens (mobile support)
-	local function _updateScale()
-		local vp = workspace.CurrentCamera.ViewportSize
-		local scaleX = vp.X / 900
-		local scaleY = vp.Y / 500
-		local scale = math.min(scaleX, scaleY, 1)
-		inst[2].Scale = scale
+	-- Remove the built-in UISizeConstraint (inst[3737]) so we can handle it per-platform
+	if inst[3737] then
+		inst[3737]:Destroy()
 	end
-	_updateScale()
-	workspace.CurrentCamera:GetPropertyChangedSignal('ViewportSize'):Connect(_updateScale)
+
+	if isMobile then
+		-- ── MOBILE: full screen, no window controls ──────────────────────────
+		-- Hide drag / resize / window control overlay
+		inst[3722].Visible = false   -- window_controls (drag + resize handle)
+		inst[3707].Visible = false   -- fullscreen toggle button in title bar
+
+		-- Make main_frame fill the whole screen (no windowed offset)
+		inst[2249].Size     = UDim2.new(1, 0, 1, 0)
+		inst[2249].Position = UDim2.new(0, 0, 0, 0)
+		inst[2249].AnchorPoint = Vector2.new(0, 0)
+
+		-- No minimum size constraint on mobile
+		inst[2].Scale = 1
+	else
+		-- ── PC: windowed with drag / resize controls ──────────────────────────
+		inst[3722].Visible = true   -- window_controls
+		inst[3707].Visible = true   -- fullscreen button
+
+		-- Add a single UISizeConstraint so the window never shrinks below 600×400
+		local _sc = Instance.new('UISizeConstraint')
+		_sc.Name = 'size_constraint'
+		_sc.MinSize = Vector2.new(600, 400)
+		_sc.MaxSize = Vector2.new(math.huge, math.huge)
+		_sc.Parent = inst[2249]
+
+		-- Auto-scale if the PC viewport is smaller than the reference resolution
+		local function _updateScale()
+			local vp = workspace.CurrentCamera.ViewportSize
+			local scaleX = vp.X / 900
+			local scaleY = vp.Y / 500
+			local scale  = math.min(scaleX, scaleY, 1)
+			inst[2].Scale = scale
+		end
+		_updateScale()
+		workspace.CurrentCamera:GetPropertyChangedSignal('ViewportSize'):Connect(_updateScale)
+	end
 
 	inst[1].Parent = playerGui
 end
